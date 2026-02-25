@@ -1,0 +1,80 @@
+sections:
+  - name: 🔥 头条
+    items:
+      - type: alert
+        level: breaking
+        title: 示例突发新闻标题
+        summary: 这是一条突发新闻快讯示例，会以醒目的红色样式显示。
+        time: "07:00"
+
+      - title: 示例头条新闻标题
+        summary: 这是一条示例新闻摘要，AI 会在这里填入当日最重要的新闻内容。支持较长的文字描述以便读者快速了解事件全貌。
+        source: 示例来源
+        time: "08:30"
+        tag: 重要
+        url: https://example.com
+
+      - type: quote
+        quote: 这是一条示例引语，展示报纸中常见的名人名言或重要发言。
+        author: 张三
+        role: 某公司 CEO
+        source: 经济日报
+
+  - name: 💻 科技
+    items:
+      - title: 科技新闻示例标题一
+        summary: 科技领域的最新动态，包括 AI、芯片、软件开发等方向的重要进展。
+        source: TechCrunch
+        time: "09:15"
+        tag: AI
+
+      - title: 科技新闻示例标题二
+        summary: 另一条科技相关的新闻摘要。
+        source: The Verge
+        time: "10:00"
+        tag: 硬件
+
+      - type: list
+        title: 本周科技要点
+        points:
+          - OpenAI 发布新一代推理模型
+          - 台积电 2nm 工艺量产时间表确认
+          - 欧盟通过新 AI 监管法案草案
+        source: 综合报道
+
+  - name: 💰 财经
+    items:
+      - type: stats
+        title: 今日市场数据
+        metrics:
+          - label: 上证指数
+            value: "3,245.68"
+            change: "+1.2%"
+          - label: 深证成指
+            value: "10,892.35"
+            change: "-0.3%"
+          - label: 美元/人民币
+            value: "7.2134"
+            change: "+0.05%"
+          - label: 黄金
+            value: "$2,645"
+            change: "+0.8%"
+
+      - title: 财经新闻示例
+        summary: 市场行情、经济政策等相关新闻。
+        source: Bloomberg
+        time: "08:00"
+        tag: 市场
+
+  - name: 🌍 国际
+    items:
+      - type: alert
+        level: urgent
+        title: 紧急消息示例
+        summary: 这是紧急级别的快讯，以橙色样式显示。
+
+      - title: 国际新闻示例
+        summary: 国际局势相关的新闻摘要。
+        source: Reuters
+        time: "07:45"
+        tag: 政治
