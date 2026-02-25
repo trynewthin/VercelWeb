@@ -2,95 +2,67 @@ sections:
   - name: 🔥 头条
     items:
       - type: alert
-        level: breaking
-        title: 特朗普国情咨文创纪录，贸易与伊朗议题升温
-        summary: 国情咨文时长创纪录，关税与地缘安全信号引发市场关注。
-        time: "09:45"
+        level: info
+        title: 昨日重点新闻速递（2026-02-25）
+        summary: 基于 RSS 与联网模型自动整理。
+        time: "07:00"
 
-      - title: 特朗普发表2026年国情咨文，并就伊朗核问题发出警告
-        summary: 据美媒与中文媒体报道，特朗普在国会发表超长演讲，强调经济与边境政策，并称不允许伊朗拥有核武器。
-        source: 美国之音
-        time: "09:45"
-        tag: 国际
-        url: https://www.voachinese.com/a/president-trump-says-iran-pursuing-nuclear-ambitions-despite-warnings-reveals-regime-building-missiles-that-will-soon-reach-the-us-20260224/8117440.html
+      - title: "NASA Study to Analyze Fermented Food Samples from Space"
+        summary: "Certain nutrients critical for human health lack the shelf life needed to span multi-year missions to the Moon, Mars, an"
+        source: "NASA"
+        time: "23:58"
+        tag: "国际"
+        url: https://www.nasa.gov/general/nasa-study-to-analyze-fermented-food-samples-from-space/
 
-      - type: quote
-        quote: 深度模型适合做研究与验证，快模型适合高频迭代与快速交付。
-        author: 编辑部
-        role: Daily News 自动摘要
-        source: 内部整理
+      - title: "Watch: Moment a sinkhole in Omaha traps cars and drivers"
+        summary: "Several witnesses jumped into action helping both drivers get to safety while others directed traffic, according to poli"
+        source: "BBC News"
+        time: "23:50"
+        tag: "国际"
+        url: https://www.bbc.com/news/videos/c2k8nvy77jqo?at_medium=RSS&at_campaign=rss
+
+      - title: "UK records warmest day of the year as temperatures climb above 18C"
+        summary: "After a relentlessly wet start to the year the UK has recorded its warmest day of the year as many places bask in the la"
+        source: "BBC News"
+        time: "23:48"
+        tag: "国际"
+        url: https://www.bbc.com/weather/articles/cedzvwe1nn5o?at_medium=RSS&at_campaign=rss
 
   - name: 💻 科技
     items:
-      - title: Meta 的 AI 审核系统被批“低质量举报泛滥”
-        summary: 报道称相关自动化举报质量偏低，挤占执法资源并拖慢案件处理效率。
-        source: The Guardian
-        time: "16:20"
-        tag: AI治理
-        url: https://www.theguardian.com/technology/2026/feb/25/meta-ai-junk-child-abuse-tips-doj
+      - title: "Starmer promises to look at making student loans 'fairer'"
+        summary: "Conservative leader Kemi Badenoch said the system had become a \"debt trap\" for graduates."
+        source: "BBC News"
+        time: "23:30"
+        tag: "科技"
+        url: https://www.bbc.com/news/articles/c23z744k7kro?at_medium=RSS&at_campaign=rss
 
-      - title: AMD 与 Meta 达成大规模 AI 芯片合作（待验证）
-        summary: 网络检索结果显示双方达成多年期 GPU 合作，市场将其视为 AI 基建继续扩张信号。
-        source: 新浪财经
-        time: "06:30"
-        tag: 芯片
-        url: https://finance.sina.com.cn/stock/usstock/c/2026-02-25/doc-inhnyixw8300944.shtml
+      - title: "Nobody believed that Putin would invade Ukraine. Four years on, has Europe learned from the failures of 2022?"
+        summary: "I looked back to discover the untold story of how western intelligence was misread, even in Kyiv. The conclusion offers "
+        source: "World news | The Guardian"
+        time: "23:30"
+        tag: "科技"
+        url: https://www.theguardian.com/world/2026/feb/25/nobody-believed-that-putin-would-invade-ukraine-four-years-on-has-europe-learned-from-the-failures-of-2022
 
-      - type: list
-        title: 今日科技要点
-        points:
-          - AI 监管与内容治理继续成为全球平台焦点
-          - 算力供给与大模型推理成本仍是产业主线
-          - 研究型模型与快速模型分工正在清晰化
-        source: RSS + 联网模型综合
+      - title: "Zimbabwe rejects 'lopsided' US health aid deal over data concerns"
+        summary: "Access to biological samples raised flags for Zimbabwe as the US did not want to share the benefits of its research."
+        source: "BBC News"
+        time: "23:25"
+        tag: "科技"
+        url: https://www.bbc.com/news/articles/cwy6nd3664no?at_medium=RSS&at_campaign=rss
 
   - name: 💰 财经
     items:
-      - title: John Lewis 终止约5亿英镑租赁住房项目
-        summary: 报道称因经济条件变化与融资困难，零售集团终止大型地产合作计划。
-        source: The Guardian
-        time: "17:00"
-        tag: 欧洲经济
-        url: https://www.theguardian.com/business/2026/feb/25/john-lewis-scraps-deal-build-1000-rental-homes
+      - title: "Uefa rejects Benfica appeal over Prestianni ban"
+        summary: "Gianluca Prestianni will miss the second leg of Benfica's Champions League tie against Real Madrid after Uefa reject the"
+        source: "BBC News"
+        time: "23:16"
+        tag: "财经"
+        url: https://www.bbc.com/sport/football/articles/clygxwzvy1eo?at_medium=RSS&at_campaign=rss
 
-      - title: 美股反弹，芯片与软件股领涨（待验证）
-        summary: 联网模型给出的财经线索显示，AI 相关板块带动美股主要指数回升。
-        source: 新浪财经
-        time: "07:10"
-        tag: 美股
-        url: https://finance.sina.com.cn/headline/2026-02-25/doc-inhnyqfy2470503.shtml
-
-      - type: stats
-        title: 市场观察（定性）
-        metrics:
-          - label: AI算力需求
-            value: "持续高位"
-            change: "+"
-          - label: 科技股风险偏好
-            value: "阶段修复"
-            change: "+"
-          - label: 地缘不确定性
-            value: "仍偏高"
-            change: "-"
-
-  - name: 🌍 国际
-    items:
-      - title: 德国总理就贸易失衡与对华竞争发声
-        summary: 报道称德国方面强调贸易平衡与出口管制议题，欧洲对华经贸讨论持续升温。
-        source: BBC News
-        time: "15:40"
-        tag: 欧洲
-        url: https://www.bbc.com/news/articles/c5yjpke8072o?at_medium=RSS&at_campaign=rss
-
-      - title: 冰岛拟在未来几年就欧盟入盟谈判举行公投
-        summary: 欧洲政治版图与能源安全议题背景下，冰岛对欧盟关系再度进入政策讨论窗口。
-        source: The Guardian
-        time: "18:10"
-        tag: 欧盟
-        url: https://www.theguardian.com/world/live/2026/feb/25/ukraine-russia-zelenskyy-putin-orban-eu-hungary-sanctions-germany-china-merz-jinping-continues-europe-latest-news
-
-      - type: alert
-        level: info
-        title: NASA 发布“行星连珠”相关内容
-        summary: NASA 介绍本月可观测行星现象并发布配套科普内容。
-        time: "20:00"
+      - title: "Trump keeps world waiting on his plans for Iran after State of the Union"
+        summary: "The next round of talks between the US and Iran in Geneva on Thursday could be decisive in the president's decision-maki"
+        source: "BBC News"
+        time: "23:16"
+        tag: "财经"
+        url: https://www.bbc.com/news/articles/cge821xwyz8o?at_medium=RSS&at_campaign=rss
