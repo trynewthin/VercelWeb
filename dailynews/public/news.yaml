@@ -7,22 +7,22 @@ sections:
         summary: 基于 RSS 与联网模型自动整理。
         time: "07:00"
 
-      - title: "NASA Study to Analyze Fermented Food Samples from Space"
-        summary: "Certain nutrients critical for human health lack the shelf life needed to span multi-year missions to the Moon, Mars, an"
+      - title: "NASA研究分析太空发酵食品样本"
+        summary: "NASA开展BioNutrients-3实验，针对长期月球、火星任务中关键营养素保质期不足的问题，分析太空发酵食品样本。"
         source: "NASA"
         time: "23:58"
         tag: "国际"
         url: https://www.nasa.gov/general/nasa-study-to-analyze-fermented-food-samples-from-space/
 
-      - title: "Watch: Moment a sinkhole in Omaha traps cars and drivers"
-        summary: "Several witnesses jumped into action helping both drivers get to safety while others directed traffic, according to poli"
+      - title: "美国奥马哈突发天坑 汽车连人被困"
+        summary: "奥马哈一处天坑突然出现，多辆汽车及司机被困。目击者迅速行动救助司机脱险，其他人协助指挥交通。"
         source: "BBC News"
         time: "23:50"
         tag: "国际"
         url: https://www.bbc.com/news/videos/c2k8nvy77jqo?at_medium=RSS&at_campaign=rss
 
-      - title: "UK records warmest day of the year as temperatures climb above 18C"
-        summary: "After a relentlessly wet start to the year the UK has recorded its warmest day of the year as many places bask in the la"
+      - title: "英国迎来今年最暖一天 气温超18℃"
+        summary: "在多雨开年后，英国多地迎来晚冬阳光，气温超过18℃，创下今年最高纪录。"
         source: "BBC News"
         time: "23:48"
         tag: "国际"
@@ -30,22 +30,22 @@ sections:
 
   - name: 💻 科技
     items:
-      - title: "Starmer promises to look at making student loans 'fairer'"
-        summary: "Conservative leader Kemi Badenoch said the system had become a \"debt trap\" for graduates."
+      - title: "斯塔默承诺审视学生贷款制度 使其更公平"
+        summary: "工党领袖斯塔默表示将研究改进学生贷款制度。保守党领袖巴德诺克批评现行体系已成为毕业生“债务陷阱”。"
         source: "BBC News"
         time: "23:30"
         tag: "科技"
         url: https://www.bbc.com/news/articles/c23z744k7kro?at_medium=RSS&at_campaign=rss
 
-      - title: "Nobody believed that Putin would invade Ukraine. Four years on, has Europe learned from the failures of 2022?"
-        summary: "I looked back to discover the untold story of how western intelligence was misread, even in Kyiv. The conclusion offers "
+      - title: "普京入侵乌克兰四年后 欧洲是否吸取2022年情报失误教训？"
+        summary: "回顾西方情报被误读甚至基辅也未重视的往事，四周年之际发出严峻警示：欧洲是否真正从失败中吸取教训。"
         source: "World news | The Guardian"
         time: "23:30"
         tag: "科技"
         url: https://www.theguardian.com/world/2026/feb/25/nobody-believed-that-putin-would-invade-ukraine-four-years-on-has-europe-learned-from-the-failures-of-2022
 
-      - title: "Zimbabwe rejects 'lopsided' US health aid deal over data concerns"
-        summary: "Access to biological samples raised flags for Zimbabwe as the US did not want to share the benefits of its research."
+      - title: "津巴布韦拒绝美国“不公平”卫生援助协议 担忧数据安全"
+        summary: "津巴布韦因美国不愿分享研究成果且要求获取生物样本而拒绝该援助协议，认为条件不公平。"
         source: "BBC News"
         time: "23:25"
         tag: "科技"
@@ -53,15 +53,15 @@ sections:
 
   - name: 💰 财经
     items:
-      - title: "Uefa rejects Benfica appeal over Prestianni ban"
-        summary: "Gianluca Prestianni will miss the second leg of Benfica's Champions League tie against Real Madrid after Uefa reject the"
+      - title: "欧足联驳回本菲卡上诉 普雷斯蒂安尼禁赛仍生效"
+        summary: "本菲卡对普雷斯蒂安尼禁赛的上诉被欧足联驳回，他将缺席欧冠对阵皇马的次回合比赛。"
         source: "BBC News"
         time: "23:16"
         tag: "财经"
         url: https://www.bbc.com/sport/football/articles/clygxwzvy1eo?at_medium=RSS&at_campaign=rss
 
-      - title: "Trump keeps world waiting on his plans for Iran after State of the Union"
-        summary: "The next round of talks between the US and Iran in Geneva on Thursday could be decisive in the president's decision-maki"
+      - title: "国情咨文后特朗普仍未明确对伊朗计划 全球关注"
+        summary: "特朗普在国情咨文后未透露对伊朗具体计划，周四美伊在日内瓦新一轮会谈或对其决策产生关键影响。"
         source: "BBC News"
         time: "23:16"
         tag: "财经"
