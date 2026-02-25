@@ -32,18 +32,82 @@ warn()  { echo -e "${YELLOW}⚠${NC} $1"; }
 fail()  { echo -e "${RED}✗${NC} $1"; exit 1; }
 step()  { echo -e "\n${DIM}──${NC} $1 ${DIM}──${NC}"; }
 
+# 兼容 Windows/Git Bash：兜底解析 node/npm
+resolve_bin() {
+  local name="$1"
+  if command -v "$name" >/dev/null 2>&1; then
+    command -v "$name"
+    return 0
+  fi
+
+  # Git Bash 常见位置
+  local candidates=(
+    "/c/Program Files/nodejs/${name}.exe"
+    "/c/Program Files/nodejs/${name}"
+    "/c/Program Files (x86)/nodejs/${name}.exe"
+    "/c/Program Files (x86)/nodejs/${name}"
+  )
+
+  for c in "${candidates[@]}"; do
+    if [ -x "$c" ]; then
+      echo "$c"
+      return 0
+    fi
+  done
+
+  # Windows fallback: query through where.exe
+  if command -v where.exe >/dev/null 2>&1; then
+    local win_path
+    win_path="$(where.exe "$name" 2>/dev/null | head -n 1 | tr -d '\r')"
+    if [ -n "$win_path" ]; then
+      echo "$win_path"
+      return 0
+    fi
+  fi
+
+  return 1
+}
+
+NODE_BIN="$(resolve_bin node || true)"
+NPM_BIN="$(resolve_bin npm || true)"
+
+[ -n "$NODE_BIN" ] || fail "未找到 node，可先在当前终端执行: node -v"
+
+run_node() {
+  if command -v node >/dev/null 2>&1; then
+    node "$@"
+    return $?
+  fi
+  if command -v cmd.exe >/dev/null 2>&1; then
+    cmd.exe /c node "$@"
+    return $?
+  fi
+  "$NODE_BIN" "$@"
+}
+
+run_npm() {
+  if command -v npm >/dev/null 2>&1; then
+    npm "$@"
+    return $?
+  fi
+  if command -v cmd.exe >/dev/null 2>&1; then
+    cmd.exe /c npm "$@"
+    return $?
+  fi
+  "$NPM_BIN" "$@"
+}
+
 # ── Step 1: YAML 校验 ──
 step "Step 1/4: YAML 格式校验"
 cd "$PROJECT_DIR"
-if node validate.mjs; then
-  info "校验通过"
+if run_node validate.mjs; then  info "校验通过"
 else
   fail "YAML 校验失败，请修正后重试"
 fi
 
 # ── Step 2: 构建检查 ──
 step "Step 2/4: TypeScript + Vite 构建"
-if npm run build > /dev/null 2>&1; then
+if run_npm run build > /dev/null 2>&1; then
   info "构建成功"
 else
   fail "构建失败，请修正后重试"

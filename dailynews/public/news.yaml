@@ -3,78 +3,94 @@ sections:
     items:
       - type: alert
         level: breaking
-        title: 示例突发新闻标题
-        summary: 这是一条突发新闻快讯示例，会以醒目的红色样式显示。
-        time: "07:00"
+        title: 特朗普国情咨文创纪录，贸易与伊朗议题升温
+        summary: 国情咨文时长创纪录，关税与地缘安全信号引发市场关注。
+        time: "09:45"
 
-      - title: 示例头条新闻标题
-        summary: 这是一条示例新闻摘要，AI 会在这里填入当日最重要的新闻内容。支持较长的文字描述以便读者快速了解事件全貌。
-        source: 示例来源
-        time: "08:30"
-        tag: 重要
-        url: https://example.com
+      - title: 特朗普发表2026年国情咨文，并就伊朗核问题发出警告
+        summary: 据美媒与中文媒体报道，特朗普在国会发表超长演讲，强调经济与边境政策，并称不允许伊朗拥有核武器。
+        source: 美国之音
+        time: "09:45"
+        tag: 国际
+        url: https://www.voachinese.com/a/president-trump-says-iran-pursuing-nuclear-ambitions-despite-warnings-reveals-regime-building-missiles-that-will-soon-reach-the-us-20260224/8117440.html
 
       - type: quote
-        quote: 这是一条示例引语，展示报纸中常见的名人名言或重要发言。
-        author: 张三
-        role: 某公司 CEO
-        source: 经济日报
+        quote: 深度模型适合做研究与验证，快模型适合高频迭代与快速交付。
+        author: 编辑部
+        role: Daily News 自动摘要
+        source: 内部整理
 
   - name: 💻 科技
     items:
-      - title: 科技新闻示例标题一
-        summary: 科技领域的最新动态，包括 AI、芯片、软件开发等方向的重要进展。
-        source: TechCrunch
-        time: "09:15"
-        tag: AI
+      - title: Meta 的 AI 审核系统被批“低质量举报泛滥”
+        summary: 报道称相关自动化举报质量偏低，挤占执法资源并拖慢案件处理效率。
+        source: The Guardian
+        time: "16:20"
+        tag: AI治理
+        url: https://www.theguardian.com/technology/2026/feb/25/meta-ai-junk-child-abuse-tips-doj
 
-      - title: 科技新闻示例标题二
-        summary: 另一条科技相关的新闻摘要。
-        source: The Verge
-        time: "10:00"
-        tag: 硬件
+      - title: AMD 与 Meta 达成大规模 AI 芯片合作（待验证）
+        summary: 网络检索结果显示双方达成多年期 GPU 合作，市场将其视为 AI 基建继续扩张信号。
+        source: 新浪财经
+        time: "06:30"
+        tag: 芯片
+        url: https://finance.sina.com.cn/stock/usstock/c/2026-02-25/doc-inhnyixw8300944.shtml
 
       - type: list
-        title: 本周科技要点
+        title: 今日科技要点
         points:
-          - OpenAI 发布新一代推理模型
-          - 台积电 2nm 工艺量产时间表确认
-          - 欧盟通过新 AI 监管法案草案
-        source: 综合报道
+          - AI 监管与内容治理继续成为全球平台焦点
+          - 算力供给与大模型推理成本仍是产业主线
+          - 研究型模型与快速模型分工正在清晰化
+        source: RSS + 联网模型综合
 
   - name: 💰 财经
     items:
-      - type: stats
-        title: 今日市场数据
-        metrics:
-          - label: 上证指数
-            value: "3,245.68"
-            change: "+1.2%"
-          - label: 深证成指
-            value: "10,892.35"
-            change: "-0.3%"
-          - label: 美元/人民币
-            value: "7.2134"
-            change: "+0.05%"
-          - label: 黄金
-            value: "$2,645"
-            change: "+0.8%"
+      - title: John Lewis 终止约5亿英镑租赁住房项目
+        summary: 报道称因经济条件变化与融资困难，零售集团终止大型地产合作计划。
+        source: The Guardian
+        time: "17:00"
+        tag: 欧洲经济
+        url: https://www.theguardian.com/business/2026/feb/25/john-lewis-scraps-deal-build-1000-rental-homes
 
-      - title: 财经新闻示例
-        summary: 市场行情、经济政策等相关新闻。
-        source: Bloomberg
-        time: "08:00"
-        tag: 市场
+      - title: 美股反弹，芯片与软件股领涨（待验证）
+        summary: 联网模型给出的财经线索显示，AI 相关板块带动美股主要指数回升。
+        source: 新浪财经
+        time: "07:10"
+        tag: 美股
+        url: https://finance.sina.com.cn/headline/2026-02-25/doc-inhnyqfy2470503.shtml
+
+      - type: stats
+        title: 市场观察（定性）
+        metrics:
+          - label: AI算力需求
+            value: "持续高位"
+            change: "+"
+          - label: 科技股风险偏好
+            value: "阶段修复"
+            change: "+"
+          - label: 地缘不确定性
+            value: "仍偏高"
+            change: "-"
 
   - name: 🌍 国际
     items:
-      - type: alert
-        level: urgent
-        title: 紧急消息示例
-        summary: 这是紧急级别的快讯，以橙色样式显示。
+      - title: 德国总理就贸易失衡与对华竞争发声
+        summary: 报道称德国方面强调贸易平衡与出口管制议题，欧洲对华经贸讨论持续升温。
+        source: BBC News
+        time: "15:40"
+        tag: 欧洲
+        url: https://www.bbc.com/news/articles/c5yjpke8072o?at_medium=RSS&at_campaign=rss
 
-      - title: 国际新闻示例
-        summary: 国际局势相关的新闻摘要。
-        source: Reuters
-        time: "07:45"
-        tag: 政治
+      - title: 冰岛拟在未来几年就欧盟入盟谈判举行公投
+        summary: 欧洲政治版图与能源安全议题背景下，冰岛对欧盟关系再度进入政策讨论窗口。
+        source: The Guardian
+        time: "18:10"
+        tag: 欧盟
+        url: https://www.theguardian.com/world/live/2026/feb/25/ukraine-russia-zelenskyy-putin-orban-eu-hungary-sanctions-germany-china-merz-jinping-continues-europe-latest-news
+
+      - type: alert
+        level: info
+        title: NASA 发布“行星连珠”相关内容
+        summary: NASA 介绍本月可观测行星现象并发布配套科普内容。
+        time: "20:00"
