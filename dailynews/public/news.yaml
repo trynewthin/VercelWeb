@@ -8,21 +8,21 @@ sections:
         time: "07:00"
 
       - title: "NASA研究分析太空发酵食品样本"
-        summary: "NASA开展BioNutrients-3实验，针对长期月球、火星任务中关键营养素保质期不足的问题，分析太空发酵食品样本。"
+        summary: "某些对人体健康至关重要的营养素保质期不足以支持前往月球、火星等多年的长期任务。NASA的BioNutrients-3实验正在太空开展发酵食品研究。"
         source: "NASA"
         time: "23:58"
         tag: "国际"
         url: https://www.nasa.gov/general/nasa-study-to-analyze-fermented-food-samples-from-space/
 
-      - title: "美国奥马哈突发天坑 汽车连人被困"
-        summary: "奥马哈一处天坑突然出现，多辆汽车及司机被困。目击者迅速行动救助司机脱险，其他人协助指挥交通。"
+      - title: "美国奥马哈天坑瞬间吞没多辆汽车及司机"
+        summary: "目击者迅速行动救助被困司机，另有人员协助指挥交通，警方表示现场救援及时有效。"
         source: "BBC News"
         time: "23:50"
         tag: "国际"
         url: https://www.bbc.com/news/videos/c2k8nvy77jqo?at_medium=RSS&at_campaign=rss
 
-      - title: "英国迎来今年最暖一天 气温超18℃"
-        summary: "在多雨开年后，英国多地迎来晚冬阳光，气温超过18℃，创下今年最高纪录。"
+      - title: "英国迎来今年最暖一天 气温突破18℃"
+        summary: "在今年开年持续阴雨后，英国多地迎来晚冬阳光，录得今年最高气温，超过18摄氏度。"
         source: "BBC News"
         time: "23:48"
         tag: "国际"
@@ -31,21 +31,21 @@ sections:
   - name: 💻 科技
     items:
       - title: "斯塔默承诺审视学生贷款制度 使其更公平"
-        summary: "工党领袖斯塔默表示将研究改进学生贷款制度。保守党领袖巴德诺克批评现行体系已成为毕业生“债务陷阱”。"
+        summary: "工党领袖斯塔默表示将研究改善学生贷款体系。保守党领袖巴德诺克批评现行制度已成为毕业生“债务陷阱”。"
         source: "BBC News"
         time: "23:30"
         tag: "科技"
         url: https://www.bbc.com/news/articles/c23z744k7kro?at_medium=RSS&at_campaign=rss
 
       - title: "普京入侵乌克兰四年后 欧洲是否吸取2022年情报失误教训？"
-        summary: "回顾西方情报被误读甚至基辅也未重视的往事，四周年之际发出严峻警示：欧洲是否真正从失败中吸取教训。"
+        summary: "回顾西方情报被误读的过程，甚至基辅也未能准确预判。四年后的今天，这一未公开故事为未来敲响警钟。"
         source: "World news | The Guardian"
         time: "23:30"
         tag: "科技"
         url: https://www.theguardian.com/world/2026/feb/25/nobody-believed-that-putin-would-invade-ukraine-four-years-on-has-europe-learned-from-the-failures-of-2022
 
-      - title: "津巴布韦拒绝美国“不公平”卫生援助协议 担忧数据安全"
-        summary: "津巴布韦因美国不愿分享研究成果且要求获取生物样本而拒绝该援助协议，认为条件不公平。"
+      - title: "津巴布韦拒绝美国“不对等”卫生援助协议 担忧数据问题"
+        summary: "津巴布韦对美方获取生物样本但不愿分享研究成果的条件表示反对，拒绝签署该援助协议。"
         source: "BBC News"
         time: "23:25"
         tag: "科技"
@@ -53,15 +53,15 @@ sections:
 
   - name: 💰 财经
     items:
-      - title: "欧足联驳回本菲卡上诉 普雷斯蒂安尼禁赛仍生效"
-        summary: "本菲卡对普雷斯蒂安尼禁赛的上诉被欧足联驳回，他将缺席欧冠对阵皇马的次回合比赛。"
+      - title: "欧足联驳回本菲卡上诉 普雷斯蒂安尼禁赛维持"
+        summary: "本菲卡球员吉安卢卡·普雷斯蒂安尼将继续停赛，将缺席欧冠对阵皇马的次回合比赛，欧足联维持原判。"
         source: "BBC News"
         time: "23:16"
         tag: "财经"
         url: https://www.bbc.com/sport/football/articles/clygxwzvy1eo?at_medium=RSS&at_campaign=rss
 
-      - title: "国情咨文后特朗普仍未明确对伊朗计划 全球关注"
-        summary: "特朗普在国情咨文后未透露对伊朗具体计划，周四美伊在日内瓦新一轮会谈或对其决策产生关键影响。"
+      - title: "国情咨文后特朗普仍未明确对伊政策 全球持续关注"
+        summary: "周四美伊在日内瓦的新一轮谈判或将决定特朗普总统的对伊最终决策，国际社会密切关注。"
         source: "BBC News"
         time: "23:16"
         tag: "财经"
