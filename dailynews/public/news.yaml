@@ -3,66 +3,138 @@ sections:
     items:
       - type: alert
         level: info
-        title: 昨日重点新闻速递（2026-02-25）
-        summary: 基于 RSS 与联网模型自动整理。
+        title: 昨日重点新闻速递（2026-02-26）
+        summary: 基于 RSS 自动抓取，已做主题去重与中文化整理。
         time: "07:00"
 
-      - title: "NASA研究分析太空发酵食品样本"
-        summary: "某些对人体健康至关重要的营养素保质期不足以支持前往月球、火星等多年的长期任务。NASA的BioNutrients-3实验正在太空开展发酵食品研究。"
-        source: "NASA"
+      - title: "美国称至少10名与特朗普机密文件调查相关的FBI人员被解雇"
+        summary: "报道指相关人员均参与了对特朗普在首个任期后处理机密文件的调查；事件引发外界对执法与政治压力的讨论。"
+        source: "BBC News"
         time: "23:58"
         tag: "国际"
-        url: https://www.nasa.gov/general/nasa-study-to-analyze-fermented-food-samples-from-space/
+        url: https://www.bbc.com/news/articles/c4gq7vdld80o?at_medium=RSS&at_campaign=rss
 
-      - title: "美国奥马哈天坑瞬间吞没多辆汽车及司机"
-        summary: "目击者迅速行动救助被困司机，另有人员协助指挥交通，警方表示现场救援及时有效。"
+      - title: "德国法院就‘极端主义’标签作出临时禁令，德国选择党称其为胜利"
+        summary: "报道指该裁定为临时措施；德国选择党领导人称之为重大胜利，相关争议仍将持续发酵。"
         source: "BBC News"
-        time: "23:50"
+        time: "23:52"
         tag: "国际"
-        url: https://www.bbc.com/news/videos/c2k8nvy77jqo?at_medium=RSS&at_campaign=rss
+        url: https://www.bbc.com/news/articles/clyg10ek7r7o?at_medium=RSS&at_campaign=rss
 
-      - title: "英国迎来今年最暖一天 气温突破18℃"
-        summary: "在今年开年持续阴雨后，英国多地迎来晚冬阳光，录得今年最高气温，超过18摄氏度。"
+      - title: "丹麦首相宣布提前举行大选，格陵兰议题成焦点"
+        summary: "报道指美国总统特朗普提出‘吞并格陵兰’的言论使该议题在丹麦国内政治中升温，选战预计将围绕主权与安全展开。"
         source: "BBC News"
-        time: "23:48"
+        time: "23:45"
         tag: "国际"
-        url: https://www.bbc.com/weather/articles/cedzvwe1nn5o?at_medium=RSS&at_campaign=rss
+        url: https://www.bbc.com/news/articles/ckg3e63jwj8o?at_medium=RSS&at_campaign=rss
+
+      - title: "俄乌交换逾千具士兵遗体，谈判仍在进行"
+        summary: "报道称俄罗斯与乌克兰进行了大规模遗体交换；同日乌方谈判代表在日内瓦与美方特使会面。"
+        source: "BBC News"
+        time: "23:38"
+        tag: "国际"
+        url: https://www.bbc.com/news/articles/cg7ed4rp7x5o?at_medium=RSS&at_campaign=rss
 
   - name: 💻 科技
     items:
-      - title: "斯塔默承诺审视学生贷款制度 使其更公平"
-        summary: "工党领袖斯塔默表示将研究改善学生贷款体系。保守党领袖巴德诺克批评现行制度已成为毕业生“债务陷阱”。"
+      - title: "Instagram将向家长发出提醒：青少年频繁搜索自残/自杀相关词条"
+        summary: "Meta 将在部分国家先行推送：当青少年短时间内反复搜索自残、自杀相关内容时，家长将收到提醒并附带支持资源。多家公益机构担忧此举可能引发恐慌、并未触及平台推荐机制等核心问题。"
         source: "BBC News"
         time: "23:30"
         tag: "科技"
-        url: https://www.bbc.com/news/articles/c23z744k7kro?at_medium=RSS&at_campaign=rss
+        url: https://www.bbc.com/news/articles/c3v7z5eyewko?at_medium=RSS&at_campaign=rss
 
-      - title: "普京入侵乌克兰四年后 欧洲是否吸取2022年情报失误教训？"
-        summary: "回顾西方情报被误读的过程，甚至基辅也未能准确预判。四年后的今天，这一未公开故事为未来敲响警钟。"
-        source: "World news | The Guardian"
-        time: "23:30"
+      - title: "联合国通报：预警系统拦截可用于制造芬太尼的化学品，潜在可产16亿致命剂量"
+        summary: "联合国麻醉品管制机构称，一套国际预警机制阻止了一批关键前体化学品运输，凸显合成阿片类毒品供应链治理的重要性。"
+        source: "UN News"
+        time: "23:20"
         tag: "科技"
-        url: https://www.theguardian.com/world/2026/feb/25/nobody-believed-that-putin-would-invade-ukraine-four-years-on-has-europe-learned-from-the-failures-of-2022
+        url: https://news.un.org/feed/view/en/story/2026/02/1167039
 
-      - title: "津巴布韦拒绝美国“不对等”卫生援助协议 担忧数据问题"
-        summary: "津巴布韦对美方获取生物样本但不愿分享研究成果的条件表示反对，拒绝签署该援助协议。"
+      - title: "NASA：ESCAPADE任务准备就绪，将研究太阳风如何影响火星大气"
+        summary: "NASA 介绍 ESCAPADE 任务将从地球到火星的空间环境入手，研究太阳风与火星大气相互作用，帮助解释火星从‘温暖湿润’走向稀薄大气的过程。"
+        source: "NASA"
+        time: "23:10"
+        tag: "科学"
+        url: https://science.nasa.gov/science-research/heliophysics/nasas-escapade-ready-to-study-space-weather-from-earth-to-mars/
+
+      - title: "NASA将举行发布会讨论阿尔忒弥斯登月计划后续步骤"
+        summary: "NASA 表示将在肯尼迪航天中心召开新闻发布会，通报 Artemis II SLS/Orion 回到总装大楼后的下一步安排与计划进展。"
+        source: "NASA"
+        time: "23:05"
+        tag: "科学"
+        url: https://www.nasa.gov/news-release/nasa-invites-media-to-discuss-next-steps-for-artemis-campaign/
+
+      - title: "研究指出：面向健康场景的聊天机器人在紧急情况识别上存在明显缺陷"
+        summary: "报道援引研究称，在需要建议就医的情况下，相关系统有相当比例未能给出明确的就医提示，引发对‘AI 健康咨询’边界与监管的讨论。"
+        source: "The Guardian"
+        time: "23:00"
+        tag: "科技"
+        url: https://www.theguardian.com/technology/2026/feb/26/chatgpt-health-fails-recognise-medical-emergencies
+
+      - title: "报道：部分企业员工正在‘训练AI替代自己’，并担忧价值被稀释"
+        summary: "报道采访称，一些员工被要求把工作流程、知识与模板输入系统以训练自动化工具；有人认为效率提升明显，也有人担心岗位与议价能力被削弱。"
+        source: "The Guardian"
+        time: "22:55"
+        tag: "科技"
+        url: https://www.theguardian.com/technology/2026/feb/26/workers-training-ai-to-do-their-jobs
+
+  - name: 🌍 国际
+    items:
+      - title: "世界经济论坛负责人在与爱泼斯坦往来审查后辞职"
+        summary: "报道称论坛负责人承认曾与爱泼斯坦有沟通，但表示不知其犯罪背景；相关审查引发机构治理与声誉风险讨论。"
         source: "BBC News"
-        time: "23:25"
-        tag: "科技"
-        url: https://www.bbc.com/news/articles/cwy6nd3664no?at_medium=RSS&at_campaign=rss
+        time: "22:40"
+        tag: "国际"
+        url: https://www.bbc.com/news/articles/cr5lq9ll15jo?at_medium=RSS&at_campaign=rss
+
+      - title: "希腊‘水门事件’间谍软件丑闻：多人被定罪"
+        summary: "报道指与‘Predator’监控软件相关的案件中，法院裁定数名涉案人员有罪；此前该软件被指用于监控政界与媒体等多人。"
+        source: "BBC News"
+        time: "22:30"
+        tag: "国际"
+        url: https://www.bbc.com/news/articles/cj6dx4886rpo?at_medium=RSS&at_campaign=rss
+
+      - title: "联合国人权高专呼吁阿富汗与巴基斯坦对话，谴责对女性权利的持续压迫"
+        summary: "联合国人权事务高级专员呼吁通过对话缓和边境冲突，同时指出阿富汗当局对女性权利的限制愈发严苛。"
+        source: "UN News"
+        time: "22:20"
+        tag: "国际"
+        url: https://news.un.org/feed/view/en/story/2026/02/1167040
+
+      - title: "乌干达两名女性因疑似公开接吻被捕，引发对LGBTQ法律争议"
+        summary: "报道指两名女性在乌干达被以‘同性活动’相关指控拘留；当地严格法律引发人权团体持续批评。"
+        source: "The Guardian"
+        time: "22:10"
+        tag: "国际"
+        url: https://www.theguardian.com/global-development/2026/feb/26/women-arrested-uganda-kissing-public-lgbtq-laws
+
+      - title: "考古研究提出：人类‘书写/记录思想’的证据可能比既往认为早4万年"
+        summary: "BBC 报道称研究者在史前遗物上发现可能代表‘有意记录’的符号痕迹，或将改写对早期人类表达与传播方式的时间线判断。"
+        source: "BBC News"
+        time: "22:00"
+        tag: "科学"
+        url: https://www.bbc.com/news/articles/cvgknj7yyv2o?at_medium=RSS&at_campaign=rss
 
   - name: 💰 财经
     items:
-      - title: "欧足联驳回本菲卡上诉 普雷斯蒂安尼禁赛维持"
-        summary: "本菲卡球员吉安卢卡·普雷斯蒂安尼将继续停赛，将缺席欧冠对阵皇马的次回合比赛，欧足联维持原判。"
-        source: "BBC News"
-        time: "23:16"
+      - title: "英国街头露宿人数创纪录：官方统计显示单夜约4,793人露宿"
+        summary: "英国官方统计显示露宿人数同比上升；报道指出住房与社会救助压力仍在，相关问题引发多方关注。"
+        source: "The Guardian"
+        time: "21:40"
         tag: "财经"
-        url: https://www.bbc.com/sport/football/articles/clygxwzvy1eo?at_medium=RSS&at_campaign=rss
+        url: https://www.theguardian.com/society/2026/feb/26/record-number-of-rough-sleepers-in-england-last-year-official-figures-show
 
-      - title: "国情咨文后特朗普仍未明确对伊政策 全球持续关注"
-        summary: "周四美伊在日内瓦的新一轮谈判或将决定特朗普总统的对伊最终决策，国际社会密切关注。"
+      - title: "英国地热供能项目计划为1万户供暖，并有望产出关键矿物锂"
+        summary: "BBC 报道称通过深层岩石加热的地热水提供可再生能源，同时可能形成英国首个国内锂供应来源。"
         source: "BBC News"
-        time: "23:16"
+        time: "21:30"
         tag: "财经"
-        url: https://www.bbc.com/news/articles/cge821xwyz8o?at_medium=RSS&at_campaign=rss
+        url: https://www.bbc.com/news/articles/cewzg77k721o?at_medium=RSS&at_campaign=rss
+
+      - title: "移民执法机构ICE快速扩招引发审查压力：内部邮件提示背景核查可能延迟"
+        summary: "报道称在人员扩张背景下，审查与纪律流程面临挑战；机构需在扩编效率与合规风控之间权衡。"
+        source: "The Guardian"
+        time: "21:20"
+        tag: "财经"
+        url: https://www.theguardian.com/us-news/2026/feb/26/trump-ice-hiring-surge
