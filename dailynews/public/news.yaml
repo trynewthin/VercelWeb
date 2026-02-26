@@ -3,138 +3,185 @@ sections:
     items:
       - type: alert
         level: info
-        title: 昨日重点新闻速递（2026-02-26）
-        summary: 基于 RSS 自动抓取，已做主题去重与中文化整理。
+        title: 昨日重点新闻速递（2026-02-26）/今日自动整理
+        summary: 基于 RSS 在近24小时内的更新自动抓取，已做主题去重与中文化整理；同一事件多来源仅保留信息量更高者。
         time: "07:00"
 
-      - title: "美国称至少10名与特朗普机密文件调查相关的FBI人员被解雇"
-        summary: "报道指相关人员均参与了对特朗普在首个任期后处理机密文件的调查；事件引发外界对执法与政治压力的讨论。"
-        source: "BBC News"
-        time: "23:58"
-        tag: "国际"
-        url: https://www.bbc.com/news/articles/c4gq7vdld80o?at_medium=RSS&at_campaign=rss
-
-      - title: "德国法院就‘极端主义’标签作出临时禁令，德国选择党称其为胜利"
-        summary: "报道指该裁定为临时措施；德国选择党领导人称之为重大胜利，相关争议仍将持续发酵。"
-        source: "BBC News"
-        time: "23:52"
-        tag: "国际"
-        url: https://www.bbc.com/news/articles/clyg10ek7r7o?at_medium=RSS&at_campaign=rss
-
-      - title: "丹麦首相宣布提前举行大选，格陵兰议题成焦点"
-        summary: "报道指美国总统特朗普提出‘吞并格陵兰’的言论使该议题在丹麦国内政治中升温，选战预计将围绕主权与安全展开。"
-        source: "BBC News"
-        time: "23:45"
-        tag: "国际"
-        url: https://www.bbc.com/news/articles/ckg3e63jwj8o?at_medium=RSS&at_campaign=rss
-
-      - title: "俄乌交换逾千具士兵遗体，谈判仍在进行"
-        summary: "报道称俄罗斯与乌克兰进行了大规模遗体交换；同日乌方谈判代表在日内瓦与美方特使会面。"
-        source: "BBC News"
-        time: "23:38"
-        tag: "国际"
-        url: https://www.bbc.com/news/articles/cg7ed4rp7x5o?at_medium=RSS&at_campaign=rss
-
-  - name: 💻 科技
-    items:
-      - title: "Instagram将向家长发出提醒：青少年频繁搜索自残/自杀相关词条"
-        summary: "Meta 将在部分国家先行推送：当青少年短时间内反复搜索自残、自杀相关内容时，家长将收到提醒并附带支持资源。多家公益机构担忧此举可能引发恐慌、并未触及平台推荐机制等核心问题。"
-        source: "BBC News"
-        time: "23:30"
-        tag: "科技"
-        url: https://www.bbc.com/news/articles/c3v7z5eyewko?at_medium=RSS&at_campaign=rss
-
-      - title: "联合国通报：预警系统拦截可用于制造芬太尼的化学品，潜在可产16亿致命剂量"
-        summary: "联合国麻醉品管制机构称，一套国际预警机制阻止了一批关键前体化学品运输，凸显合成阿片类毒品供应链治理的重要性。"
-        source: "UN News"
-        time: "23:20"
-        tag: "科技"
-        url: https://news.un.org/feed/view/en/story/2026/02/1167039
-
-      - title: "NASA：ESCAPADE任务准备就绪，将研究太阳风如何影响火星大气"
-        summary: "NASA 介绍 ESCAPADE 任务将从地球到火星的空间环境入手，研究太阳风与火星大气相互作用，帮助解释火星从‘温暖湿润’走向稀薄大气的过程。"
-        source: "NASA"
-        time: "23:10"
-        tag: "科学"
-        url: https://science.nasa.gov/science-research/heliophysics/nasas-escapade-ready-to-study-space-weather-from-earth-to-mars/
-
-      - title: "NASA将举行发布会讨论阿尔忒弥斯登月计划后续步骤"
-        summary: "NASA 表示将在肯尼迪航天中心召开新闻发布会，通报 Artemis II SLS/Orion 回到总装大楼后的下一步安排与计划进展。"
-        source: "NASA"
-        time: "23:05"
-        tag: "科学"
-        url: https://www.nasa.gov/news-release/nasa-invites-media-to-discuss-next-steps-for-artemis-campaign/
-
-      - title: "研究指出：面向健康场景的聊天机器人在紧急情况识别上存在明显缺陷"
-        summary: "报道援引研究称，在需要建议就医的情况下，相关系统有相当比例未能给出明确的就医提示，引发对‘AI 健康咨询’边界与监管的讨论。"
+      - title: "美伊核问题会谈无协议收场：调停方称取得‘显著进展’，更多谈判将继续"
+        summary: "据报道，美国与伊朗在日内瓦的间接谈判未达成协议，但调停方称双方取得一定进展并计划继续会谈。外界关注美方是否会升级施压乃至采取军事选项，以及伊朗铀浓缩等核心分歧能否被弥合。"
         source: "The Guardian"
-        time: "23:00"
-        tag: "科技"
-        url: https://www.theguardian.com/technology/2026/feb/26/chatgpt-health-fails-recognise-medical-emergencies
-
-      - title: "报道：部分企业员工正在‘训练AI替代自己’，并担忧价值被稀释"
-        summary: "报道采访称，一些员工被要求把工作流程、知识与模板输入系统以训练自动化工具；有人认为效率提升明显，也有人担心岗位与议价能力被削弱。"
-        source: "The Guardian"
-        time: "22:55"
-        tag: "科技"
-        url: https://www.theguardian.com/technology/2026/feb/26/workers-training-ai-to-do-their-jobs
+        time: "06:45"
+        tag: "国际"
+        url: https://www.theguardian.com/world/2026/feb/26/trump-attack-threat-looms-as-nuclear-talks-between-us-and-iran-go-to-wire
 
   - name: 🌍 国际
     items:
-      - title: "世界经济论坛负责人在与爱泼斯坦往来审查后辞职"
-        summary: "报道称论坛负责人承认曾与爱泼斯坦有沟通，但表示不知其犯罪背景；相关审查引发机构治理与声誉风险讨论。"
+      - title: "俄乌交换逾千具士兵遗体，战场人道议题再受关注"
+        summary: "报道称俄罗斯与乌克兰进行了大规模遗体交换。此类交换通常通过中介协调进行，被视为双方在有限领域保持沟通渠道的迹象。"
         source: "BBC News"
-        time: "22:40"
-        tag: "国际"
-        url: https://www.bbc.com/news/articles/cr5lq9ll15jo?at_medium=RSS&at_campaign=rss
+        time: "06:30"
+        tag: "俄乌"
+        url: https://www.bbc.com/news/articles/cg7ed4rp7x5o?at_medium=RSS&at_campaign=rss
 
-      - title: "希腊‘水门事件’间谍软件丑闻：多人被定罪"
-        summary: "报道指与‘Predator’监控软件相关的案件中，法院裁定数名涉案人员有罪；此前该软件被指用于监控政界与媒体等多人。"
+      - title: "丹麦首相宣布提前大选：格陵兰与安全议题成竞选焦点"
+        summary: "BBC 报道称，围绕格陵兰的主权与安全讨论升温，丹麦首相宣布提前举行大选。预计选战将聚焦对美关系、北极安全与国内经济议题。"
         source: "BBC News"
-        time: "22:30"
-        tag: "国际"
-        url: https://www.bbc.com/news/articles/cj6dx4886rpo?at_medium=RSS&at_campaign=rss
+        time: "06:20"
+        tag: "欧洲"
+        url: https://www.bbc.com/news/articles/ckg3e63jwj8o?at_medium=RSS&at_campaign=rss
 
-      - title: "联合国人权高专呼吁阿富汗与巴基斯坦对话，谴责对女性权利的持续压迫"
-        summary: "联合国人权事务高级专员呼吁通过对话缓和边境冲突，同时指出阿富汗当局对女性权利的限制愈发严苛。"
+      - title: "古巴称在海上交火中击毙多名‘武装渗透者’，死者包括一名美国公民"
+        summary: "据报道，古巴方面称一艘在美注册快艇驶入其水域并与边防发生交火，造成人员死亡；古巴指称对方意图实施带有恐怖目的的渗透行动。事件加剧美古关系紧张氛围。"
+        source: "BBC News"
+        time: "06:10"
+        tag: "拉美"
+        url: https://www.bbc.com/news/articles/c80j3rlp904o?at_medium=RSS&at_campaign=rss
+
+      - title: "巴基斯坦称边境遭阿富汗塔利班袭击致两名士兵死亡；联合国呼吁对话降温"
+        summary: "BBC 报道称，巴基斯坦表示边境冲突造成其士兵死亡，双方互指对方造成重大伤亡。联合国人权高专呼吁通过对话缓和局势，并关注阿富汗国内人权问题。"
+        source: "BBC News / UN News"
+        time: "06:00"
+        tag: "南亚"
+        url: https://www.bbc.com/news/articles/c0j5qx9n887o?at_medium=RSS&at_campaign=rss
+
+      - title: "联合国：预警系统拦截关键前体化学品运输，可能用于制造芬太尼"
+        summary: "联合国麻醉品管制机构称，一套国际早期预警系统阻止了一批可用于合成芬太尼的化学品流入非法渠道。联合国强调跨境信息共享与供应链管控对遏制合成毒品至关重要。"
         source: "UN News"
-        time: "22:20"
-        tag: "国际"
-        url: https://news.un.org/feed/view/en/story/2026/02/1167040
+        time: "05:50"
+        tag: "公共安全"
+        url: https://news.un.org/feed/view/en/story/2026/02/1167039
 
-      - title: "乌干达两名女性因疑似公开接吻被捕，引发对LGBTQ法律争议"
-        summary: "报道指两名女性在乌干达被以‘同性活动’相关指控拘留；当地严格法律引发人权团体持续批评。"
-        source: "The Guardian"
-        time: "22:10"
-        tag: "国际"
-        url: https://www.theguardian.com/global-development/2026/feb/26/women-arrested-uganda-kissing-public-lgbtq-laws
+      - title: "联合国人权理事会：苏丹战争暴行持续，警告种族灭绝风险外溢"
+        summary: "联合国人权理事会听取通报称，苏丹冲突已持续近三年，存在杀戮、性暴力等严重侵权指控，并警告进一步的种族灭绝式暴力风险。国际社会呼吁保护平民并追究责任。"
+        source: "UN News"
+        time: "05:40"
+        tag: "非洲"
+        url: https://news.un.org/feed/view/en/story/2026/02/1167044
 
-      - title: "考古研究提出：人类‘书写/记录思想’的证据可能比既往认为早4万年"
-        summary: "BBC 报道称研究者在史前遗物上发现可能代表‘有意记录’的符号痕迹，或将改写对早期人类表达与传播方式的时间线判断。"
+      - title: "联合国人权高专：巴勒斯坦被占领土出现‘人为灾难’，呼吁各方遵守国际法"
+        summary: "联合国人权高专在通报中强调加沙及被占领土的人道困境，并指出以色列与巴勒斯坦武装团体均被指存在严重违法行为。联合国呼吁停止侵害平民、确保人道援助通行。"
+        source: "UN News"
+        time: "05:30"
+        tag: "中东"
+        url: https://news.un.org/feed/view/en/story/2026/02/1167043
+
+      - title: "香港传媒大亨黎智英在欺诈案部分定罪上诉胜诉，但仍因国安案被羁押"
+        summary: "BBC 报道称，香港法院就黎智英涉及的欺诈指控作出上诉裁定；不过他仍因另一宗国家安全相关案件持续被羁押。案件走向继续引发国际关注。"
         source: "BBC News"
-        time: "22:00"
-        tag: "科学"
-        url: https://www.bbc.com/news/articles/cvgknj7yyv2o?at_medium=RSS&at_campaign=rss
+        time: "05:20"
+        tag: "港澳"
+        url: https://www.bbc.com/news/articles/c5ykq2ykd6zo?at_medium=RSS&at_campaign=rss
+
+  - name: 💻 科技
+    items:
+      - title: "英伟达财报继续超预期：AI需求支撑芯片业务高增长"
+        summary: "报道指出，英伟达最新季度业绩再次超过华尔街预期，显示生成式AI带动的数据中心算力需求仍然强劲。市场同时关注企业对AI投资是否出现周期性放缓迹象。"
+        source: "BBC News / The Guardian"
+        time: "05:05"
+        tag: "AI"
+        url: https://www.bbc.com/news/articles/c80jgd8yljko?at_medium=RSS&at_campaign=rss
+
+      - title: "研究警示：面向健康咨询的聊天机器人在紧急情况识别上存在明显缺陷"
+        summary: "The Guardian 援引研究称，在需要建议立即就医的场景中，相关系统有相当比例未能给出明确的就医提示。研究人员呼吁对AI健康产品的边界、提示语与监管框架进行更严格规范。"
+        source: "The Guardian"
+        time: "04:55"
+        tag: "健康科技"
+        url: https://www.theguardian.com/technology/2026/feb/26/chatgpt-health-fails-recognise-medical-emergencies
+
+      - title: "Instagram新增家长提醒：青少年频繁搜索自残相关内容将触发通知"
+        summary: "BBC 报道称，Meta 将在青少年短时间内反复搜索自残/自杀相关词条时向家长发出提醒，并提供支持资源入口。安全倡议者认为这有帮助，但仍不足以解决推荐机制与内容传播的问题。"
+        source: "BBC News"
+        time: "04:45"
+        tag: "平台治理"
+        url: https://www.bbc.com/news/articles/c3v7z5eyewko?at_medium=RSS&at_campaign=rss
+
+      - title: "CISA发布多份工控安全通告：多家电动汽车充电/能源管理系统曝高危漏洞"
+        summary: "美国CISA集中披露多家厂商产品的漏洞通告，称成功利用可能导致未授权控制、会话劫持或拒绝服务等风险。机构建议运营方及时评估资产暴露面并按厂商指南修复或采取缓解措施。"
+        source: "CISA"
+        time: "04:35"
+        tag: "安全"
+        url: https://www.cisa.gov/news-events/ics-advisories/icsa-26-057-05
+
+  - name: 🏛️ 政策
+    items:
+      - title: "英国国防部启动审查：调查爱泼斯坦是否曾使用英国皇家空军基地"
+        summary: "BBC 报道称，英国国防部将审查相关记录与邮件，以确定已定罪性犯罪者爱泼斯坦在访问英国期间是否曾使用军事基地。事件延续全球对其关系网络与机构合规的追问。"
+        source: "BBC News"
+        time: "04:20"
+        tag: "英国"
+        url: https://www.bbc.com/news/articles/c86y466v0x6o?at_medium=RSS&at_campaign=rss
+
+      - title: "美国国会民主党人指责司法部未充分披露与特朗普相关的爱泼斯坦材料"
+        summary: "BBC 报道称，负责调查的国会民主党人呼吁司法部长公开更多材料，称现有披露不足并引发透明度争议。相关事件牵动美国政治对立与司法独立讨论。"
+        source: "BBC News"
+        time: "04:10"
+        tag: "美国政治"
+        url: https://www.bbc.com/news/articles/ckg3elr1dwpo?at_medium=RSS&at_campaign=rss
+
+      - title: "美国移民执法机构ICE快速扩招引发审查压力：内部邮件提示背景核查或延迟"
+        summary: "The Guardian 报道称，在大规模招聘背景下，ICE 的人员审查与纪律流程面临更大压力，机构内部讨论如何处理潜在不当行为投诉。外界担忧扩编速度可能影响合规与问责。"
+        source: "The Guardian"
+        time: "04:00"
+        tag: "移民"
+        url: https://www.theguardian.com/us-news/2026/feb/26/trump-ice-hiring-surge
+
+  - name: 🔬 科学
+    items:
+      - title: "NASA：ESCAPADE任务准备就绪，将研究太阳风如何影响火星大气"
+        summary: "NASA 介绍 ESCAPADE 任务将研究太阳风与火星大气相互作用，帮助解释火星从更厚大气与液态水环境走向今日稀薄大气的演化过程。"
+        source: "NASA"
+        time: "03:45"
+        tag: "航天"
+        url: https://science.nasa.gov/science-research/heliophysics/nasas-escapade-ready-to-study-space-weather-from-earth-to-mars/
+
+      - title: "NASA解读Landsat 9：不仅是图像，更是长期地表观测数据资产"
+        summary: "NASA 强调 Landsat 计划提供了超过半个世纪的地表遥感连续记录；Landsat 9 作为最新一代卫星，将在农业、生态、城市与灾害监测等领域继续发挥基础数据作用。"
+        source: "NASA"
+        time: "03:35"
+        tag: "遥感"
+        url: https://science.nasa.gov/missions/landsat/landsat-9-more-than-just-a-picture/
+
+      - title: "加州象海豹幼崽出现禽流感死亡案例，野生动物疫情风险受关注"
+        summary: "The Guardian 报道称，加州海岸出现高致病性禽流感导致象海豹幼崽死亡的情况。专家提醒需监测跨物种传播风险，并评估对沿海生态与野生动物救护体系的压力。"
+        source: "The Guardian"
+        time: "03:25"
+        tag: "生态"
+        url: https://www.theguardian.com/us-news/2026/feb/26/bird-flu-kills-elephant-seal-pups-california
+
+      - title: "地中海多轮风暴造成严重破坏：研究者讨论极端天气链式效应"
+        summary: "The Guardian 报道称，今年地中海地区多次强风暴造成伤亡与基础设施受损，研究者分析大气环流与海温等因素对极端降雨与风暴路径的影响。"
+        source: "The Guardian"
+        time: "03:15"
+        tag: "气候"
+        url: https://www.theguardian.com/world/2026/feb/26/recent-mediterranean-storms-tragedies-spain-portugal-morocco
 
   - name: 💰 财经
     items:
-      - title: "英国街头露宿人数创纪录：官方统计显示单夜约4,793人露宿"
-        summary: "英国官方统计显示露宿人数同比上升；报道指出住房与社会救助压力仍在，相关问题引发多方关注。"
+      - type: stats
+        title: 主要宏观指标（美国，最新口径）
+        metrics:
+          - label: CPI（2026年1月环比）
+            value: "+0.2%"
+          - label: 失业率（2026年1月）
+            value: "4.3%"
+        
+      - title: "欧洲央行公布2025年财务报表，市场关注加息周期后的资产负债变化"
+        summary: "欧洲央行发布2025年财务报表。分析人士通常会从中观察利率环境变化对央行收益、资产估值与相关风险准备的影响。"
+        source: "ECB"
+        time: "03:00"
+        tag: "欧洲"
+        url: https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260226~15dbe4febc.en.html
+
+      - title: "英国街头露宿人数创新高：官方统计显示单夜约4,793人露宿"
+        summary: "The Guardian 引述官方统计称，英格兰露宿人数同比上升。住房可负担性、救助资源与地方政府财政压力被认为是推动因素之一。"
         source: "The Guardian"
-        time: "21:40"
-        tag: "财经"
+        time: "02:50"
+        tag: "英国"
         url: https://www.theguardian.com/society/2026/feb/26/record-number-of-rough-sleepers-in-england-last-year-official-figures-show
 
-      - title: "英国地热供能项目计划为1万户供暖，并有望产出关键矿物锂"
-        summary: "BBC 报道称通过深层岩石加热的地热水提供可再生能源，同时可能形成英国首个国内锂供应来源。"
-        source: "BBC News"
-        time: "21:30"
-        tag: "财经"
-        url: https://www.bbc.com/news/articles/cewzg77k721o?at_medium=RSS&at_campaign=rss
-
-      - title: "移民执法机构ICE快速扩招引发审查压力：内部邮件提示背景核查可能延迟"
-        summary: "报道称在人员扩张背景下，审查与纪律流程面临挑战；机构需在扩编效率与合规风控之间权衡。"
+      - title: "北达科他州法官裁定：绿色和平组织需就输油管抗议相关诉讼承担高额赔偿"
+        summary: "The Guardian 报道称，法院将就与达科他输油管抗议相关的诉讼裁定绿色和平组织承担巨额赔偿。绿色和平表示案件远未结束，后续仍将上诉与抗辩。"
         source: "The Guardian"
-        time: "21:20"
-        tag: "财经"
-        url: https://www.theguardian.com/us-news/2026/feb/26/trump-ice-hiring-surge
+        time: "02:40"
+        tag: "法律"
+        url: https://www.theguardian.com/us-news/2026/feb/25/greenpeace-dakota-access-pipeline-protest
