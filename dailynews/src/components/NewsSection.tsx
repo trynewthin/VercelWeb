@@ -64,14 +64,9 @@ export function NewsSection({ section, isFirst }: { section: NewsSectionType; is
                     if (gridItems.length === 0) return null;
 
                     return (
-                        <div className="grid gap-x-6 gap-y-5 sm:grid-cols-2 lg:grid-cols-3">
+                        <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
                             {gridItems.map(({ item, i }) => (
-                                <div
-                                    key={i}
-                                    className="border-b border-border/50 pb-4 last:border-b-0
-                                               sm:[&:nth-last-child(-n+2)]:border-b-0
-                                               lg:[&:nth-last-child(-n+3)]:border-b-0"
-                                >
+                                <div key={i}>
                                     <BlockRenderer item={item} />
                                 </div>
                             ))}

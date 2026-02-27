@@ -1,52 +1,33 @@
-import { useEffect, useState, useCallback } from "react";
+import { useEffect, useState } from "react";
 import yaml from "js-yaml";
 import type { DailyNews } from "@/types";
 import { NewsHeader } from "@/components/NewsHeader";
 import { NewsSection } from "@/components/NewsSection";
+import { ThemeControlBar } from "@/components/ThemeControls";
+import { useThemeStore } from "@/store/theme";
 
-function ThemeToggle() {
-    const [dark, setDark] = useState(() =>
-        document.documentElement.classList.contains("dark")
-    );
+/* ── Sync store → DOM attributes ── */
+function useSyncThemeToDom() {
+    const mode = useThemeStore((s) => s.mode);
+    const style = useThemeStore((s) => s.style);
 
-    const toggle = useCallback(() => {
-        document.documentElement.classList.add("transitioning");
-        const next = !dark;
-        setDark(next);
-        if (next) {
-            document.documentElement.classList.add("dark");
-            localStorage.setItem("theme", "dark");
+    useEffect(() => {
+        const root = document.documentElement;
+        if (mode === "dark") {
+            root.classList.add("dark");
         } else {
-            document.documentElement.classList.remove("dark");
-            localStorage.setItem("theme", "light");
+            root.classList.remove("dark");
         }
-        setTimeout(() => document.documentElement.classList.remove("transitioning"), 350);
-    }, [dark]);
+    }, [mode]);
 
-    return (
-        <button
-            onClick={toggle}
-            aria-label="切换主题"
-            className="fixed right-4 top-4 z-50 flex h-9 w-9 items-center justify-center rounded-full
-                 border border-border bg-card text-foreground shadow-sm
-                 transition-all duration-200 hover:bg-muted hover:shadow-md
-                 sm:right-6 sm:top-6"
-        >
-            {dark ? (
-                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className="h-4 w-4">
-                    <path d="M10 2a.75.75 0 0 1 .75.75v1.5a.75.75 0 0 1-1.5 0v-1.5A.75.75 0 0 1 10 2Zm0 13a.75.75 0 0 1 .75.75v1.5a.75.75 0 0 1-1.5 0v-1.5A.75.75 0 0 1 10 15Zm-8-5a.75.75 0 0 1 .75-.75h1.5a.75.75 0 0 1 0 1.5h-1.5A.75.75 0 0 1 2 10Zm13 0a.75.75 0 0 1 .75-.75h1.5a.75.75 0 0 1 0 1.5h-1.5A.75.75 0 0 1 15 10Zm-2.05-4.95a.75.75 0 0 1 0 1.06l-1.06 1.06a.75.75 0 1 1-1.06-1.06l1.06-1.06a.75.75 0 0 1 1.06 0Zm-7.07 7.07a.75.75 0 0 1 0 1.06l-1.06 1.06a.75.75 0 0 1-1.06-1.06l1.06-1.06a.75.75 0 0 1 1.06 0ZM5.05 5.05a.75.75 0 0 1 0 1.06L3.99 7.17a.75.75 0 0 1-1.06-1.06l1.06-1.06a.75.75 0 0 1 1.06 0Zm7.07 7.07a.75.75 0 0 1 0 1.06l-1.06 1.06a.75.75 0 0 1-1.06-1.06l1.06-1.06a.75.75 0 0 1 1.06 0Z" />
-                    <path fillRule="evenodd" d="M10 13a3 3 0 1 0 0-6 3 3 0 0 0 0 6Z" clipRule="evenodd" />
-                </svg>
-            ) : (
-                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className="h-4 w-4">
-                    <path fillRule="evenodd" d="M7.455 2.004a.75.75 0 0 1 .26.77 7 7 0 0 0 9.958 7.967.75.75 0 0 1 1.067.853A8.5 8.5 0 1 1 6.647 1.921a.75.75 0 0 1 .808.083Z" clipRule="evenodd" />
-                </svg>
-            )}
-        </button>
-    );
+    useEffect(() => {
+        document.documentElement.setAttribute("data-style", style);
+    }, [style]);
 }
 
 export function App() {
+    useSyncThemeToDom();
+
     const [news, setNews] = useState<DailyNews | null>(null);
     const [error, setError] = useState<string | null>(null);
 
@@ -80,8 +61,8 @@ export function App() {
     }
 
     return (
-        <div className="min-h-screen bg-background">
-            <ThemeToggle />
+        <div className="app-container min-h-screen bg-background">
+            <ThemeControlBar />
 
             <main className="mx-auto max-w-4xl px-4 py-8 sm:px-6 sm:py-12 lg:px-8">
                 <NewsHeader data={news} />

@@ -10,10 +10,15 @@ export function NewsCard({
     const isHeadline = variant === "headline";
 
     const content = (
-        <article className="group">
+        <article
+            className={`group ${isHeadline
+                    ? "headline-card"
+                    : "news-item-card style-card border border-border bg-card p-4"
+                }`}
+        >
             {/* Title */}
             <h3
-                className={`font-serif font-bold leading-snug text-foreground transition-colors duration-200
+                className={`news-card-title font-serif font-bold leading-snug text-foreground transition-colors duration-200
                      group-hover:text-accent
                      ${isHeadline ? "text-xl sm:text-2xl md:text-3xl mb-3" : "text-base sm:text-lg mb-2"}`}
             >

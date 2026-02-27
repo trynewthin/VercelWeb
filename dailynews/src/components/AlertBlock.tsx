@@ -26,7 +26,7 @@ export function AlertBlock({ item }: { item: AlertItem }) {
     const style = levelStyles[level];
 
     return (
-        <div className={`rounded-lg border ${style.border} ${style.bg} p-4`}>
+        <div className={`style-card border ${style.border} ${style.bg} p-4`}>
             <div className="flex items-start gap-3">
                 <span className={`mt-0.5 shrink-0 rounded px-2 py-0.5 text-xs font-bold uppercase tracking-wider ${style.badge}`}>
                     {style.label}
