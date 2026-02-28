@@ -1,188 +1,173 @@
 sections:
   - name: 🔥 头条
     items:
-      - title: Afghan Taliban open to talks after Pakistan bombs Kabul, Kandahar
-        summary: Skip to main content # Pakistan strikes Afghanistan targets as clashes intensify By Reuters Pakistan, Afghan forces clash after days of hostilities Military vehicles move on a roa…
+      - title: Trump's new Iran attack opens up big global risks | Reuters
+        summary: "# Trump’s new Iran attack opens up big global risks. LONDON, Feb 28 (Reuters Breakingviews) - Donald Trump has finally revealed his hand on Iran: a closed fist. Morgan Stanley rec…"
         source: reuters.com
         time: "12:00"
-        url: "https://www.reuters.com/world/asia-pacific/pakistan-strikes-afghanistan-targets-clashes-intensify-2026-02-27/"
+        url: "https://www.reuters.com/commentary/breakingviews/trumps-new-iran-attack-opens-up-big-global-risks-2026-02-28/"
 
   - name: 🌍 国际
     items:
-      - title: "Trump says of Iran: 'Sometimes you have to use force' | Reuters"
-        summary: The United States joined Israel’s bombing campaign against Iran in June, striking major nuclear facilities. U.S. President Donald Trump speaks to the media, as he departs from the…
+      - title: Iranian leader Khamenei killed in strikes, Israel says - Reuters
+        summary: "[Skip to main content](https://www.reuters.com/business/aerospace-defense/israel-us-launch-strikes-iran-2026-02-28/#main-content). * [World](https://www.reuters.com/world/). * [Un…"
         source: reuters.com
         time: "12:00"
         tag: 国际
-        url: "https://www.reuters.com/world/middle-east/trump-says-more-iran-talks-expected-friday-2026-02-27/"
-      - title: Trump advisers scramble to justify possible US military intervention ...
-        summary: Tehran’s ICBMs cannot currently reach the US, experts say, and White House has claimed its nuclear programme has been destroyed Sign up for the Breaking News US email to get newsl…
+        url: "https://www.reuters.com/business/aerospace-defense/israel-us-launch-strikes-iran-2026-02-28/"
+      - title: "Exclusive: Prior to Iran attacks, CIA assessed Khamenei could be ..."
+        summary: Item 1 of 3 A satellite image shows black smoke rising and heavy damage at Iranian Supreme Leader Ayatollah Ali Khamenei's compound, following strikes by the United States and Isr…
+        source: reuters.com
+        time: "12:00"
+        tag: 国际
+        url: "https://www.reuters.com/world/middle-east/prior-iran-attacks-cia-assessed-khamenei-would-be-replaced-by-hardline-irgc-2026-02-28/"
+      - title: "US lawmakers condemn Trump over Iran strikes: 'acts of war ..."
+        summary: "Donald Trump’s failure to build a case with the US public for [striking Iran](https://www.theguardian.com/world/2026/feb/28/us-israel-launch-strikes-attack-iran-what-we-know-so-fa…"
         source: theguardian.com
         time: "12:00"
         tag: 国际
-        url: "https://www.theguardian.com/us-news/2026/feb/27/trump-iran-war-evidence"
-      - title: Trump raises prospect of 'friendly takeover' of Cuba, says Rubio in ...
-        summary: Skip to main content # Trump raises prospect of 'friendly takeover' of Cuba By Reuters U.S. President Donald Trump boards Air Force One as he departs for Corpus Christi, Texas Ite…
+        url: "https://www.theguardian.com/world/2026/feb/28/iran-attack-us-political-reaction"
+      - title: US and Israel launch "pre-emptive" attack against Iran | Reuters
+        summary: "[Skip to main content](https://www.reuters.com/world/middle-east/israel-says-it-launched-pre-emptive-attack-against-iran-2026-02-28/#main-content). * [World](https://www.reuters.c…"
         source: reuters.com
         time: "12:00"
         tag: 国际
-        url: "https://www.reuters.com/world/us/trump-raises-prospect-friendly-takeover-cuba-2026-02-27/"
-      - title: Rubio will travel to Israel next week amid Iran tensions - Reuters
-        summary: Skip to main content # Rubio will travel to Israel next week amid Iran tensions By Reuters U.S. Secretary of State Rubio travel to CARICOM meeting in Saint Kitts and Nevis U.S. Se…
-        source: reuters.com
-        time: "12:00"
-        tag: 国际
-        url: "https://www.reuters.com/world/middle-east/rubio-will-travel-israel-next-week-amid-iran-tensions-2026-02-27/"
-      - title: "World news: Latest news, breaking news, today's news stories from ..."
-        summary: 2H ago #### Fact checking Trump's 2026 State of the Union address and Democratic response CBS News fact checked President Trump's 2026 State of the Union address, and Virginia Gov…
-        source: cbsnews.com
-        time: "12:00"
-        tag: 国际
-        url: "https://www.cbsnews.com/world/"
-      - title: Europe - World news, culture and opinion - Le Monde
-        summary: Letter from... Subscribers only ### Former EU commissioner Thierry Breton sees himself as a savior for Europe The French politician, a vocal critic of Ursula von der Leyen, is pre…
+        url: "https://www.reuters.com/world/middle-east/israel-says-it-launched-pre-emptive-attack-against-iran-2026-02-28/"
+      - title: World leaders fear broader escalation after major US and Israeli ...
+        summary: 3 min read Iranians in exile and their supporters protest for a regime change at Potsdamer Platz square in Berlin, Germany, February 28, 2026. Iranians in exile and their supporte…
         source: lemonde.fr
         time: "12:00"
         tag: 国际
-        url: "https://www.lemonde.fr/en/europe/"
-      - title: Le Monde in English – World news, culture and opinion
-        summary: Subscribers only Gabriel Attal pushes ahead with presidential bid, despite doubts within party Subscribers only How Edouard Philippe hopes to succeed Macron Iranian President Maso…
-        source: lemonde.fr
-        time: "12:00"
-        tag: 国际
-        url: "https://www.lemonde.fr/en/"
-      - title: With an estimated 500,000 killed, the Russia-Ukraine war is ...
-        summary: "Date: Loading date... Time: Loading time... Go Back to the HomePage Le Monde FR EN Subscribe Subscribe Sign in Sign in Go Back to the HomePage Le Monde FR EN War in Ukraine 2026 F…"
-        source: lemonde.fr
-        time: "12:00"
-        tag: 国际
-        url: "https://www.lemonde.fr/en/international/article/2026/02/27/with-an-estimated-500-000-dead-the-russia-ukraine-war-is-europe-s-deadliest-since-1945_6750914_4.html"
-      - title: Middle East News | Today's latest from Al Jazeera
-        summary: "![A Palestinian boy lies on a hospital bed receiving treatment for burn injuries at a Doctors Without Borders (MSF) hospital, amid severe shortages of medical equipment, medicines…"
+        url: "https://www.lemonde.fr/en/international/article/2026/02/28/world-leaders-fear-broader-escalation-after-major-us-and-israeli-attack-on-iran_6750959_4.html"
+      - title: Multiple Arab states that host US assets targeted in Iran retaliation
+        summary: Skip linksSkip to Content Live Live News|Israel-Iran conflict # Multiple Arab states that host US assets targeted in Iran retaliation Iran confirms targeting US bases across the M…
         source: aljazeera.com
         time: "12:00"
         tag: 国际
-        url: "https://www.aljazeera.com/middle-east/"
-      - title: "US, Israel bomb Iran: A timeline of talks and threats leading up to ..."
-        summary: January 8, 2026 – The internet is shut down across Iran following the outbreak of antigovernment protests, which have now spread beyond cities. The blackout lasts for more than tw…
+        url: "https://www.aljazeera.com/news/2026/2/28/multiple-gulf-arab-states-that-host-us-assets-targeted-in-iran-retaliation"
+      - title: World reacts to US, Israel attack on Iran, Tehran retaliation - Al Jaze…
+        summary: Skip linksSkip to Content Live Live News # World reacts to US, Israel attack on Iran, Tehran retaliation EU urges ‘maximum restraint’; mediator Oman warns US ‘not to get sucked in…
         source: aljazeera.com
         time: "12:00"
         tag: 国际
-        url: "https://www.aljazeera.com/news/2026/2/28/us-israel-bomb-iran-a-timeline-of-talks-and-threats-leading-up-to-attacks"
-      - title: "US and Israel attack Iran: What we know so far - Al Jazeera"
-        summary: "US and Israel attack Iran: What we know so far | Israel-Iran conflict News | Al Jazeera Advertisement Skip linksSkip to Content -Iranian media reported that explosions were heard…"
+        url: "https://www.aljazeera.com/news/2026/2/28/world-reacts-to-us-israel-attack-on-iran-tehran-retaliation"
+      - title: Mapping US and Israeli attacks on Iran and Tehran's retaliatory strikes
+        summary: Mapping US and Israeli attacks on Iran and Tehran’s retaliatory strikes | Israel-Iran conflict News | Al Jazeera Advertisement Skip linksSkip to Content By AJLabs Published On 28…
         source: aljazeera.com
         time: "12:00"
         tag: 国际
-        url: "https://www.aljazeera.com/news/2026/2/28/us-and-israel-attack-iran-what-we-know-so-far"
-      - title: Airspace closed, airlines halt flights as US, Israel attack, Iran respo…
-        summary: Skip linksSkip to Content Live Live News|Aviation # Airspace closed, airlines halt flights as US, Israel attack, Iran responds At least eight countries, including Iran, Israel, Jo…
-        source: aljazeera.com
+        url: "https://www.aljazeera.com/news/2026/2/28/mapping-us-and-israeli-attacks-on-iran-and-tehrans-retaliatory-strikes"
+      - title: BBC Partners
+        summary: "18:30 BBC News Summary 28/02/2026 18:30 GMT BBC News Summary 02/03/2026 18:30 GMT BBC News Summary 03/03/2026 18:30 GMT BBC News Summary 04/03/2026 18:30 GMT BBC News Summary 05/0…"
+        source: wspartners.bbc.com
         time: "12:00"
         tag: 国际
-        url: "https://www.aljazeera.com/news/2026/2/28/airspace-closed-airlines-halt-flights-as-us-israel-attack-iran-responds"
-      - title: Flooded by cheap Chinese goods, Latin America is fighting back to ...
-        summary: Vendors wait for customers at a market that primarily sells clothing imported from China in Asuncion, Paraguay, Saturday, Jan. 31, 2026. (AP Photo/Jorge Saenz) Comments HONG KONG…
-        source: apnews.com
+        url: "https://wspartners.bbc.com/schedules/bbc_world_service_east_africa/week/2026-02-28"
+      - title: Is Ethiopia heading back to war with the TPLF or Eritrea in Tigray?
+        summary: "## Drums, chants and celebrations as Ethiopians mark the baptism of Jesus The Ethiopian Orthodox festival of Timket, or Epiphany, commemorates the baptism of Jesus in the Jordan.…"
+        source: bbc.com
         time: "12:00"
         tag: 国际
-        url: "https://apnews.com/article/china-latin-america-trump-trade-e78ccd51a7f66099d84fda885d2907a3"
-      - title: Argentina's congress approves historic labor reform promoted by ...
-        summary: Cristian Valderrama kisses his husband Lucas Garcia during a protest outside Congress against a labor reform bill proposed by President Javier Milei’s government in Buenos Aires,…
-        source: apnews.com
+        url: "https://www.bbc.com/news/articles/cwygrnjz9wro"
+      - title: "Africa-US relations: The continent grapples with the new world order"
+        summary: "## At least 10 FBI agents who worked on Trump investigation fired The terminated FBI staffers all participated in a probe into Trump's handling of classified documents after his f…"
+        source: bbc.com
         time: "12:00"
         tag: 国际
-        url: "https://apnews.com/article/argentina-milei-labor-reform-protests-4746f019e02ad8eb2dd4355a2b4beb99"
-      - title: Cuba unveils new details in fatal US boat shooting and says a 2nd ...
-        summary: Weapons that Cuban authorities say were recovered from a speedboat in Cuban waters following a confrontation that left four people dead are displayed during a media presentation i…
-        source: apnews.com
+        url: "https://www.bbc.com/news/articles/c2d7wk98xkko"
+      - title: Cuba says group shot on US-registered speedboat planned 'armed ...
+        summary: In statement posted on X via the Cuban Embassy in the US, the Interior Ministry said that the Florida-registered vessel - with the registration number FL7726SH - was detected near…
+        source: bbc.com
         time: "12:00"
         tag: 国际
-        url: "https://apnews.com/article/cuba-us-boat-shooting-florida-05742f46aa93d59fa8f8faaff94d8cba"
-      - title: Trump says the US could have a 'friendly takeover of Cuba' - AP News
-        summary: President Donald Trump speaks to reporters before departing on Marine One from the South Lawn of the White House, Friday, Feb. 27, 2026, in Washington. (AP Photo/Tom Brenner) Pres…
-        source: apnews.com
-        time: "12:00"
-        tag: 国际
-        url: "https://apnews.com/article/trump-cuba-friendly-takeover-rubio-venezuela-435f056b47cfd6bc0c0af875318fa123"
+        url: "https://www.bbc.com/news/articles/c24drvj8yl2o"
 
   - name: 🌏 亚太
     items:
+      - title: Trump directs U.S. agencies to toss Anthropic's AI as Pentagon calls ...
+        summary: Subscribe Digital Print February 28, 2026 Digital Print Sanae Takaichi Tariffs China Olympic Winter Games Latest News Today's print edition Home Delivery [...] Feb 28, 2026 Washin…
+        source: japantimes.co.jp
+        time: "12:00"
+        tag: 亚太
+        url: "https://www.japantimes.co.jp/business/2026/02/28/tech/trump-anthropic-supply-risk-pentagon/"
+      - title: India's GDP revisions mean it will take longer to overtake Japan
+        summary: Surpassing Japan would be more of a reflection of scale than prosperity for India. Per capita income in the country remains just above $3,000, a fraction of Japan’s $36,390, accor…
+        source: japantimes.co.jp
+        time: "12:00"
+        tag: 亚太
+        url: "https://www.japantimes.co.jp/business/2026/02/28/economy/indias-gdp-revisions-japan-economy/"
       - title: Taiwan arms sale OK'd by U.S. Congress is delayed as Trump plans ...
-        summary: A team headed by Takashi Tsuji, a visiting senior researcher at Riken and chairperson of OrganTech, has identified a previously unknown “third cell” essential for fully regenerati…
+        summary: "## Our Planet A solar farm in Nakai, Kanagawa Prefecture, in March 2016. Japan gets about a tenth of its electricity from solar panels despite having nearly no domestic production…"
         source: japantimes.co.jp
         time: "12:00"
         tag: 亚太
         url: "https://www.japantimes.co.jp/news/2026/02/28/asia-pacific/politics/us-taiwan-arms-sales-delayed/"
-      - title: China ousts nine military lawmakers as Xi's defense purge widens
-        summary: Tokyo Station. There were 932,090 people living under permanent residency in Japan as of June 2025, according to the Immigration Services Agency. Haneda Airport in Tokyo. With the…
+      - title: Russia weighs halt to peace talks unless Ukraine cedes territory
+        summary: "## Longform Sonic the Hedgehog, Castlevania's Alucard and the weak yet lovable Slime from Dragon Quest are just some of Japan's iconic gaming franchises celebrating midlife annive…"
         source: japantimes.co.jp
         time: "12:00"
         tag: 亚太
-        url: "https://www.japantimes.co.jp/news/2026/02/27/asia-pacific/politics/china-defense-lawmakers-purge/"
-      - title: Thai leaders won big. Their economy is still sick. - The Japan Times
-        summary: Tokyo Station. There were 932,090 people living under permanent residency in Japan as of June 2025, according to the Immigration Services Agency. The Sakaiminato Ferry Terminal in…
-        source: japantimes.co.jp
-        time: "12:00"
-        tag: 亚太
-        url: "https://www.japantimes.co.jp/commentary/2026/02/27/world/thai-leaders-win-big/"
-      - title: Koizumi urges pivot away from China for defense equipment supply ...
-        summary: international-reports ## Latest News ##### In your social network Facebook ##### In your inbox SIGN ME UP ##### In your social network Facebook ##### In your inbox SIGN ME UP The…
-        source: japantimes.co.jp
-        time: "12:00"
-        tag: 亚太
-        url: "https://www.japantimes.co.jp/news/2026/02/27/japan/politics/china-free-supply-chain/"
+        url: "https://www.japantimes.co.jp/news/2026/02/28/world/politics/russia-ukraine-peace-talks-territory/"
 
   - name: 🇨🇳 中国
     items:
-      - title: Trade War - Topic - Caixin Global
-        summary: "## Trump Slaps New Tariffs on $200 Billion of Chinese Goods ### With long-threatened new round of tariffs, almost half of China’s annual exports to U.S. will be subject to trade p…"
-        source: gg.caixin.com
+      - title: "8:00 YidianZixun Minute: Xibei Closes 102 Stores, Jia Guolong's ..."
+        summary: of banks have shown signs of stabilizing. In 2026, a large amount of long - term deposits with terms of 3 - year and 5 - year will mature. This time, the reduction of interest rat…
+        source: eu.36kr.com
         time: "12:00"
         tag: 🇨🇳 中国
-        url: "https://gg.caixin.com/c?z=caixin&la=0&si=3&cg=16&c=2928&ci=32&or=511&l=15305&bg=15305&b=19773&u=https%3A%2F%2Fwww.caixinglobal.com%2F2018%2Ftrade-turbulence%2F%3F"
-      - title: "'China sees its plans as a key to the country's development'"
-        summary: Subscribers only China comes to a standstill during the Lunar New Year holiday, but political activity will soon return in full force to Beijing. In early March, senior officials…
-        source: lemonde.fr
+        url: "https://eu.36kr.com/en/p/3641337324949125"
+      - title: Is the Hottest Track in Early 2026 Set to Ignite the Next Great Frontie…
+        summary: The boom in the aerospace industry stems from a profound and long - lasting industrial transformation, a golden opportunity jointly driven by major - power strategies, market expl…
+        source: eu.36kr.com
         time: "12:00"
         tag: 🇨🇳 中国
-        url: "https://www.lemonde.fr/en/opinion/article/2026/02/27/china-sees-its-plans-as-a-key-to-the-country-s-development_6750915_23.html"
-      - title: 中央政治局会议定调2026 加大逆周期和跨周期调节力度 - 经济- 财新
-        summary: "#### In Depth: From Skies to Shackles, HNA Founder Chen Feng Sentenced to 12 Years in Prison #### U.S. Details Steep Port Fees on China-Linked Vessels Starting Oct. 14 #### The Sh…"
-        source: economy.caixin.com
+        url: "https://eu.36kr.com/en/p/3637589802534146"
+      - title: Which city will become the next major hub for China's chip industry ...
+        summary: On January 20, 2026, Liao Min, the deputy minister of the Ministry of Finance, stated at a press conference held by the State Council Information Office that in 2026, the financia…
+        source: eu.36kr.com
         time: "12:00"
         tag: 🇨🇳 中国
-        url: "https://economy.caixin.com/2025-12-08/102390975.html"
-      - title: News Graphics - Caixin Global
-        summary: "# News Graphics []( Feb 27, 2026 18:43 PM Chart of the Day: Losses Mount in China’s Solar Price War : Country’s leading manufacturers may have racked up more than $7.3 billion in…"
-        source: gg.caixin.com
+        url: "https://eu.36kr.com/en/p/3665991458661001"
+      - title: "Ranking first in total GDP and fiscal revenue: Guangdong ... - 36氪"
+        summary: However, while achieving remarkable results, challenges still exist. Previously, a special meeting on accelerating the construction of a modern industrial system in Guangdong Prov…
+        source: eu.36kr.com
         time: "12:00"
         tag: 🇨🇳 中国
-        url: "http://gg.caixin.com/c?z=caixin&la=0&si=3&cg=16&c=3201&ci=32&or=2006&l=26480&bg=26480&b=33972&u=https://www.caixinglobal.com/data-news/"
-      - title: February 2026 WTA Industry News - 澎湃新闻
-        summary: In 2025, China recorded 640,400 commercial performances (excluding entertainment venue shows), representing a 6.58% year-on-year increase. Total box office revenue reached RMB 61.…
-        source: m.thepaper.cn
-        time: "12:00"
-        tag: 🇨🇳 中国
-        url: "https://m.thepaper.cn/newsDetail_forward_32666236"
-      - title: China's pivot from GDP obsession sparks cadre confusion, testing ...
-        summary: "# China’s pivot from GDP obsession sparks cadre confusion, testing local governance ### Governors and mayors must reconcile Beijing’s people-centric mandates with traditional grow…"
-        source: scmp.com
-        time: "12:00"
-        tag: 🇨🇳 中国
-        url: "https://www.scmp.com/economy/china-economy/article/3344887/chinas-pivot-gdp-obsession-sparks-cadre-confusion-testing-local-governance"
-      - title: China shifts cadre-appraisal metrics away from pure GDP growth ...
-        summary: Ahead of China’s annual legislative meetings – typically a window into Beijing’s top-level policy agenda – this is the first entry in a series examining the complex economic recal…
-        source: scmp.com
-        time: "12:00"
-        tag: 🇨🇳 中国
-        url: "https://www.scmp.com/economy/china-economy/article/3344723/china-shifts-cadre-appraisal-metrics-away-pure-gdp-growth-resetting-mindsets"
+        url: "https://eu.36kr.com/en/p/3657408520577928"
 
-  - name: 💰 财经
+  - name: 💻 科技
     items:
-      - title: The Wall Street Journal's News Archive for February 27, 2026
-        summary: The Wall Street Journal Use Alt + Down Arrow to expand. Print Edition Video Audio Latest Headlines Puzzles The Wall Street Journal Use Alt + Down Arrow to expand. Print Edition Vi…
-        source: wsj.com
+      - title: "Planetary parade 2026: Six planets visible in night sky - BBC"
+        summary: A planetary parade describes a moment when several planets appear to line up in the sky from the Earth's perspective. Dr Becky Smethurst, Royal Astronomical Society Research Fello…
+        source: bbc.com
         time: "12:00"
-        tag: 财经
-        url: "https://www.wsj.com/news/archive/2026/02/27"
+        tag: 科技
+        url: "https://www.bbc.com/news/articles/c4g3l0yzyxdo"
+      - title: 6 planets will parade across the night sky at the end of February
+        summary: \_\_\_ The Associated Press Health and Science Department receives support from the Howard Hughes Medical Institute’s Department of Science Education and the Robert Wood Johnson F…
+        source: apnews.com
+        time: "12:00"
+        tag: 科技
+        url: "https://apnews.com/article/february-2026-planet-parade-332c4fd23f8c0005ae9bc4ddd5f1d9e3"
+
+  - name: 🧩 其他
+    items:
+      - title: BBC Partners | Shingles vaccine lowers risk of heart disease - Health C…
+        summary: "More from Health Check View programme details New Image 11: brand Health Check Available 04 Mar 2026 - 11 Mar 2026 Health Check Health issues and medical breakthroughs from around…"
+        source: wspartners.bbc.com
+        time: "12:00"
+        tag: 其他
+        url: "https://wspartners.bbc.com/episode/w3ct6vj7"
+      - title: 6th death reported in Legionnaires' disease outbreak in New York City |…
+        summary: City health officials say people who live or work in the area should contact a health care provider if they develop flu-like symptoms. Copyright 2026 The Associated Press. All Rig…
+        source: apnews.com
+        time: "12:00"
+        tag: 其他
+        url: "https://apnews.com/article/legionnaires-disease-new-york-harlem-9155fc9fd84d2c5f531c7b463fe6044a"
+      - title: 2025 was one of three hottest years on record, scientists say
+        summary: China is rapidly deploying renewable energies including solar and wind power — but it is also continuing to invest in coal. Though increasingly frequent extreme weather has spurre…
+        source: apnews.com
+        time: "12:00"
+        tag: 其他
+        url: "https://apnews.com/article/climate-world-weather-attribution-year-end-extreme-1e9028da87e518382482e21fef3cfeee"
