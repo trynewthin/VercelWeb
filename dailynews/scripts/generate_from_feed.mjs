@@ -81,7 +81,7 @@ function yamlEscape(s) {
   s = String(s ?? "");
   const needsQuote = /[:\n\r\t]|^\s|\s$|^[-?:,[\]{}#&*!|>'\"%@`]/.test(s);
   if (!needsQuote) return s;
-  const escaped = s.replace(/\"/g, "\\\"");
+  const escaped = s.replace(/\\/g, "\\\\").replace(/\"/g, "\\\"");
   return `\"${escaped}\"`;
 }
 
@@ -109,11 +109,11 @@ try {
 
 const entries = (Array.isArray(data) ? data : data.entries || [])
   .map((e) => {
-    const date = parseDateSafe(e.date || e.published || e.publishedAt || e.createdAt);
+    const date = parseDateSafe(e.date || e.published_at || e.publishedAt || e.published || e.publishedAt || e.created_at || e.createdAt || e.fetched_at);
     const url = e.url || e.link || "";
-    const feedTitle = e.feed || e.feedTitle || e.feed_name || "";
+    const feedTitle = e.feed_title || e.feedTitle || e.feed || e.feed_name || "";
     const title = e.title || "";
-    const summary = e.summary || e.content || e.description || "";
+    const summary = e.summary || e.content_md || e.content_html || e.content || e.description || "";
     return {
       id: e.id ?? e._id ?? null,
       date,

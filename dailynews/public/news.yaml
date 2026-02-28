@@ -1,187 +1,194 @@
 sections:
   - name: 🔥 头条
     items:
-      - type: alert
-        level: info
-        title: 昨日重点新闻速递（2026-02-26）/今日自动整理
-        summary: 基于 RSS 在近24小时内的更新自动抓取，已做主题去重与中文化整理；同一事件多来源仅保留信息量更高者。
-        time: "07:00"
-
-      - title: "美伊核问题会谈无协议收场：调停方称取得‘显著进展’，更多谈判将继续"
-        summary: "据报道，美国与伊朗在日内瓦的间接谈判未达成协议，但调停方称双方取得一定进展并计划继续会谈。外界关注美方是否会升级施压乃至采取军事选项，以及伊朗铀浓缩等核心分歧能否被弥合。"
-        source: "The Guardian"
-        time: "06:45"
-        tag: "国际"
-        url: https://www.theguardian.com/world/2026/feb/26/trump-attack-threat-looms-as-nuclear-talks-between-us-and-iran-go-to-wire
-
-  - name: 🌍 国际
-    items:
-      - title: "俄乌交换逾千具士兵遗体，战场人道议题再受关注"
-        summary: "报道称俄罗斯与乌克兰进行了大规模遗体交换。此类交换通常通过中介协调进行，被视为双方在有限领域保持沟通渠道的迹象。"
-        source: "BBC News"
-        time: "06:30"
-        tag: "俄乌"
-        url: https://www.bbc.com/news/articles/cg7ed4rp7x5o?at_medium=RSS&at_campaign=rss
-
-      - title: "丹麦首相宣布提前大选：格陵兰与安全议题成竞选焦点"
-        summary: "BBC 报道称，围绕格陵兰的主权与安全讨论升温，丹麦首相宣布提前举行大选。预计选战将聚焦对美关系、北极安全与国内经济议题。"
-        source: "BBC News"
-        time: "06:20"
-        tag: "欧洲"
-        url: https://www.bbc.com/news/articles/ckg3e63jwj8o?at_medium=RSS&at_campaign=rss
-
-      - title: "古巴称在海上交火中击毙多名‘武装渗透者’，死者包括一名美国公民"
-        summary: "据报道，古巴方面称一艘在美注册快艇驶入其水域并与边防发生交火，造成人员死亡；古巴指称对方意图实施带有恐怖目的的渗透行动。事件加剧美古关系紧张氛围。"
-        source: "BBC News"
-        time: "06:10"
-        tag: "拉美"
-        url: https://www.bbc.com/news/articles/c80j3rlp904o?at_medium=RSS&at_campaign=rss
-
-      - title: "巴基斯坦称边境遭阿富汗塔利班袭击致两名士兵死亡；联合国呼吁对话降温"
-        summary: "BBC 报道称，巴基斯坦表示边境冲突造成其士兵死亡，双方互指对方造成重大伤亡。联合国人权高专呼吁通过对话缓和局势，并关注阿富汗国内人权问题。"
-        source: "BBC News / UN News"
-        time: "06:00"
-        tag: "南亚"
-        url: https://www.bbc.com/news/articles/c0j5qx9n887o?at_medium=RSS&at_campaign=rss
-
-      - title: "联合国：预警系统拦截关键前体化学品运输，可能用于制造芬太尼"
-        summary: "联合国麻醉品管制机构称，一套国际早期预警系统阻止了一批可用于合成芬太尼的化学品流入非法渠道。联合国强调跨境信息共享与供应链管控对遏制合成毒品至关重要。"
-        source: "UN News"
-        time: "05:50"
-        tag: "公共安全"
-        url: https://news.un.org/feed/view/en/story/2026/02/1167039
-
-      - title: "联合国人权理事会：苏丹战争暴行持续，警告种族灭绝风险外溢"
-        summary: "联合国人权理事会听取通报称，苏丹冲突已持续近三年，存在杀戮、性暴力等严重侵权指控，并警告进一步的种族灭绝式暴力风险。国际社会呼吁保护平民并追究责任。"
-        source: "UN News"
-        time: "05:40"
-        tag: "非洲"
-        url: https://news.un.org/feed/view/en/story/2026/02/1167044
-
-      - title: "联合国人权高专：巴勒斯坦被占领土出现‘人为灾难’，呼吁各方遵守国际法"
-        summary: "联合国人权高专在通报中强调加沙及被占领土的人道困境，并指出以色列与巴勒斯坦武装团体均被指存在严重违法行为。联合国呼吁停止侵害平民、确保人道援助通行。"
-        source: "UN News"
-        time: "05:30"
-        tag: "中东"
-        url: https://news.un.org/feed/view/en/story/2026/02/1167043
-
-      - title: "香港传媒大亨黎智英在欺诈案部分定罪上诉胜诉，但仍因国安案被羁押"
-        summary: "BBC 报道称，香港法院就黎智英涉及的欺诈指控作出上诉裁定；不过他仍因另一宗国家安全相关案件持续被羁押。案件走向继续引发国际关注。"
-        source: "BBC News"
-        time: "05:20"
-        tag: "港澳"
-        url: https://www.bbc.com/news/articles/c5ykq2ykd6zo?at_medium=RSS&at_campaign=rss
+      - title: Inside the Sacred Valley Ceramics Studio Referencing Ancient Peruvian P…
+        summary: "![Inside the Sacred Valley Ceramics Studio Referencing Ancient Peruvian Practices](https://www.thisiscolossal.com/wp-content/uploads/2026/0…"
+        source: Colossal
+        time: "20:28"
+        url: "https://www.thisiscolossal.com/2026/02/ceramicas-seminario-sacred-valley-peru/"
 
   - name: 💻 科技
     items:
-      - title: "英伟达财报继续超预期：AI需求支撑芯片业务高增长"
-        summary: "报道指出，英伟达最新季度业绩再次超过华尔街预期，显示生成式AI带动的数据中心算力需求仍然强劲。市场同时关注企业对AI投资是否出现周期性放缓迹象。"
-        source: "BBC News / The Guardian"
-        time: "05:05"
-        tag: "AI"
-        url: https://www.bbc.com/news/articles/c80jgd8yljko?at_medium=RSS&at_campaign=rss
-
-      - title: "研究警示：面向健康咨询的聊天机器人在紧急情况识别上存在明显缺陷"
-        summary: "The Guardian 援引研究称，在需要建议立即就医的场景中，相关系统有相当比例未能给出明确的就医提示。研究人员呼吁对AI健康产品的边界、提示语与监管框架进行更严格规范。"
-        source: "The Guardian"
-        time: "04:55"
-        tag: "健康科技"
-        url: https://www.theguardian.com/technology/2026/feb/26/chatgpt-health-fails-recognise-medical-emergencies
-
-      - title: "Instagram新增家长提醒：青少年频繁搜索自残相关内容将触发通知"
-        summary: "BBC 报道称，Meta 将在青少年短时间内反复搜索自残/自杀相关词条时向家长发出提醒，并提供支持资源入口。安全倡议者认为这有帮助，但仍不足以解决推荐机制与内容传播的问题。"
-        source: "BBC News"
-        time: "04:45"
-        tag: "平台治理"
-        url: https://www.bbc.com/news/articles/c3v7z5eyewko?at_medium=RSS&at_campaign=rss
-
-      - title: "CISA发布多份工控安全通告：多家电动汽车充电/能源管理系统曝高危漏洞"
-        summary: "美国CISA集中披露多家厂商产品的漏洞通告，称成功利用可能导致未授权控制、会话劫持或拒绝服务等风险。机构建议运营方及时评估资产暴露面并按厂商指南修复或采取缓解措施。"
-        source: "CISA"
-        time: "04:35"
-        tag: "安全"
-        url: https://www.cisa.gov/news-events/ics-advisories/icsa-26-057-05
-
-  - name: 🏛️ 政策
-    items:
-      - title: "英国国防部启动审查：调查爱泼斯坦是否曾使用英国皇家空军基地"
-        summary: "BBC 报道称，英国国防部将审查相关记录与邮件，以确定已定罪性犯罪者爱泼斯坦在访问英国期间是否曾使用军事基地。事件延续全球对其关系网络与机构合规的追问。"
-        source: "BBC News"
-        time: "04:20"
-        tag: "英国"
-        url: https://www.bbc.com/news/articles/c86y466v0x6o?at_medium=RSS&at_campaign=rss
-
-      - title: "美国国会民主党人指责司法部未充分披露与特朗普相关的爱泼斯坦材料"
-        summary: "BBC 报道称，负责调查的国会民主党人呼吁司法部长公开更多材料，称现有披露不足并引发透明度争议。相关事件牵动美国政治对立与司法独立讨论。"
-        source: "BBC News"
-        time: "04:10"
-        tag: "美国政治"
-        url: https://www.bbc.com/news/articles/ckg3elr1dwpo?at_medium=RSS&at_campaign=rss
-
-      - title: "美国移民执法机构ICE快速扩招引发审查压力：内部邮件提示背景核查或延迟"
-        summary: "The Guardian 报道称，在大规模招聘背景下，ICE 的人员审查与纪律流程面临更大压力，机构内部讨论如何处理潜在不当行为投诉。外界担忧扩编速度可能影响合规与问责。"
-        source: "The Guardian"
-        time: "04:00"
-        tag: "移民"
-        url: https://www.theguardian.com/us-news/2026/feb/26/trump-ice-hiring-surge
-
-  - name: 🔬 科学
-    items:
-      - title: "NASA：ESCAPADE任务准备就绪，将研究太阳风如何影响火星大气"
-        summary: "NASA 介绍 ESCAPADE 任务将研究太阳风与火星大气相互作用，帮助解释火星从更厚大气与液态水环境走向今日稀薄大气的演化过程。"
-        source: "NASA"
-        time: "03:45"
-        tag: "航天"
-        url: https://science.nasa.gov/science-research/heliophysics/nasas-escapade-ready-to-study-space-weather-from-earth-to-mars/
-
-      - title: "NASA解读Landsat 9：不仅是图像，更是长期地表观测数据资产"
-        summary: "NASA 强调 Landsat 计划提供了超过半个世纪的地表遥感连续记录；Landsat 9 作为最新一代卫星，将在农业、生态、城市与灾害监测等领域继续发挥基础数据作用。"
-        source: "NASA"
-        time: "03:35"
-        tag: "遥感"
-        url: https://science.nasa.gov/missions/landsat/landsat-9-more-than-just-a-picture/
-
-      - title: "加州象海豹幼崽出现禽流感死亡案例，野生动物疫情风险受关注"
-        summary: "The Guardian 报道称，加州海岸出现高致病性禽流感导致象海豹幼崽死亡的情况。专家提醒需监测跨物种传播风险，并评估对沿海生态与野生动物救护体系的压力。"
-        source: "The Guardian"
-        time: "03:25"
-        tag: "生态"
-        url: https://www.theguardian.com/us-news/2026/feb/26/bird-flu-kills-elephant-seal-pups-california
-
-      - title: "地中海多轮风暴造成严重破坏：研究者讨论极端天气链式效应"
-        summary: "The Guardian 报道称，今年地中海地区多次强风暴造成伤亡与基础设施受损，研究者分析大气环流与海温等因素对极端降雨与风暴路径的影响。"
-        source: "The Guardian"
-        time: "03:15"
-        tag: "气候"
-        url: https://www.theguardian.com/world/2026/feb/26/recent-mediterranean-storms-tragedies-spain-portugal-morocco
+      - title: "Show HN: AI Agent Team Framework"
+        summary: Dedicated framework for building and orchestrating autonomous AI agent teams. Includes GitHub issue routing, multi-agent Discord coordinati…
+        source: "Hacker News: Newest"
+        time: "20:11"
+        tag: 科技
+        url: "https://github.com/danilocaffaro/ai-agent-team-guide"
+      - title: "Show HN: We analyzed 312 landing pages – most navigation flows are brok…"
+        summary: "We’ve been building a small design + navigation planning tool( [https://no-edit.lovable.app](https://no-edit.lovable.app)) over the last fe…"
+        source: "Hacker News: Newest"
+        time: "20:10"
+        tag: 科技
+        url: "https://news.ycombinator.com/item?id=47194296"
+      - title: 限量5000台，联通云免费送1个月4核8G服务器，预装 OpenClaw
+        summary: 实在没想到，OpenClaw 的出圈导致传统云服务厂商，开始以这样的方式推广自己的服务器。前不久天翼云赠送了1个月的 OpenClaw 服务器（自带 AI 额度），现在联通云也来送了。 具体来说，还是 1 个月的使用时常，��...
+        source: 小众软件
+        time: "19:20"
+        tag: 科技
+        url: "https://www.appinn.com/cucloud-openclaw/"
+      - title: Audio not working on iPhone
+        summary: I rang my wife's iPhone today but she couldn't hear me but when she called me she could. It's connected to her hearing aids. Is there an ex…
+        source: Mac-Forums | Fix Mac iPhone iPad | Buying Tips | iOS OS Help
+        time: "18:13"
+        tag: 科技
+        url: "https://www.mac-forums.com/threads/audio-not-working-on-iphone.380198/"
+      - title: 年度征文｜LLM 眼中的好文章：少数派 2025 热门内容解码
+        summary: "那些互动量高的文章，往往不是最精致的，而是最真的。 [查看全文](https://sspai.com/post/106469)"
+        source: 少数派
+        time: "13:47"
+        tag: 科技
+        url: "https://sspai.com/post/106469"
+      - title: Defense secretary Pete Hegseth designates Anthropic a supply chain risk
+        summary: Nearly two hours after President Donald Trump announced on Truth Social that he was banning Anthropic products from the federal government,…
+        source: The Verge
+        time: "10:19"
+        tag: 科技
+        url: "https://www.theverge.com/policy/886632/pentagon-designates-anthropic-supply-chain-risk-ai-standoff"
+      - title: HelloGitHub 第 119 期
+        summary: 本期共有 41 个项目，包含 C 项目 (2)，C# 项目 (2)，C++ 项目 (2)，Go 项目 (4)，Java 项目 (2)，JavaScript 项目 (5)，Kotlin 项目 (2)，Python 项目 (5)，Rust 项目 (3)，Swift 项目 (3)，人…
+        source: HelloGitHub 月刊
+        time: "08:10"
+        tag: 科技
+        url: "https://hellogithub.com/periodical/volume/119"
+      - title: Offline AI chat app for iOS
+        summary: "[![Offline AI chat app for iOS](https://preview.redd.it/c48il77i44mg1.png?width=640&crop=smart&auto=webp&s=307b7a109110946311d994c4d3a5b070…"
+        source: MacOSApps
+        time: "06:22"
+        tag: 科技
+        url: "https://www.reddit.com/r/MacOSApps/comments/1rgkwe1/offline_ai_chat_app_for_ios/"
 
   - name: 💰 财经
     items:
-      - type: stats
-        title: 主要宏观指标（美国，最新口径）
-        metrics:
-          - label: CPI（2026年1月环比）
-            value: "+0.2%"
-          - label: 失业率（2026年1月）
-            value: "4.3%"
-        
-      - title: "欧洲央行公布2025年财务报表，市场关注加息周期后的资产负债变化"
-        summary: "欧洲央行发布2025年财务报表。分析人士通常会从中观察利率环境变化对央行收益、资产估值与相关风险准备的影响。"
-        source: "ECB"
-        time: "03:00"
-        tag: "欧洲"
-        url: https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260226~15dbe4febc.en.html
+      - title: 淘宝闪购开源食安治理AI大模型“白泽”
+        summary: 2月28日消息，淘宝闪购正式发布专为餐饮服务与零售门店打造的风控治理垂直领域开源大模型——“白泽”（Ostrakon-VL），并宣布相关技术能力向全行业免费开放。 借助“白泽”大模型，外卖平台、餐饮及零售企...
+        source: 36氪
+        time: "18:01"
+        tag: 财经
+        url: "https://36kr.com/newsflashes/3702711337431170?f=rss"
+      - title: 南京娃哈哈宏振饮用水公司近日注销
+        summary: 36氪获悉，爱企查App显示，近日，南京娃哈哈宏振饮用水有限公司登记状态由存续变更为注销。 该公司成立于2015年1月，法定代表人为盛文龙，注册资本2500万元人民币，经营范围包括食品的生产和销售，食品用塑...
+        source: 36氪
+        time: "17:45"
+        tag: 财经
+        url: "https://36kr.com/newsflashes/3702683288334468?f=rss"
+      - title: 星河动力公布火箭舱段对接专利
+        summary: 近日，北京星河动力航天科技股份有限公司申请公布“火箭舱段的对接装置、对接系统及对接方法”专利。据专利摘要，本申请提供了一种火箭舱段的对接装置、对接系统及对接方法。（界面）
+        source: 36氪
+        time: "17:30"
+        tag: 财经
+        url: "https://36kr.com/newsflashes/3702677783785858?f=rss"
+      - title: DeepSeek服务出现访问异常
+        summary: DeepSeek服务今日出现访问异常，大量用户反映其网页端和App提示“服务器繁忙”或无法响应。《科创板日报》实测发现，向DeepSeek App提问后，多次反馈“请检查网络后重试”。（科创板日报）
+        source: 36氪
+        time: "17:18"
+        tag: 财经
+        url: "https://36kr.com/newsflashes/3702673025151107?f=rss"
 
-      - title: "英国街头露宿人数创新高：官方统计显示单夜约4,793人露宿"
-        summary: "The Guardian 引述官方统计称，英格兰露宿人数同比上升。住房可负担性、救助资源与地方政府财政压力被认为是推动因素之一。"
-        source: "The Guardian"
-        time: "02:50"
-        tag: "英国"
-        url: https://www.theguardian.com/society/2026/feb/26/record-number-of-rough-sleepers-in-england-last-year-official-figures-show
+  - name: 🌍 国际
+    items:
+      - title: Tenways nearly perfects the shareable city e-bike
+        summary: Good electric bikes are expensive. So why not buy one and share it? That's the idea behind the Tenways CGO Compact e-bike I've been sharing…
+        source: The Verge
+        time: "16:00"
+        tag: 国际
+        url: "https://www.theverge.com/reviews/885040/tenways-cgo-compact-review-sharable-adaptable"
+      - title: The best instant cameras you can buy right now
+        summary: Even with the ability to take excellent photos with our phones and instantly share them across the world, there’s something magical about t…
+        source: The Verge
+        time: "08:32"
+        tag: 国际
+        url: "https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak"
+      - title: NASA is pushing back its plans for a Moon landing
+        summary: NASA announced at a press conference on Friday that it's delaying its plans for a Moon landing until Artemis IV in 2028. The Artemis III mi…
+        source: The Verge
+        time: "07:11"
+        tag: 国际
+        url: "https://www.theverge.com/science/886656/nasa-artemis-moon-landing-delayed-2028"
 
-      - title: "北达科他州法官裁定：绿色和平组织需就输油管抗议相关诉讼承担高额赔偿"
-        summary: "The Guardian 报道称，法院将就与达科他输油管抗议相关的诉讼裁定绿色和平组织承担巨额赔偿。绿色和平表示案件远未结束，后续仍将上诉与抗辩。"
-        source: "The Guardian"
-        time: "02:40"
-        tag: "法律"
-        url: https://www.theguardian.com/us-news/2026/feb/25/greenpeace-dakota-access-pipeline-protest
+  - name: 🧩 其他
+    items:
+      - title: HP Chromebook Mini 2 Build (Prototype)
+        summary: "submitted by [/u/Late\\_Doctor7629](https://www.reddit.com/user/Late_Doctor7629) [\\[link\\]](https://www.reddit.com/gallery/1rh19ro)[\\[commen…"
+        source: ChromeOS
+        time: "20:20"
+        tag: 其他
+        url: "https://www.reddit.com/r/chromeos/comments/1rh19ro/hp_chromebook_mini_2_build_prototype/"
+      - title: When you can't escape an interface, it institutionalises you
+        summary: "Article URL: [https://timmb.com/when-you-cant-escape-an-interface/](https://timmb.com/when-you-cant-escape-an-interface/) Comments URL: [ht…"
+        source: "Hacker News: Newest"
+        time: "20:12"
+        tag: 其他
+        url: "https://timmb.com/when-you-cant-escape-an-interface/"
+      - title: Periodic Table
+        summary: "Article URL: [https://www.periodicspiral.com](https://www.periodicspiral.com) Comments URL: [https://news.ycombinator.com/item?id=47194305]…"
+        source: "Hacker News: Newest"
+        time: "20:11"
+        tag: 其他
+        url: "https://www.periodicspiral.com"
+      - title: well HP Chromebook 11 G5 EE work on a old red hp laptop
+        summary: "submitted by [/u/Suspicious-Pay-9209](https://www.reddit.com/user/Suspicious-Pay-9209) [\\[link\\]](https://i.redd.it/m8v0tbapz7mg1.jpeg)[\\[c…"
+        source: ChromeOS
+        time: "19:22"
+        tag: 其他
+        url: "https://www.reddit.com/r/chromeos/comments/1rh07bp/well_hp_chromebook_11_g5_ee_work_on_a_old_red_hp/"
+      - title: .deb files is opening new File Manager window instead of Installer in m…
+        summary: Whenever I try to install a Linux (.deb) package by double-clicking it in the Files app, the "Install with Linux" window does not appear. I…
+        source: ChromeOS
+        time: "19:14"
+        tag: 其他
+        url: "https://www.reddit.com/r/chromeos/comments/1rh02de/deb_files_is_opening_new_file_manager_window/"
+      - title: OCR Options for macOS - On Screen, In Images, On the Clipboard, In PDFs
+        summary: "[![OCR Options for macOS - On Screen, In Images, On the Clipboard, In PDFs](https://preview.redd.it/29xkufgus7mg1.jpg?width=140&height=140&…"
+        source: r/MacApps
+        time: "18:47"
+        tag: 其他
+        url: "https://www.reddit.com/r/macapps/comments/1rgzllm/ocr_options_for_macos_on_screen_in_images_on_the/"
+      - title: Riced Samsung Chromebook Plus v1 as wifi 2nd monitor
+        summary: "submitted by [/u/Blue\\_AZ](https://www.reddit.com/user/Blue_AZ) [\\[link\\]](https://www.reddit.com/gallery/1rgzhmy)[\\[comments\\]](https://ww…"
+        source: ChromeOS
+        time: "18:40"
+        tag: 其他
+        url: "https://www.reddit.com/r/chromeos/comments/1rgzhmy/riced_samsung_chromebook_plus_v1_as_wifi_2nd/"
+      - title: Messy Downloads? I’m building a free Mac utility to auto-delete files,…
+        summary: Hi everyone, I’m a student currently working on my first Mac app, and I’d love feedback from people who actually use Mac utilities. The app…
+        source: MacOSApps
+        time: "09:07"
+        tag: 其他
+        url: "https://www.reddit.com/r/MacOSApps/comments/1rgou95/messy_downloads_im_building_a_free_mac_utility_to/"
+      - title: MoePeek：轻量级划词翻译工具，基于设备端 Apple 翻译引擎，体积仅 5MB，运行内存稳定约 50MB
+        summary: 轻量原生的 macOS 菜单栏翻译工具，选中即译，纯 Swift 6 开发，设备端 Apple 翻译保护隐私，安装体积仅 5MB，后台运行内存稳定约 50MB 功能 翻译方式 划词翻译：在任意应用中选中文字，浮窗即时展示翻译结果 OCR ��...
+        source: Quick RSS 技术资源分享
+        time: "07:16"
+        tag: 其他
+        url: "https://wangchujiang.com/quick-rss/issue/299.html"
+      - title: How I Use Alter
+        summary: "[![How I Use Alter](https://preview.redd.it/2zcygt0gi4mg1.jpg?width=140&height=50&auto=webp&s=18e338de276f65171973fffcbf7b4e0c301941ae)](ht…"
+        source: r/MacApps
+        time: "07:04"
+        tag: 其他
+        url: "https://www.reddit.com/r/macapps/comments/1rgly5g/how_i_use_alter/"
+      - title: "Idea: project-based personal growth tracker - would you use it?"
+        summary: Hi everyone, I’m exploring an idea for a macOS-first app (with iPhone as secondary) and I’d really value your honest feedback before buildi…
+        source: MacOSApps
+        time: "06:02"
+        tag: 其他
+        url: "https://www.reddit.com/r/MacOSApps/comments/1rgkd9l/idea_projectbased_personal_growth_tracker_would/"
+      - title: PXL Cam Creative Virtual Camera
+        summary: "[![PXL Cam Creative Virtual Camera](https://external-preview.redd.it/dGhZhSjMsEcUkLNVlcuLmEKsisWDfZLo4fmlpund4Ys.jpeg?width=140&height=73&a…"
+        source: r/MacApps
+        time: "05:54"
+        tag: 其他
+        url: "https://www.reddit.com/r/macapps/comments/1rgk69o/pxl_cam_creative_virtual_camera/"
+      - title: Looking for a menubar or widget based apps for tracking time to submit…
+        summary: Often we need to track deadline of projects and it might get away from view unless we have apps that constantly reminds us about something.…
+        source: r/MacApps
+        time: "05:31"
+        tag: 其他
+        url: "https://www.reddit.com/r/macapps/comments/1rgjk63/looking_for_a_menubar_or_widget_based_apps_for/"
+      - title: "&#8220;For months, callers to the Washington state..."
+        summary: “For months, callers to the Washington state Department of Licensing who have requested automated service in Spanish [have instead heard an…
+        source: kottke.org
+        time: "05:08"
+        tag: 其他
+        url: "https://kottke.org/26/02/0048461-for-months-callers-to-the"

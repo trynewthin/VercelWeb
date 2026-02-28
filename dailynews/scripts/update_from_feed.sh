@@ -22,5 +22,12 @@ else
   LIMIT="$LIMIT" FEED_JSON="$TMP_JSON" node scripts/generate_from_feed.mjs
 fi
 
+# Ensure dependencies installed
+if [ ! -d node_modules ]; then
+  echo "Installing dependencies (npm install --no-audit --no-fund)..."
+  npm install --no-audit --no-fund
+fi
+
+
 npm run validate
 npm run deploy
