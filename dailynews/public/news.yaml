@@ -9,24 +9,30 @@ sections:
 
   - name: 🌍 国际
     items:
-      - title: US and Israel launch "pre-emptive" attack against Iran | Reuters
-        summary: US and Israel launch "pre-emptive" attack against Iran | Reuters Skip to main content Report AdImage 1 Exclusive news, data and analytics for financial market professionals Learn…
-        source: reuters.com
-        time: "12:00"
-        tag: 国际
-        url: "https://www.reuters.com/world/middle-east/israel-says-it-launched-pre-emptive-attack-against-iran-2026-02-28/"
       - title: US and Israel strike Iran, targeting its top leaders | Reuters
         summary: Explosions were heard near Iran's Kharg Island. Iran exports 90 percent of its crude oil via Kharg, for shipping through the narrow Strait of Hormuz. Global airlines cancelled fli…
         source: reuters.com
         time: "12:00"
         tag: 国际
         url: "https://www.reuters.com/business/aerospace-defense/israel-us-launch-strikes-iran-2026-02-28/"
+      - title: "US and Israel launch strikes on Iran: what we know so far"
+        summary: "US news US politics World Climate crisis Middle East Ukraine US immigration Soccer Business Environment Tech Science Newsletters The Filter Wellness Image 2: A plume of smoke rise…"
+        source: theguardian.com
+        time: "12:00"
+        tag: 国际
+        url: "https://www.theguardian.com/world/2026/feb/28/us-israel-launch-strikes-attack-iran-what-we-know-so-far-latest"
       - title: Top US general, Hegseth monitoring Iran strikes from Trump resort ...
         summary: Skip to main content # Top US general, Hegseth monitoring Iran strikes from Trump resort, person familiar says By Reuters Aftermath of strike in Tehran Smoke rises following an ex…
         source: reuters.com
         time: "12:00"
         tag: 国际
         url: "https://www.reuters.com/world/us/top-us-general-hegseth-monitoring-iran-strikes-trump-resort-person-familiar-says-2026-02-28/"
+      - title: US and Israel launch "pre-emptive" attack against Iran | Reuters
+        summary: US and Israel launch "pre-emptive" attack against Iran | Reuters Skip to main content Report AdImage 1 Exclusive news, data and analytics for financial market professionals Learn…
+        source: reuters.com
+        time: "12:00"
+        tag: 国际
+        url: "https://www.reuters.com/world/middle-east/israel-says-it-launched-pre-emptive-attack-against-iran-2026-02-28/"
       - title: Russia says Trump and Israel are plunging the Middle East into the ...
         summary: Skip to main content # Russia says Trump and Israel are plunging the Middle East into the abyss with Iran attack By Reuters Aftermath of strike in Tehran Smoke rises following an…
         source: reuters.com
@@ -39,48 +45,144 @@ sections:
         time: "12:00"
         tag: 国际
         url: "https://www.nytimes.com/2026/02/28/world/middleeast/iran-attacks-reaction.html"
-      - title: Trump's unprovoked attack on Iran has no legal mandate and no ...
-        summary: Julian Borger in Jerusalem US president violates UN charter just days into the Board of Peace era, and chooses to take the biggest gamble of his administration US-Israeli attack o…
-        source: theguardian.com
+      - title: Airspace closed, airlines halt flights as US, Israel attack, Iran respo…
+        summary: Skip linksSkip to Content Live Live News|Aviation # Airspace closed, airlines halt flights as US, Israel attack, Iran responds At least eight countries, including Iran, Israel, Jo…
+        source: aljazeera.com
         time: "12:00"
         tag: 国际
-        url: "https://www.theguardian.com/us-news/2026/feb/28/trump-unprovoked-attack-on-iran-has-no-mandate-and-no-clear-objective"
-      - title: What is the 'rules-based order' and can it survive? - DW.com
-        summary: 1. Skip to content 2. Skip to main menu 3. Skip to more DW sites In focus UkraineIranTrump tariffs Latest audioLatest videos Live TV Advertisement PoliticsUnited States of America…
-        source: dw.com
+        url: "https://www.aljazeera.com/news/2026/2/28/airspace-closed-airlines-halt-flights-as-us-israel-attack-iran-responds"
+      - title: "US and Israel attack Iran: What we know so far - Al Jazeera"
+        summary: "US and Israel attack Iran: What we know so far | Israel-Iran conflict News | Al Jazeera Advertisement Skip linksSkip to Content -Iranian media reported that explosions were heard…"
+        source: aljazeera.com
         time: "12:00"
         tag: 国际
-        url: "https://www.dw.com/en/what-is-the-rules-based-order-and-can-it-survive/a-76002970"
+        url: "https://www.aljazeera.com/news/2026/2/28/us-and-israel-attack-iran-what-we-know-so-far"
+      - title: "US, Israel bomb Iran: A timeline of talks and threats leading up to ..."
+        summary: January 8, 2026 – The internet is shut down across Iran following the outbreak of antigovernment protests, which have now spread beyond cities. The blackout lasts for more than tw…
+        source: aljazeera.com
+        time: "12:00"
+        tag: 国际
+        url: "https://www.aljazeera.com/news/2026/2/28/us-israel-bomb-iran-a-timeline-of-talks-and-threats-leading-up-to-attacks"
+      - title: "BBC Audio | BBC News | 28/02/2026 11:01 GMT"
+        summary: "BBC News, BBC News, 28/02/2026 11:01 GMT ## BBC News ### BBC News # 28/02/2026 11:01 GMT 28 February 2026 5 minutes Available for 1 day The latest five minute news bulletin from B…"
+        source: bbc.com
+        time: "12:00"
+        tag: 国际
+        url: "https://www.bbc.com/audio/play/w172zwx4jg6z7c7"
+      - title: Latin America - AP News
+        summary: "### US moves to legally control tanker and 2M barrels of oil seized off Venezuela’s coast in December European Commission President Ursula von der Leyen prepares to address the au…"
+        source: apnews.com
+        time: "12:00"
+        tag: 国际
+        url: "https://apnews.com/hub/latin-america"
+      - title: Latin America | Latest News & Updates - BBC
+        summary: Marielle Franco's murder at the age of 38 in Rio de Janeiro sparked protests across Brazil. 1 day ago Latin America ## Mexico hunts 23 inmates sprung from jail during wave of viol…
+        source: bbc.com
+        time: "12:00"
+        tag: 国际
+        url: "https://www.bbc.com/news/world/latin_america"
 
   - name: 🌏 亚太
     items:
-      - title: India builds military airfield in Indian Ocean to counter China
-        summary: Straitstimes.com header logo Choose edition Search singapore asia world opinion life business sport Visual Podcasts SPH Rewards STClassifieds Paid press releases Advertise with us…
-        source: straitstimes.com
+      - title: Japan joins U.S., Philippines for military exercises in waters near ...
+        summary: Your subscription plan doesn't allow commenting. To learn more see our FAQ [...] A team headed by Takashi Tsuji, a visiting senior researcher at Riken and chairperson of OrganTech…
+        source: japantimes.co.jp
         time: "12:00"
         tag: 亚太
-        url: "https://www.straitstimes.com/asia/south-asia/india-builds-military-airfield-in-indian-ocean-to-counter-china"
+        url: "https://www.japantimes.co.jp/news/2026/02/28/japan/japan-us-philippines-military-bashi-channel/"
+      - title: Taiwan arms sale OK'd by U.S. Congress is delayed as Trump plans ...
+        summary: A team headed by Takashi Tsuji, a visiting senior researcher at Riken and chairperson of OrganTech, has identified a previously unknown “third cell” essential for fully regenerati…
+        source: japantimes.co.jp
+        time: "12:00"
+        tag: 亚太
+        url: "https://www.japantimes.co.jp/news/2026/02/28/asia-pacific/politics/us-taiwan-arms-sales-delayed/"
+      - title: Latest News - The Japan Times
+        summary: Foreign Minister Toshimitsu Motegi speaks during a news conference Friday at the ministry. Japanese officials are currently examining other countries' responses to U.S. President…
+        source: japantimes.co.jp
+        time: "12:00"
+        tag: 亚太
+        url: "https://www.japantimes.co.jp/latest-news"
+      - title: North Korea unveils image of leader's daughter firing rifle
+        summary: international-reports ## Latest News ##### In your social network Facebook ##### In your inbox SIGN ME UP ##### In your social network Facebook ##### In your inbox SIGN ME UP The…
+        source: japantimes.co.jp
+        time: "12:00"
+        tag: 亚太
+        url: "https://www.japantimes.co.jp/news/2026/02/28/asia-pacific/north-korea-kim-ju-ae/"
 
   - name: 🇨🇳 中国
     items:
-      - title: "8:00 am, Kr 36 | After Yonghui learned from Fat Donglai, it still loses…"
-        summary: After introducing policies such as the "Seven-Year Ultra-Low Interest Rate" and "Five-Year Zero Interest Rate," Tesla China has rolled out a subsidy program for some models. On Ja…
+      - title: "7-Year Low-Interest Rate: Grab a Car at Ultra-Low Price as ... - 36氪"
+        summary: Domestically, Cui Dongshu, the secretary-general of the branch of the China Automobile Dealers Association, predicted that affected by the policy withdrawal, the sales volume of p…
         source: eu.36kr.com
         time: "12:00"
         tag: 🇨🇳 中国
-        url: "https://eu.36kr.com/en/p/3655490995576964"
-      - title: "8:00 YidianZixun Minute: Xibei Closes 102 Stores, Jia Guolong's ..."
-        summary: of banks have shown signs of stabilizing. In 2026, a large amount of long - term deposits with terms of 3 - year and 5 - year will mature. This time, the reduction of interest rat…
+        url: "https://eu.36kr.com/en/p/3650398116929670"
+      - title: Which city will become the next major hub for China's chip industry ...
+        summary: On January 20, 2026, Liao Min, the deputy minister of the Ministry of Finance, stated at a press conference held by the State Council Information Office that in 2026, the financia…
         source: eu.36kr.com
         time: "12:00"
         tag: 🇨🇳 中国
-        url: "https://eu.36kr.com/en/p/3641337324949125"
+        url: "https://eu.36kr.com/en/p/3665991458661001"
+      - title: "Affordable Phones: Soon to Be Out of Reach? - 36氪"
+        summary: "Home Article # Affordable phones may soon be out of reach. 中国企业家杂志2026-02-28 16:29 Known as the \"electronic gold,\" memory is breaking through the pricing defense line of mobile ph…"
+        source: eu.36kr.com
+        time: "12:00"
+        tag: 🇨🇳 中国
+        url: "https://eu.36kr.com/en/p/3702585196163203"
+      - title: Central China's First City Sets Sights on Becoming a "First-Tier City"
+        summary: "# The first city in central China is now aiming to become a \"first-tier city\". On February 3rd, Wuhan held a city-wide conference on building itself into a first-tier city in the…"
+        source: eu.36kr.com
+        time: "12:00"
+        tag: 🇨🇳 中国
+        url: "https://eu.36kr.com/en/p/3670059130332038"
+
+  - name: 💰 财经
+    items:
+      - title: WTI Crude Oil price information - FT.com - Markets data
+        summary: "| Orange Juice As of Feb 25 2026 18:59 GMT. | 185.95 USc | +0.35 +0.19% | | Today 132.50Nov 24 2025344.30Jul 24 2025 | | Coffee (Arabica) \"View charting and quote on Coffee (Arabi…"
+        source: markets.ft.com
+        time: "12:00"
+        tag: 财经
+        url: "https://markets.ft.com/data/commodities/tearsheet/summary?c=WTI+Crude+Oil"
+      - title: The Wall Street Journal's News Archive for February 28, 2026
+        summary: The Wall Street Journal SubscribeSign In Use Alt + Down Arrow to expand. Print Edition Video Audio Latest Headlines Puzzles The Wall Street Journal SubscribeSign In Use Alt + Down…
+        source: wsj.com
+        time: "12:00"
+        tag: 财经
+        url: "https://www.wsj.com/news/archive/2026/02/28"
 
   - name: 💻 科技
     items:
-      - title: If A.I. Is a Weapon, Who Should Control It? - The New York Times
-        summary: That’s not what the Pentagon says it intends to do. Its professed concern is that it can’t embed a crucial technology into the national security architecture and then give a priva…
-        source: nytimes.com
+      - title: "Planetary parade 2026: Six planets visible in night sky - BBC"
+        summary: A brightly lit observatory building beneath a swirling starry sky ## New Scottish Dark Sky Observatory plans submitted The state of the art facility in Galloway will replace one w…
+        source: bbc.com
         time: "12:00"
         tag: 科技
-        url: "https://www.nytimes.com/2026/02/28/opinion/artificial-intelligence-trump-hegseth-anthropic.html"
+        url: "https://www.bbc.com/news/articles/c4g3l0yzyxdo"
+      - title: Scientists find promising hints of life on distant planet K2-18b - BBC
+        summary: Prof Madhusudhan acknowledges that there is still a scientific mountain to climb if he is to answer one of the biggest questions in science. But he believes he and his team are on…
+        source: bbc.com
+        time: "12:00"
+        tag: 科技
+        url: "https://www.bbc.com/news/articles/c39jj9vkr34o"
+
+  - name: 🧩 其他
+    items:
+      - title: As extreme weather increases, climate misinformation adapts | AP News
+        summary: FILE - In this Feb. 17, 2021, file photo, people wait in line to fill propane tanks in Houston. As the impact of climate change becomes more apparent, misinformation about it is s…
+        source: apnews.com
+        time: "12:00"
+        tag: 其他
+        url: "https://apnews.com/article/joe-biden-wildfires-climate-change-misinformation-climate-d5909c4ddfb13e82174dafcef4af94ff"
+      - title: Extreme weather events are becoming more severe, not less | AP News
+        summary: “We could look at accumulated cyclonic energy — typhoons in the Pacific, hurricanes in the Atlantic — and it’s actually declined over the last 20 or 30 years,” the speaker says in…
+        source: apnews.com
+        time: "12:00"
+        tag: 其他
+        url: "https://apnews.com/article/fact-check-extreme-weather-events-climate-change-169250036362"
+      - title: Scientists change El Nino label to keep up with warming waters
+        summary: “When El Nino develops, we’re likely to set a new global temperature record,” Woodwell’s Francis said in an email. “‘Normal’ was left in the dust decades ago. And with this much h…
+        source: apnews.com
+        time: "12:00"
+        tag: 其他
+        url: "https://apnews.com/article/el-nino-la-nina-climate-change-warming-e3499ef5e1081604770c4cf5f95910b3"

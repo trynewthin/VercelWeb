@@ -176,12 +176,28 @@ function allowlistFilter(url) {
 
 // Query plan (simple + broad). Tavily doesn’t guarantee date filtering; we include date tokens.
 const queries = [
+  // World / geopolitics
   { section: "🌍 国际", q: `top world news ${targetHuman} site:reuters.com OR site:apnews.com OR site:bbc.com OR site:theguardian.com` },
-  { section: "🌍 国际", q: `global politics conflict diplomacy ${targetHuman} site:reuters.com OR site:aljazeera.com OR site:dw.com` },
-  { section: "💰 财经", q: `global markets economy inflation rates ${targetHuman} site:reuters.com OR site:ft.com OR site:bloomberg.com` },
-  { section: "🌏 亚太", q: `Asia Pacific news ${targetHuman} site:cna.com.sg OR site:straitstimes.com OR site:scmp.com OR site:nhk.or.jp` },
-  { section: "🇨🇳 中国", q: `China news policy economy ${targetHuman} site:caixin.com OR site:yicai.com OR site:thepaper.cn OR site:36kr.com` },
-  { section: "💻 科技", q: `technology AI security research ${targetHuman} site:reuters.com OR site:apnews.com OR site:theverge.com OR site:arstechnica.com` },
+  { section: "🌍 国际", q: `Europe news ${targetHuman} site:reuters.com OR site:bbc.com OR site:spiegel.de OR site:lemonde.fr OR site:elpais.com` },
+  { section: "🌍 国际", q: `Middle East news ${targetHuman} site:reuters.com OR site:aljazeera.com OR site:dw.com` },
+  { section: "🌍 国际", q: `Africa news ${targetHuman} site:reuters.com OR site:bbc.com OR site:apnews.com` },
+  { section: "🌍 国际", q: `Latin America news ${targetHuman} site:reuters.com OR site:apnews.com OR site:bbc.com` },
+
+  // Asia-Pacific
+  { section: "🌏 亚太", q: `Asia Pacific news ${targetHuman} site:cna.com.sg OR site:straitstimes.com OR site:scmp.com OR site:nhk.or.jp OR site:japantimes.co.jp` },
+
+  // China
+  { section: "🇨🇳 中国", q: `China economy policy ${targetHuman} site:caixin.com OR site:yicai.com OR site:thepaper.cn OR site:36kr.com` },
+
+  // Business / markets
+  { section: "💰 财经", q: `global markets stocks bonds oil ${targetHuman} site:reuters.com OR site:ft.com OR site:wsj.com` },
+  { section: "💰 财经", q: `central banks inflation rates ${targetHuman} site:reuters.com OR site:ft.com OR site:economist.com` },
+
+  // Tech / science / health / climate
+  { section: "💻 科技", q: `technology AI cybersecurity ${targetHuman} site:reuters.com OR site:apnews.com OR site:bbc.com` },
+  { section: "💻 科技", q: `space science research ${targetHuman} site:apnews.com OR site:bbc.com OR site:reuters.com` },
+  { section: "🧩 其他", q: `public health disease WHO ${targetHuman} site:reuters.com OR site:apnews.com OR site:bbc.com` },
+  { section: "🧩 其他", q: `climate extreme weather energy transition ${targetHuman} site:reuters.com OR site:bbc.com OR site:apnews.com` },
 ];
 
 const all = [];
