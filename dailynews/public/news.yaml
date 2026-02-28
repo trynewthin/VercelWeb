@@ -69,18 +69,6 @@ sections:
         time: "12:00"
         tag: 国际
         url: "https://www.bbc.com/audio/play/w172zwx4jg6z7c7"
-      - title: Latin America - AP News
-        summary: "### US moves to legally control tanker and 2M barrels of oil seized off Venezuela’s coast in December European Commission President Ursula von der Leyen prepares to address the au…"
-        source: apnews.com
-        time: "12:00"
-        tag: 国际
-        url: "https://apnews.com/hub/latin-america"
-      - title: Latin America | Latest News & Updates - BBC
-        summary: Marielle Franco's murder at the age of 38 in Rio de Janeiro sparked protests across Brazil. 1 day ago Latin America ## Mexico hunts 23 inmates sprung from jail during wave of viol…
-        source: bbc.com
-        time: "12:00"
-        tag: 国际
-        url: "https://www.bbc.com/news/world/latin_america"
 
   - name: 🌏 亚太
     items:
@@ -96,18 +84,18 @@ sections:
         time: "12:00"
         tag: 亚太
         url: "https://www.japantimes.co.jp/news/2026/02/28/asia-pacific/politics/us-taiwan-arms-sales-delayed/"
-      - title: Latest News - The Japan Times
-        summary: Foreign Minister Toshimitsu Motegi speaks during a news conference Friday at the ministry. Japanese officials are currently examining other countries' responses to U.S. President…
-        source: japantimes.co.jp
-        time: "12:00"
-        tag: 亚太
-        url: "https://www.japantimes.co.jp/latest-news"
       - title: North Korea unveils image of leader's daughter firing rifle
         summary: international-reports ## Latest News ##### In your social network Facebook ##### In your inbox SIGN ME UP ##### In your social network Facebook ##### In your inbox SIGN ME UP The…
         source: japantimes.co.jp
         time: "12:00"
         tag: 亚太
         url: "https://www.japantimes.co.jp/news/2026/02/28/asia-pacific/north-korea-kim-ju-ae/"
+      - title: Japan to prepare for any risks over strikes on Iran
+        summary: A team headed by Takashi Tsuji, a visiting senior researcher at Riken and chairperson of OrganTech, has identified a previously unknown “third cell” essential for fully regenerati…
+        source: japantimes.co.jp
+        time: "12:00"
+        tag: 亚太
+        url: "https://www.japantimes.co.jp/news/2026/02/28/japan/japan-iran-risks-prepare/"
 
   - name: 🇨🇳 中国
     items:
@@ -165,6 +153,12 @@ sections:
         time: "12:00"
         tag: 科技
         url: "https://www.bbc.com/news/articles/c39jj9vkr34o"
+      - title: The Manchester-made tool reducing space satellite crashes - BBC
+        summary: "Lead author John Mackintosh, PhD researcher at The University of Manchester, said: \"Our research addresses what is described as a \"space sustainability paradox\", the risk that usi…"
+        source: bbc.com
+        time: "12:00"
+        tag: 科技
+        url: "https://www.bbc.com/news/articles/cy57k5q2945o"
 
   - name: 🧩 其他
     items:

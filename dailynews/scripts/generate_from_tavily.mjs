@@ -140,6 +140,7 @@ function isBadUrl(url) {
     /\/topics\//,
     /\/tag\//,
     /\/topic\//,
+    /\/hub\//,
     /\/index\.html$/,
     /\/live\//,
     /\/live-/,
@@ -158,6 +159,14 @@ function isBadUrl(url) {
   if (/scmp\.com\/$/.test(u)) return true;
   if (/scmp\.com\/news\/[a-z-]+\/?$/.test(u)) return true;
 
+  // AP hub pages
+  if (/apnews\.com\/hub\//.test(u)) return true;
+
+  // BBC topic/region landing pages
+  if (/bbc\.com\/news\/world\/[a-z_]+\/?$/.test(u)) return true;
+
+  // Japan Times landing pages
+  if (/japantimes\.co\.jp\/(?:latest-news|latest_news)\/?$/.test(u)) return true;
   // generic homepage-only URLs
   try {
     const uu = new URL(url);
