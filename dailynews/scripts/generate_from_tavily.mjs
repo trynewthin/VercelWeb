@@ -109,6 +109,16 @@ const allowDomains = [
   "ft.com",
   "wsj.com",
   "nytimes.com",
+  "npr.org",
+  "washingtonpost.com",
+  "cnn.com",
+  "sky.com",
+  "abcnews.go.com",
+  "cbsnews.com",
+  "time.com",
+  "lemonde.fr",
+  "elpais.com",
+  "spiegel.de",
   "cna.com.sg",
   "nhk.or.jp",
   "japantimes.co.jp",
@@ -132,6 +142,8 @@ function isBadUrl(url) {
     /\/topic\//,
     /\/index\.html$/,
     /\/live\//,
+    /\/live-/,
+    /\/liveblog\//,
     /-live-/, // e.g., reuters "crisis-live"
   ];
   if (deny.some((re) => re.test(u))) return true;
@@ -141,6 +153,16 @@ function isBadUrl(url) {
 
   // NYTimes section landing pages
   if (/nytimes\.com\/(?:ca\/)?section\//.test(u)) return true;
+
+  // SCMP category landing pages and homepages
+  if (/scmp\.com\/$/.test(u)) return true;
+  if (/scmp\.com\/news\/[a-z-]+\/?$/.test(u)) return true;
+
+  // generic homepage-only URLs
+  try {
+    const uu = new URL(url);
+    if (uu.pathname === "/" || uu.pathname === "") return true;
+  } catch {}
 
   return false;
 }
@@ -166,7 +188,7 @@ const all = [];
 for (const item of queries) {
   let results = [];
   try {
-    results = tavily(item.q, 8, "advanced");
+    results = tavily(item.q, 12, "advanced");
   } catch (e) {
     // continue; Tavily may rate limit occasionally
     continue;
