@@ -120,9 +120,36 @@ const allowDomains = [
   "36kr.com",
 ];
 
+function isBadUrl(url) {
+  const u = url.toLowerCase();
+  // Filter index/section/gallery/live pages that aren't single news items
+  const deny = [
+    /\/pictures\//,
+    /\/gallery\//,
+    /\/section\//,
+    /\/topics\//,
+    /\/tag\//,
+    /\/topic\//,
+    /\/index\.html$/,
+    /\/live\//,
+    /-live-/, // e.g., reuters "crisis-live"
+  ];
+  if (deny.some((re) => re.test(u))) return true;
+
+  // Guardian newspaper front page like /theguardian/2026/feb/27
+  if (/theguardian\.com\/theguardian\/\d{4}\/\w{3}\/\d{1,2}\/?$/.test(u)) return true;
+
+  // NYTimes section landing pages
+  if (/nytimes\.com\/(?:ca\/)?section\//.test(u)) return true;
+
+  return false;
+}
+
 function allowlistFilter(url) {
   const d = domainFromUrl(url).toLowerCase();
-  return allowDomains.some((x) => d === x || d.endsWith("." + x));
+  if (!allowDomains.some((x) => d === x || d.endsWith("." + x))) return false;
+  if (isBadUrl(url)) return false;
+  return true;
 }
 
 // Query plan (simple + broad). Tavily doesn’t guarantee date filtering; we include date tokens.
