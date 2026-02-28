@@ -1,182 +1,188 @@
 sections:
   - name: 🔥 头条
     items:
-      - title: A world on edge as Trump bombs Iran and triggers war in the Middle ...
-        summary: "Explosions in Tehran, Iran, after US and Israeli strikes, 28 February 2026. Photograph: Noor Pictures/Shutterstock “Trump poses an exponentially greater danger to Americans and th…"
-        source: theguardian.com
+      - title: Afghan Taliban open to talks after Pakistan bombs Kabul, Kandahar
+        summary: Skip to main content # Pakistan strikes Afghanistan targets as clashes intensify By Reuters Pakistan, Afghan forces clash after days of hostilities Military vehicles move on a roa…
+        source: reuters.com
         time: "12:00"
-        url: "https://www.theguardian.com/commentisfree/2026/feb/28/donald-trump-bombs-iran-war-middle-east"
+        url: "https://www.reuters.com/world/asia-pacific/pakistan-strikes-afghanistan-targets-clashes-intensify-2026-02-27/"
 
   - name: 🌍 国际
     items:
-      - title: US and Israel strike Iran, targeting its top leaders | Reuters
-        summary: Explosions were heard near Iran's Kharg Island. Iran exports 90 percent of its crude oil via Kharg, for shipping through the narrow Strait of Hormuz. Global airlines cancelled fli…
+      - title: "Trump says of Iran: 'Sometimes you have to use force' | Reuters"
+        summary: The United States joined Israel’s bombing campaign against Iran in June, striking major nuclear facilities. U.S. President Donald Trump speaks to the media, as he departs from the…
         source: reuters.com
         time: "12:00"
         tag: 国际
-        url: "https://www.reuters.com/business/aerospace-defense/israel-us-launch-strikes-iran-2026-02-28/"
-      - title: "US and Israel launch strikes on Iran: what we know so far"
-        summary: "US news US politics World Climate crisis Middle East Ukraine US immigration Soccer Business Environment Tech Science Newsletters The Filter Wellness Image 2: A plume of smoke rise…"
+        url: "https://www.reuters.com/world/middle-east/trump-says-more-iran-talks-expected-friday-2026-02-27/"
+      - title: Trump advisers scramble to justify possible US military intervention ...
+        summary: Tehran’s ICBMs cannot currently reach the US, experts say, and White House has claimed its nuclear programme has been destroyed Sign up for the Breaking News US email to get newsl…
         source: theguardian.com
         time: "12:00"
         tag: 国际
-        url: "https://www.theguardian.com/world/2026/feb/28/us-israel-launch-strikes-attack-iran-what-we-know-so-far-latest"
-      - title: Top US general, Hegseth monitoring Iran strikes from Trump resort ...
-        summary: Skip to main content # Top US general, Hegseth monitoring Iran strikes from Trump resort, person familiar says By Reuters Aftermath of strike in Tehran Smoke rises following an ex…
+        url: "https://www.theguardian.com/us-news/2026/feb/27/trump-iran-war-evidence"
+      - title: Trump raises prospect of 'friendly takeover' of Cuba, says Rubio in ...
+        summary: Skip to main content # Trump raises prospect of 'friendly takeover' of Cuba By Reuters U.S. President Donald Trump boards Air Force One as he departs for Corpus Christi, Texas Ite…
         source: reuters.com
         time: "12:00"
         tag: 国际
-        url: "https://www.reuters.com/world/us/top-us-general-hegseth-monitoring-iran-strikes-trump-resort-person-familiar-says-2026-02-28/"
-      - title: US and Israel launch "pre-emptive" attack against Iran | Reuters
-        summary: US and Israel launch "pre-emptive" attack against Iran | Reuters Skip to main content Report AdImage 1 Exclusive news, data and analytics for financial market professionals Learn…
+        url: "https://www.reuters.com/world/us/trump-raises-prospect-friendly-takeover-cuba-2026-02-27/"
+      - title: Rubio will travel to Israel next week amid Iran tensions - Reuters
+        summary: Skip to main content # Rubio will travel to Israel next week amid Iran tensions By Reuters U.S. Secretary of State Rubio travel to CARICOM meeting in Saint Kitts and Nevis U.S. Se…
         source: reuters.com
         time: "12:00"
         tag: 国际
-        url: "https://www.reuters.com/world/middle-east/israel-says-it-launched-pre-emptive-attack-against-iran-2026-02-28/"
-      - title: Russia says Trump and Israel are plunging the Middle East into the ...
-        summary: Skip to main content # Russia says Trump and Israel are plunging the Middle East into the abyss with Iran attack By Reuters Aftermath of strike in Tehran Smoke rises following an…
-        source: reuters.com
+        url: "https://www.reuters.com/world/middle-east/rubio-will-travel-israel-next-week-amid-iran-tensions-2026-02-27/"
+      - title: "World news: Latest news, breaking news, today's news stories from ..."
+        summary: 2H ago #### Fact checking Trump's 2026 State of the Union address and Democratic response CBS News fact checked President Trump's 2026 State of the Union address, and Virginia Gov…
+        source: cbsnews.com
         time: "12:00"
         tag: 国际
-        url: "https://www.reuters.com/world/china/russia-says-trump-israel-are-plunging-middle-east-into-abyss-with-iran-attack-2026-02-28/"
-      - title: Here's What World Leaders Are Saying About the U.S.-Led Attack on ...
-        summary: Skip to contentSkip to site index Middle East Subscribe for $1/weekLog in Saturday, February 28, 2026 Today’s Paper Subscribe for $1/week Advertisement SKIP ADVERTISEMENT Supporte…
-        source: nytimes.com
+        url: "https://www.cbsnews.com/world/"
+      - title: Europe - World news, culture and opinion - Le Monde
+        summary: Letter from... Subscribers only ### Former EU commissioner Thierry Breton sees himself as a savior for Europe The French politician, a vocal critic of Ursula von der Leyen, is pre…
+        source: lemonde.fr
         time: "12:00"
         tag: 国际
-        url: "https://www.nytimes.com/2026/02/28/world/middleeast/iran-attacks-reaction.html"
-      - title: Airspace closed, airlines halt flights as US, Israel attack, Iran respo…
-        summary: Skip linksSkip to Content Live Live News|Aviation # Airspace closed, airlines halt flights as US, Israel attack, Iran responds At least eight countries, including Iran, Israel, Jo…
+        url: "https://www.lemonde.fr/en/europe/"
+      - title: Le Monde in English – World news, culture and opinion
+        summary: Subscribers only Gabriel Attal pushes ahead with presidential bid, despite doubts within party Subscribers only How Edouard Philippe hopes to succeed Macron Iranian President Maso…
+        source: lemonde.fr
+        time: "12:00"
+        tag: 国际
+        url: "https://www.lemonde.fr/en/"
+      - title: With an estimated 500,000 killed, the Russia-Ukraine war is ...
+        summary: "Date: Loading date... Time: Loading time... Go Back to the HomePage Le Monde FR EN Subscribe Subscribe Sign in Sign in Go Back to the HomePage Le Monde FR EN War in Ukraine 2026 F…"
+        source: lemonde.fr
+        time: "12:00"
+        tag: 国际
+        url: "https://www.lemonde.fr/en/international/article/2026/02/27/with-an-estimated-500-000-dead-the-russia-ukraine-war-is-europe-s-deadliest-since-1945_6750914_4.html"
+      - title: Middle East News | Today's latest from Al Jazeera
+        summary: "![A Palestinian boy lies on a hospital bed receiving treatment for burn injuries at a Doctors Without Borders (MSF) hospital, amid severe shortages of medical equipment, medicines…"
         source: aljazeera.com
         time: "12:00"
         tag: 国际
-        url: "https://www.aljazeera.com/news/2026/2/28/airspace-closed-airlines-halt-flights-as-us-israel-attack-iran-responds"
-      - title: "US and Israel attack Iran: What we know so far - Al Jazeera"
-        summary: "US and Israel attack Iran: What we know so far | Israel-Iran conflict News | Al Jazeera Advertisement Skip linksSkip to Content -Iranian media reported that explosions were heard…"
-        source: aljazeera.com
-        time: "12:00"
-        tag: 国际
-        url: "https://www.aljazeera.com/news/2026/2/28/us-and-israel-attack-iran-what-we-know-so-far"
+        url: "https://www.aljazeera.com/middle-east/"
       - title: "US, Israel bomb Iran: A timeline of talks and threats leading up to ..."
         summary: January 8, 2026 – The internet is shut down across Iran following the outbreak of antigovernment protests, which have now spread beyond cities. The blackout lasts for more than tw…
         source: aljazeera.com
         time: "12:00"
         tag: 国际
         url: "https://www.aljazeera.com/news/2026/2/28/us-israel-bomb-iran-a-timeline-of-talks-and-threats-leading-up-to-attacks"
-      - title: "BBC Audio | BBC News | 28/02/2026 11:01 GMT"
-        summary: "BBC News, BBC News, 28/02/2026 11:01 GMT ## BBC News ### BBC News # 28/02/2026 11:01 GMT 28 February 2026 5 minutes Available for 1 day The latest five minute news bulletin from B…"
-        source: bbc.com
+      - title: "US and Israel attack Iran: What we know so far - Al Jazeera"
+        summary: "US and Israel attack Iran: What we know so far | Israel-Iran conflict News | Al Jazeera Advertisement Skip linksSkip to Content -Iranian media reported that explosions were heard…"
+        source: aljazeera.com
         time: "12:00"
         tag: 国际
-        url: "https://www.bbc.com/audio/play/w172zwx4jg6z7c7"
+        url: "https://www.aljazeera.com/news/2026/2/28/us-and-israel-attack-iran-what-we-know-so-far"
+      - title: Airspace closed, airlines halt flights as US, Israel attack, Iran respo…
+        summary: Skip linksSkip to Content Live Live News|Aviation # Airspace closed, airlines halt flights as US, Israel attack, Iran responds At least eight countries, including Iran, Israel, Jo…
+        source: aljazeera.com
+        time: "12:00"
+        tag: 国际
+        url: "https://www.aljazeera.com/news/2026/2/28/airspace-closed-airlines-halt-flights-as-us-israel-attack-iran-responds"
+      - title: Flooded by cheap Chinese goods, Latin America is fighting back to ...
+        summary: Vendors wait for customers at a market that primarily sells clothing imported from China in Asuncion, Paraguay, Saturday, Jan. 31, 2026. (AP Photo/Jorge Saenz) Comments HONG KONG…
+        source: apnews.com
+        time: "12:00"
+        tag: 国际
+        url: "https://apnews.com/article/china-latin-america-trump-trade-e78ccd51a7f66099d84fda885d2907a3"
+      - title: Argentina's congress approves historic labor reform promoted by ...
+        summary: Cristian Valderrama kisses his husband Lucas Garcia during a protest outside Congress against a labor reform bill proposed by President Javier Milei’s government in Buenos Aires,…
+        source: apnews.com
+        time: "12:00"
+        tag: 国际
+        url: "https://apnews.com/article/argentina-milei-labor-reform-protests-4746f019e02ad8eb2dd4355a2b4beb99"
+      - title: Cuba unveils new details in fatal US boat shooting and says a 2nd ...
+        summary: Weapons that Cuban authorities say were recovered from a speedboat in Cuban waters following a confrontation that left four people dead are displayed during a media presentation i…
+        source: apnews.com
+        time: "12:00"
+        tag: 国际
+        url: "https://apnews.com/article/cuba-us-boat-shooting-florida-05742f46aa93d59fa8f8faaff94d8cba"
+      - title: Trump says the US could have a 'friendly takeover of Cuba' - AP News
+        summary: President Donald Trump speaks to reporters before departing on Marine One from the South Lawn of the White House, Friday, Feb. 27, 2026, in Washington. (AP Photo/Tom Brenner) Pres…
+        source: apnews.com
+        time: "12:00"
+        tag: 国际
+        url: "https://apnews.com/article/trump-cuba-friendly-takeover-rubio-venezuela-435f056b47cfd6bc0c0af875318fa123"
 
   - name: 🌏 亚太
     items:
-      - title: Japan joins U.S., Philippines for military exercises in waters near ...
-        summary: Your subscription plan doesn't allow commenting. To learn more see our FAQ [...] A team headed by Takashi Tsuji, a visiting senior researcher at Riken and chairperson of OrganTech…
-        source: japantimes.co.jp
-        time: "12:00"
-        tag: 亚太
-        url: "https://www.japantimes.co.jp/news/2026/02/28/japan/japan-us-philippines-military-bashi-channel/"
       - title: Taiwan arms sale OK'd by U.S. Congress is delayed as Trump plans ...
         summary: A team headed by Takashi Tsuji, a visiting senior researcher at Riken and chairperson of OrganTech, has identified a previously unknown “third cell” essential for fully regenerati…
         source: japantimes.co.jp
         time: "12:00"
         tag: 亚太
         url: "https://www.japantimes.co.jp/news/2026/02/28/asia-pacific/politics/us-taiwan-arms-sales-delayed/"
-      - title: North Korea unveils image of leader's daughter firing rifle
+      - title: China ousts nine military lawmakers as Xi's defense purge widens
+        summary: Tokyo Station. There were 932,090 people living under permanent residency in Japan as of June 2025, according to the Immigration Services Agency. Haneda Airport in Tokyo. With the…
+        source: japantimes.co.jp
+        time: "12:00"
+        tag: 亚太
+        url: "https://www.japantimes.co.jp/news/2026/02/27/asia-pacific/politics/china-defense-lawmakers-purge/"
+      - title: Thai leaders won big. Their economy is still sick. - The Japan Times
+        summary: Tokyo Station. There were 932,090 people living under permanent residency in Japan as of June 2025, according to the Immigration Services Agency. The Sakaiminato Ferry Terminal in…
+        source: japantimes.co.jp
+        time: "12:00"
+        tag: 亚太
+        url: "https://www.japantimes.co.jp/commentary/2026/02/27/world/thai-leaders-win-big/"
+      - title: Koizumi urges pivot away from China for defense equipment supply ...
         summary: international-reports ## Latest News ##### In your social network Facebook ##### In your inbox SIGN ME UP ##### In your social network Facebook ##### In your inbox SIGN ME UP The…
         source: japantimes.co.jp
         time: "12:00"
         tag: 亚太
-        url: "https://www.japantimes.co.jp/news/2026/02/28/asia-pacific/north-korea-kim-ju-ae/"
-      - title: Japan to prepare for any risks over strikes on Iran
-        summary: A team headed by Takashi Tsuji, a visiting senior researcher at Riken and chairperson of OrganTech, has identified a previously unknown “third cell” essential for fully regenerati…
-        source: japantimes.co.jp
-        time: "12:00"
-        tag: 亚太
-        url: "https://www.japantimes.co.jp/news/2026/02/28/japan/japan-iran-risks-prepare/"
+        url: "https://www.japantimes.co.jp/news/2026/02/27/japan/politics/china-free-supply-chain/"
 
   - name: 🇨🇳 中国
     items:
-      - title: "7-Year Low-Interest Rate: Grab a Car at Ultra-Low Price as ... - 36氪"
-        summary: Domestically, Cui Dongshu, the secretary-general of the branch of the China Automobile Dealers Association, predicted that affected by the policy withdrawal, the sales volume of p…
-        source: eu.36kr.com
+      - title: Trade War - Topic - Caixin Global
+        summary: "## Trump Slaps New Tariffs on $200 Billion of Chinese Goods ### With long-threatened new round of tariffs, almost half of China’s annual exports to U.S. will be subject to trade p…"
+        source: gg.caixin.com
         time: "12:00"
         tag: 🇨🇳 中国
-        url: "https://eu.36kr.com/en/p/3650398116929670"
-      - title: Which city will become the next major hub for China's chip industry ...
-        summary: On January 20, 2026, Liao Min, the deputy minister of the Ministry of Finance, stated at a press conference held by the State Council Information Office that in 2026, the financia…
-        source: eu.36kr.com
+        url: "https://gg.caixin.com/c?z=caixin&la=0&si=3&cg=16&c=2928&ci=32&or=511&l=15305&bg=15305&b=19773&u=https%3A%2F%2Fwww.caixinglobal.com%2F2018%2Ftrade-turbulence%2F%3F"
+      - title: "'China sees its plans as a key to the country's development'"
+        summary: Subscribers only China comes to a standstill during the Lunar New Year holiday, but political activity will soon return in full force to Beijing. In early March, senior officials…
+        source: lemonde.fr
         time: "12:00"
         tag: 🇨🇳 中国
-        url: "https://eu.36kr.com/en/p/3665991458661001"
-      - title: "Affordable Phones: Soon to Be Out of Reach? - 36氪"
-        summary: "Home Article # Affordable phones may soon be out of reach. 中国企业家杂志2026-02-28 16:29 Known as the \"electronic gold,\" memory is breaking through the pricing defense line of mobile ph…"
-        source: eu.36kr.com
+        url: "https://www.lemonde.fr/en/opinion/article/2026/02/27/china-sees-its-plans-as-a-key-to-the-country-s-development_6750915_23.html"
+      - title: 中央政治局会议定调2026 加大逆周期和跨周期调节力度 - 经济- 财新
+        summary: "#### In Depth: From Skies to Shackles, HNA Founder Chen Feng Sentenced to 12 Years in Prison #### U.S. Details Steep Port Fees on China-Linked Vessels Starting Oct. 14 #### The Sh…"
+        source: economy.caixin.com
         time: "12:00"
         tag: 🇨🇳 中国
-        url: "https://eu.36kr.com/en/p/3702585196163203"
-      - title: Central China's First City Sets Sights on Becoming a "First-Tier City"
-        summary: "# The first city in central China is now aiming to become a \"first-tier city\". On February 3rd, Wuhan held a city-wide conference on building itself into a first-tier city in the…"
-        source: eu.36kr.com
+        url: "https://economy.caixin.com/2025-12-08/102390975.html"
+      - title: News Graphics - Caixin Global
+        summary: "# News Graphics []( Feb 27, 2026 18:43 PM Chart of the Day: Losses Mount in China’s Solar Price War : Country’s leading manufacturers may have racked up more than $7.3 billion in…"
+        source: gg.caixin.com
         time: "12:00"
         tag: 🇨🇳 中国
-        url: "https://eu.36kr.com/en/p/3670059130332038"
+        url: "http://gg.caixin.com/c?z=caixin&la=0&si=3&cg=16&c=3201&ci=32&or=2006&l=26480&bg=26480&b=33972&u=https://www.caixinglobal.com/data-news/"
+      - title: February 2026 WTA Industry News - 澎湃新闻
+        summary: In 2025, China recorded 640,400 commercial performances (excluding entertainment venue shows), representing a 6.58% year-on-year increase. Total box office revenue reached RMB 61.…
+        source: m.thepaper.cn
+        time: "12:00"
+        tag: 🇨🇳 中国
+        url: "https://m.thepaper.cn/newsDetail_forward_32666236"
+      - title: China's pivot from GDP obsession sparks cadre confusion, testing ...
+        summary: "# China’s pivot from GDP obsession sparks cadre confusion, testing local governance ### Governors and mayors must reconcile Beijing’s people-centric mandates with traditional grow…"
+        source: scmp.com
+        time: "12:00"
+        tag: 🇨🇳 中国
+        url: "https://www.scmp.com/economy/china-economy/article/3344887/chinas-pivot-gdp-obsession-sparks-cadre-confusion-testing-local-governance"
+      - title: China shifts cadre-appraisal metrics away from pure GDP growth ...
+        summary: Ahead of China’s annual legislative meetings – typically a window into Beijing’s top-level policy agenda – this is the first entry in a series examining the complex economic recal…
+        source: scmp.com
+        time: "12:00"
+        tag: 🇨🇳 中国
+        url: "https://www.scmp.com/economy/china-economy/article/3344723/china-shifts-cadre-appraisal-metrics-away-pure-gdp-growth-resetting-mindsets"
 
   - name: 💰 财经
     items:
-      - title: WTI Crude Oil price information - FT.com - Markets data
-        summary: "| Orange Juice As of Feb 25 2026 18:59 GMT. | 185.95 USc | +0.35 +0.19% | | Today 132.50Nov 24 2025344.30Jul 24 2025 | | Coffee (Arabica) \"View charting and quote on Coffee (Arabi…"
-        source: markets.ft.com
-        time: "12:00"
-        tag: 财经
-        url: "https://markets.ft.com/data/commodities/tearsheet/summary?c=WTI+Crude+Oil"
-      - title: The Wall Street Journal's News Archive for February 28, 2026
-        summary: The Wall Street Journal SubscribeSign In Use Alt + Down Arrow to expand. Print Edition Video Audio Latest Headlines Puzzles The Wall Street Journal SubscribeSign In Use Alt + Down…
+      - title: The Wall Street Journal's News Archive for February 27, 2026
+        summary: The Wall Street Journal Use Alt + Down Arrow to expand. Print Edition Video Audio Latest Headlines Puzzles The Wall Street Journal Use Alt + Down Arrow to expand. Print Edition Vi…
         source: wsj.com
         time: "12:00"
         tag: 财经
-        url: "https://www.wsj.com/news/archive/2026/02/28"
-
-  - name: 💻 科技
-    items:
-      - title: "Planetary parade 2026: Six planets visible in night sky - BBC"
-        summary: A brightly lit observatory building beneath a swirling starry sky ## New Scottish Dark Sky Observatory plans submitted The state of the art facility in Galloway will replace one w…
-        source: bbc.com
-        time: "12:00"
-        tag: 科技
-        url: "https://www.bbc.com/news/articles/c4g3l0yzyxdo"
-      - title: Scientists find promising hints of life on distant planet K2-18b - BBC
-        summary: Prof Madhusudhan acknowledges that there is still a scientific mountain to climb if he is to answer one of the biggest questions in science. But he believes he and his team are on…
-        source: bbc.com
-        time: "12:00"
-        tag: 科技
-        url: "https://www.bbc.com/news/articles/c39jj9vkr34o"
-      - title: The Manchester-made tool reducing space satellite crashes - BBC
-        summary: "Lead author John Mackintosh, PhD researcher at The University of Manchester, said: \"Our research addresses what is described as a \"space sustainability paradox\", the risk that usi…"
-        source: bbc.com
-        time: "12:00"
-        tag: 科技
-        url: "https://www.bbc.com/news/articles/cy57k5q2945o"
-
-  - name: 🧩 其他
-    items:
-      - title: As extreme weather increases, climate misinformation adapts | AP News
-        summary: FILE - In this Feb. 17, 2021, file photo, people wait in line to fill propane tanks in Houston. As the impact of climate change becomes more apparent, misinformation about it is s…
-        source: apnews.com
-        time: "12:00"
-        tag: 其他
-        url: "https://apnews.com/article/joe-biden-wildfires-climate-change-misinformation-climate-d5909c4ddfb13e82174dafcef4af94ff"
-      - title: Extreme weather events are becoming more severe, not less | AP News
-        summary: “We could look at accumulated cyclonic energy — typhoons in the Pacific, hurricanes in the Atlantic — and it’s actually declined over the last 20 or 30 years,” the speaker says in…
-        source: apnews.com
-        time: "12:00"
-        tag: 其他
-        url: "https://apnews.com/article/fact-check-extreme-weather-events-climate-change-169250036362"
-      - title: Scientists change El Nino label to keep up with warming waters
-        summary: “When El Nino develops, we’re likely to set a new global temperature record,” Woodwell’s Francis said in an email. “‘Normal’ was left in the dust decades ago. And with this much h…
-        source: apnews.com
-        time: "12:00"
-        tag: 其他
-        url: "https://apnews.com/article/el-nino-la-nina-climate-change-warming-e3499ef5e1081604770c4cf5f95910b3"
+        url: "https://www.wsj.com/news/archive/2026/02/27"
