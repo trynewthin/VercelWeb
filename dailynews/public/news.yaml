@@ -1,193 +1,191 @@
 sections:
-  - name: "🔥 头条"
+  - name: 🔥 头条
     items:
-      - title: "特朗普对伊朗发动新一轮打击，全球风险陡增｜路透社"
-        summary: "路透社Breakingviews评论称，特朗普对伊朗采取强硬军事行动，可能引发地区冲突外溢、油价与金融市场波动，并带来更广泛的地缘政治不确定性。"
+      - title: Daughter and grandchild of Iran's Khamenei killed in US-Israeli ...
+        summary: Daughter and grandchild of Iran's Khamenei killed in US-Israeli strikes, state media says | Reuters Skip to main content Report AdImage 1 Exclusive news, data and analytics for fi…
         source: reuters.com
         time: "12:00"
-        url: "https://www.reuters.com/commentary/breakingviews/trumps-new-iran-attack-opens-up-big-global-risks-2026-02-28/"
+        url: "https://www.reuters.com/world/middle-east/daughter-grandchild-irans-khamenei-killed-us-israeli-strikes-state-media-says-2026-03-01/"
 
-  - name: "🌍 国际"
+  - name: 🌍 国际
     items:
-      - title: "以色列称哈梅内伊在袭击中身亡｜路透社"
-        summary: "路透社报道，以色列方面称伊朗最高领袖哈梅内伊在美以对伊朗的打击中遇害，相关消息引发各方高度关注，局势仍在快速发展。"
+      - title: How the world has reacted to US and Israeli strikes on Iran - BBC
+        summary: "## Iran says it has hit US base in Bahrain, as it launches strikes across region Starmer pictured standing in front of a lecturn in Downing Street while giving a speech. He is wea…"
+        source: bbc.com
+        time: "12:00"
+        tag: 国际
+        url: "https://www.bbc.com/news/articles/c5yj9kr31y7o"
+      - title: Iran's supreme leader Khamenei killed, Iranian state media confirm
+        summary: "32 mins agoUS and Israel attack Iran; Tehran retaliates Image 3: Iran's Supreme Leader Ayatollah Ali Khamenei attends a meeting in Tehran 1 hour agoMiddle East categoryTrump cheer…"
         source: reuters.com
         time: "12:00"
-        tag: "国际"
-        url: "https://www.reuters.com/business/aerospace-defense/israel-us-launch-strikes-iran-2026-02-28/"
-
-      - title: "独家：袭击前CIA评估哈梅内伊可能由强硬派IRGC接班｜路透社"
-        summary: "路透社引述消息称，袭击发生前CIA曾评估哈梅内伊若被替换，接班人可能来自更强硬的伊斯兰革命卫队体系，这将影响伊朗后续权力走向。"
+        tag: 国际
+        url: "https://www.reuters.com/world/middle-east/irans-supreme-leader-khamenei-killed-iranian-state-media-confirm-2026-03-01/"
+      - title: World | Latest News & Updates | BBC News
+        summary: "## Aid groups in Gaza and West Bank thrown lifeline as Israel court pauses ban threat Dozens of well-known groups faced shutdown under a new Israeli law, although the reprieve mig…"
+        source: bbc.com
+        time: "12:00"
+        tag: 国际
+        url: "https://www.bbc.com/news/world"
+      - title: What is happening in Iran? What we know about US-Israel ... - BBC
+        summary: "Welsh NEWYDDION Yoruba ÌRÒYÌN NÍ YORÙBÁ Follow BBC on: Terms of Use Subscription Terms About the BBC Privacy Policy Cookies Accessibility Help Contact the BBC Advertise with us Do…"
+        source: bbc.com
+        time: "12:00"
+        tag: 国际
+        url: "https://www.bbc.com/news/articles/cx2dyz6p3weo"
+      - title: BBC World Service - BBC News - Available now
+        summary: "Image 6 \") 28/02/2026 13:01 GMT The latest five minute news bulletin from BBC World Service. Image 7 \") 28/02/2026 12:01 GMT The latest five minute news bulletin from BBC World Se…"
+        source: bbc.com
+        time: "12:00"
+        tag: 国际
+        url: "https://www.bbc.com/programmes/p002vsmz/episodes"
+      - title: Israel, US launched strikes as Iranian leader met with inner circle ...
+        summary: Israel and the U.S. timed their attack on Iran on Saturday to coincide with a meeting the country's supreme leader, Ali Khamenei,
         source: reuters.com
         time: "12:00"
-        tag: "国际"
-        url: "https://www.reuters.com/world/middle-east/prior-iran-attacks-cia-assessed-khamenei-would-be-replaced-by-hardline-irgc-2026-02-28/"
-
-      - title: "美国议员谴责特朗普对伊朗的打击：这是战争行为｜卫报"
-        summary: "卫报报道，多名美国议员批评特朗普在未充分向公众与国会说明情况下对伊朗动武，认为这可能导致冲突升级并带来宪政与外交风险。"
-        source: theguardian.com
-        time: "12:00"
-        tag: "国际"
-        url: "https://www.theguardian.com/world/2026/feb/28/iran-attack-us-political-reaction"
-
-      - title: "以色列称对伊朗发动“先发制人”打击｜路透社"
-        summary: "路透社称，以色列表示已对伊朗发动“先发制人”打击。相关行动引发地区紧张升级，各方正在评估后续报复与外溢风险。"
+        tag: 国际
+        url: "https://www.reuters.com/world/israel-us-launched-strikes-iranian-leader-met-with-inner-circle-sources-say-2026-03-01/"
+      - title: Israel, US launched strikes as Iranian leader met with inner circle ...
+        summary: Israel, US launched strikes as Iranian leader met with inner circle, sources say · Supreme leader was meeting with top security aides · US-Israeli
         source: reuters.com
         time: "12:00"
-        tag: "国际"
-        url: "https://www.reuters.com/world/middle-east/israel-says-it-launched-pre-emptive-attack-against-iran-2026-02-28/"
-
-      - title: "世界领导人担忧美以对伊朗的重大袭击引发更广泛升级｜《世界报》"
-        summary: "法国《世界报》报道，多国领导人对美以对伊朗的打击及其可能引发的连锁反应表示担忧，呼吁克制并避免地区冲突扩大。"
+        tag: 国际
+        url: "https://www.reuters.com/world/middle-east/israel-us-launched-strikes-iranian-leader-met-with-inner-circle-sources-say-2026-03-01/"
+      - title: Europe - World news, culture and opinion - Le Monde
+        summary: Two days ahead of a meeting of European Union heads of state and government in Brussels, the French president calls on the 27 member states, in an interview with Le Monde and seve…
         source: lemonde.fr
         time: "12:00"
-        tag: "国际"
-        url: "https://www.lemonde.fr/en/international/article/2026/02/28/world-leaders-fear-broader-escalation-after-major-us-and-israeli-attack-on-iran_6750959_4.html"
-
-      - title: "伊朗报复：多个驻有美方资产的阿拉伯国家遭袭｜半岛电视台"
-        summary: "半岛电视台称，伊朗确认对多处美国在中东地区的基地或相关设施实施打击，涉及多个承载美方资产的海湾阿拉伯国家，紧张局势进一步升级。"
+        tag: 国际
+        url: "https://www.lemonde.fr/en/europe/"
+      - title: Europe - World news, culture and opinion - Page n°2 - Le Monde
+        summary: "Published on February 15, 2026, at 11:23 am (Paris), updated on February 15, 2026, at 8:50 pm Philippe Bernard News Subscribers only ### US ambassador's highly undiplomatic remark…"
+        source: lemonde.fr
+        time: "12:00"
+        tag: 国际
+        url: "https://www.lemonde.fr/en/europe/2"
+      - title: Archives of Le Monde from 3 février 2026 - consult all articles online
+        summary: + All articles + Europe + Americas + United States + Africa + Middle East + Asia and Pacific + Geopolitics + Diplomacy + Letters from + War in Ukraine + Jeffrey Epstein + Iran + U…
+        source: lemonde.fr
+        time: "12:00"
+        tag: 国际
+        url: "https://www.lemonde.fr/en/archives-du-monde/03-02-2026/"
+      - title: Archives of Le Monde from March 1, 2025 - consult all articles online
+        summary: In response to the totalitarian pressure exerted on Europe by the Russian president, Karl Schlögel, winner of the 2024 Jacques Delors European Book Prize, emphasizes Ukraine's Eur…
+        source: lemonde.fr
+        time: "12:00"
+        tag: 国际
+        url: "https://www.lemonde.fr/en/archives-du-monde/01-03-2025/"
+      - title: Netanyahu's war? Analysts say Trump's Iran strikes benefit Israel ...
+        summary: Skip linksSkip to Content Live Live News|Donald Trump # Netanyahu’s war? Analysts say Trump’s Iran strikes benefit Israel, not US War with Iran contradicts the US president’s own…
         source: aljazeera.com
         time: "12:00"
-        tag: "国际"
-        url: "https://www.aljazeera.com/news/2026/2/28/multiple-gulf-arab-states-that-host-us-assets-targeted-in-iran-retaliation"
-
-      - title: "各国如何回应美以对伊朗的攻击及德黑兰报复｜半岛电视台"
-        summary: "半岛电视台汇总各方反应：欧盟呼吁‘最大限度克制’，斡旋方阿曼警告美国不要被进一步卷入，中东局势面临更大外溢风险。"
+        tag: 国际
+        url: "https://www.aljazeera.com/news/2026/3/1/netanyahus-war-analysts-say-trumps-iran-strikes-benefit-israel-not-us"
+      - title: "Iran strikes: US says 'no reports' of American casualties - DW"
+        summary: "\"Due to current circumstances, Secretary Rubio will no longer travel to Israel on March 2,\" State Department official Dylan Johnson said in a post on X. Edited by: Saim Dušan Inay…"
+        source: amp.dw.com
+        time: "12:00"
+        tag: 国际
+        url: "https://amp.dw.com/en/iran-strikes-us-says-no-reports-of-american-casualties/a-76169908"
+      - title: Iran's president orders team to open fresh talks with US - Al Jazeera
+        summary: Tehran had said on Monday that it was examining several diplomatic processes pitched by countries in the region – Qatar, Turkiye, Egypt and Oman – to try to ease tensions with Was…
         source: aljazeera.com
         time: "12:00"
-        tag: "国际"
-        url: "https://www.aljazeera.com/news/2026/2/28/world-reacts-to-us-israel-attack-on-iran-tehran-retaliation"
-
-      - title: "地图：美以对伊朗的攻击与德黑兰的报复性打击｜半岛电视台"
-        summary: "半岛电视台AJLabs以地图形式梳理双方攻击与报复的地点与时间线，帮助读者理解冲突扩散路径与关键节点。"
+        tag: 国际
+        url: "https://www.aljazeera.com/news/2026/2/2/iran-eyes-progress-towards-us-nuclear-talks-as-tension-eases"
+      - title: US strikes on Iran lead to renewed demands for war powers legislation
+        summary: Senate Minority Leader Chuck Schumer demanded on Saturday that Congress be briefed immediately about the Iran attacks, including an all-senators classified session and public test…
         source: aljazeera.com
         time: "12:00"
-        tag: "国际"
-        url: "https://www.aljazeera.com/news/2026/2/28/mapping-us-and-israeli-attacks-on-iran-and-tehrans-retaliatory-strikes"
-
-      - title: "BBC World Service（东非）节目表（2026-02-28）｜BBC"
-        summary: "BBC合作伙伴页面：BBC世界服务东非地区在2026-02-28一周的播出安排与节目清单。"
+        tag: 国际
+        url: "https://www.aljazeera.com/news/2026/3/1/us-strikes-on-iran-lead-to-renewed-demands-for-war-powers-legislation"
+      - title: BBC World Service East and Southern Africa - BBC Partners
+        summary: "03:00 GMTBBC News23/02/2026 03:01 GMT. The latest five minute news ... Reports and analysis of the day's political, economic and sports news from"
         source: wspartners.bbc.com
         time: "12:00"
-        tag: "国际"
-        url: "https://wspartners.bbc.com/schedules/bbc_world_service_east_africa/week/2026-02-28"
-
-      - title: "埃塞俄比亚的提格雷地区会否再次走向战争（与TPLF或厄立特里亚）？｜BBC"
-        summary: "BBC分析提格雷局势：在停火后地区安全与政治矛盾仍在，外部与内部压力可能使冲突风险再度上升。"
-        source: bbc.com
+        tag: 国际
+        url: "https://wspartners.bbc.com/schedules/bbc_world_service_east_africa/day/2026-02-23"
+      - title: BBC World Service West and Central Africa - BBC Partners
+        summary: "BBC World Service West and Central Africa · 03:00 · BBC News14/03/2026 03:01 GMT · BBC News15/03/2026 03:01 GMT · BBC News16/03/2026 03:01 GMT · BBC"
+        source: wspartners.bbc.com
         time: "12:00"
-        tag: "国际"
-        url: "https://www.bbc.com/news/articles/cwygrnjz9wro"
-
-      - title: "非洲与美国关系：大陆如何应对新的世界秩序｜BBC"
-        summary: "BBC报道非洲国家在新国际格局下重新评估对美关系与战略选择，包括安全、贸易与外交立场的调整。"
-        source: bbc.com
+        tag: 国际
+        url: "https://wspartners.bbc.com/schedules/bbc_world_service_west_africa/week/2026-03-14"
+      - title: BBC World Service East and Southern Africa - BBC Partners
+        summary: "19:00 BBC News 21/02/2026 19:01 GMT BBC News 22/02/2026 19:01 GMT BBC News 23/02/2026 19:01 GMT BBC News 24/02/2026 19:01 GMT BBC News 25/02/2026 19:01 GMT BBC News 26/02/2026 19:…"
+        source: wspartners.bbc.com
         time: "12:00"
-        tag: "国际"
-        url: "https://www.bbc.com/news/articles/c2d7wk98xkko"
-
-      - title: "古巴称：在美注册快艇上遭枪击团伙计划进行‘武装’行动｜BBC"
-        summary: "BBC引述古巴内政部称，一艘在佛州注册的快艇在古巴近海被发现，相关人员疑涉武装行动计划；事件仍在调查中。"
-        source: bbc.com
+        tag: 国际
+        url: "https://wspartners.bbc.com/schedules/bbc_world_service_east_africa/week/2026-02-23"
+      - title: Press Releases - AP News
+        summary: "Affected CRWV Investor Summary Who: CoreWeave, Inc. ( NASDAQ: CRWV ) What: Securities fraud class action filed Class Period: March 28, 2025 through December 15, 2025 Deadline to S…"
+        source: apnews.com
         time: "12:00"
-        tag: "国际"
-        url: "https://www.bbc.com/news/articles/c24drvj8yl2o"
+        tag: 国际
+        url: "https://apnews.com/press-releases"
 
-  - name: "🌏 亚太"
+  - name: 🌏 亚太
     items:
-      - title: "特朗普要求美政府机构弃用Anthropic AI，五角大楼称其为供应链风险｜日本时报"
-        summary: "《日本时报》称，特朗普指示美国机构停止使用Anthropic的AI产品；五角大楼认为相关技术存在供应链/安全风险，争议引发科技与国家安全交叉议题。"
+      - title: 10 questions on what 2026 holds for Asia | The Straits Times
+        summary: recast China as a powerful constant “If even China hawks like Rubio are changing their tune, it shows the US is determined not to let ties sour before the April visit,” said Mr Wa…
+        source: straitstimes.com
+        time: "12:00"
+        tag: 亚太
+        url: "https://www.straitstimes.com/asia/whats-ahead-for-asia-in-2026"
+      - title: The Japan Times receives Best Asia-Pacific Breaking News ...
+        summary: Menu Search The Japan Times Login My Account Search The Japan Times Subscribe Search Today's print edition Home Delivery The Japan Times # The Japan Times receives Best Asia-Pacif…
         source: japantimes.co.jp
         time: "12:00"
-        tag: "亚太"
-        url: "https://www.japantimes.co.jp/business/2026/02/28/tech/trump-anthropic-supply-risk-pentagon/"
-
-      - title: "印度GDP修订意味着超越日本所需时间更长｜日本时报"
-        summary: "《日本时报》解读印度GDP统计修订对排名的影响：即便总量接近或超过日本，更重要的是人均收入与生产率等指标仍反映发展差距。"
+        tag: 亚太
+        url: "https://www.japantimes.co.jp/press/2026/02/09/2026-aerospace-media-asia-awards/"
+      - title: How China plans to dominate global trade long after Trump
+        summary: Smoke rises in Iran following an explosion, after Israel's Defense Minister Israel Katz said Israel had launched a preemptive attack against Iran, on Saturday. Surpassing Japan wo…
         source: japantimes.co.jp
         time: "12:00"
-        tag: "亚太"
-        url: "https://www.japantimes.co.jp/business/2026/02/28/economy/indias-gdp-revisions-japan-economy/"
-
-      - title: "美国国会批准对台军售但出现延迟，特朗普计划引发变数｜日本时报"
-        summary: "《日本时报》称，美国国会已批准的对台军售在执行上出现延迟，相关决定可能受美国国内政治与对华政策考量影响。"
+        tag: 亚太
+        url: "https://www.japantimes.co.jp/business/2026/02/19/china-global-trade-after-trump/"
+      - title: Taiwan arms sale OK'd by U.S. Congress is delayed as Trump plans ...
+        summary: The weapons sale, which includes air-defense missiles, is in an advanced stage. Senior Republican and Democratic lawmakers approved the package after the State Department sent it…
         source: japantimes.co.jp
         time: "12:00"
-        tag: "亚太"
+        tag: 亚太
         url: "https://www.japantimes.co.jp/news/2026/02/28/asia-pacific/politics/us-taiwan-arms-sales-delayed/"
-
-      - title: "俄罗斯称若乌克兰不让步领土将考虑停止和谈｜日本时报"
-        summary: "《日本时报》报道，俄罗斯方面表示若乌克兰不在领土问题上让步，可能暂停和平谈判；相关表态加剧外界对战事长期化的担忧。"
+      - title: Latest news on Hong Kong, China, Asia and the world
+        summary: "### Head of correctional authorities says expansion of existing scheme aims to boost patriotism and understanding of Chinese culture. Inmates access computers during a media tour…"
+        source: scmp.com
+        time: "12:00"
+        tag: 亚太
+        url: "https://www.scmp.com/news"
+      - title: Chinese influence operations target Japan poll and Trump
+        summary: The 35 accounts, along with nine channels on the microblogging site Tumblr, pushed corruption allegations and portrayed Takaichi as illegitimate and militaristic. The accounts sug…
         source: japantimes.co.jp
         time: "12:00"
-        tag: "亚太"
-        url: "https://www.japantimes.co.jp/news/2026/02/28/world/politics/russia-ukraine-peace-talks-territory/"
+        tag: 亚太
+        url: "https://www.japantimes.co.jp/news/2026/02/26/world/chinese-influence-operation-target/"
 
-  - name: "🇨🇳 中国"
+  - name: 🇨🇳 中国
     items:
-      - title: "8点资讯速览：西贝关闭102家门店等｜36氪（英文站）"
-        summary: "36氪英文站汇总多条国内商业/宏观动态，包括餐饮连锁门店调整、存款利率与长期存款到期等话题。"
-        source: eu.36kr.com
+      - title: Around 5% seen as likely GDP target - Chinadaily.com.cn
+        summary: chinadaily Share to ... # Around 5% seen as likely GDP target ## Consumption, innovation expected to emerge as key economic engines in 2026 China is likely to set its annual econo…
+        source: chinadaily.com.cn
         time: "12:00"
-        tag: "🇨🇳 中国"
-        url: "https://eu.36kr.com/en/p/3641337324949125"
-
-      - title: "2026年初最火赛道：航空航天能否点燃下一轮增长？｜36氪（英文站）"
-        summary: "36氪英文站解读航空航天产业热度：大国战略与市场需求共同驱动，产业链投资与应用场景扩展带来结构性机会。"
-        source: eu.36kr.com
+        tag: 🇨🇳 中国
+        url: "https://www.chinadaily.com.cn/a/202602/26/WS699f84eea310d6866eb3a41c.html"
+      - title: Shanghai Weekly Bulletin (Issue 127 No.2, January 2026)
+        summary: Recently, the Shanghai Municipal Commission of Economy and Informatization, together with the Hongqiao International Central Business District Administration and the governments o…
+        source: wsb.sh.gov.cn
         time: "12:00"
-        tag: "🇨🇳 中国"
-        url: "https://eu.36kr.com/en/p/3637589802534146"
-
-      - title: "中国芯片产业：下一个核心城市会是谁？｜36氪（英文站）"
-        summary: "36氪英文站讨论芯片产业在城市间的集聚与竞争，并引用财政部门官员发言，涉及2026年的财政政策与产业支持方向。"
-        source: eu.36kr.com
+        tag: 🇨🇳 中国
+        url: "https://wsb.sh.gov.cn/ztzl/shzxzb/20260114/ca34166ea80a439690aec38c18e74428.html"
+      - title: Latest News - Chinadaily.com.cn
+        summary: "#### Intl arrivals, spending soar in Hainan #### Guangdong targets 'smart' industries #### Spring Festival lights up New York and beyond #### Utility bills in Singapore could go u…"
+        source: chinadaily.com.cn
         time: "12:00"
-        tag: "🇨🇳 中国"
-        url: "https://eu.36kr.com/en/p/3665991458661001"
-
-      - title: "广东GDP与财政收入居首：成绩背后的挑战与结构调整｜36氪（英文站）"
-        summary: "36氪英文站梳理广东在GDP与财政收入上的领先表现，同时指出现代产业体系建设、结构转型与压力并存。"
-        source: eu.36kr.com
+        tag: 🇨🇳 中国
+        url: "https://www.chinadaily.com.cn/latestnews210"
+      - title: Shanghai releases national economic performance of 2025 (Issue ...
+        summary: "[Keywords: High-quality SMEs, Tiered cultivation] Recently, the Ministry of Industry and Information Technology (MIIT) issued the newly-revised Administrative Measures for Tiered…"
+        source: english.shanghai.gov.cn
         time: "12:00"
-        tag: "🇨🇳 中国"
-        url: "https://eu.36kr.com/en/p/3657408520577928"
-
-  - name: "💻 科技"
-    items:
-      - title: "2026‘行星巡游’：夜空可见六大行星｜BBC"
-        summary: "BBC科普：所谓‘行星巡游’是指多颗行星从地球视角在天空中近似排列。文中介绍可观测时间窗口与观测注意事项。"
-        source: bbc.com
-        time: "12:00"
-        tag: "科技"
-        url: "https://www.bbc.com/news/articles/c4g3l0yzyxdo"
-
-      - title: "2月末夜空将出现‘六星连珠’｜美联社"
-        summary: "美联社报道，2月底夜空将出现多颗行星可同时观测的现象，并提供大致时间与观测建议。"
-        source: apnews.com
-        time: "12:00"
-        tag: "科技"
-        url: "https://apnews.com/article/february-2026-planet-parade-332c4fd23f8c0005ae9bc4ddd5f1d9e3"
-
-  - name: "🧩 其他"
-    items:
-      - title: "带状疱疹疫苗或可降低心脏病风险｜BBC Health Check（合作伙伴页）"
-        summary: "BBC Health Check 节目页面：讨论研究发现带状疱疹疫苗可能与更低的心血管事件风险相关，并介绍相关医学背景。"
-        source: wspartners.bbc.com
-        time: "12:00"
-        tag: "其他"
-        url: "https://wspartners.bbc.com/episode/w3ct6vj7"
-
-      - title: "纽约市军团菌病疫情：第6例死亡报告｜美联社"
-        summary: "美联社称，纽约市军团菌病暴发已报告第6例死亡。卫生部门提醒相关区域居民/工作人员若出现流感样症状应尽快就医。"
-        source: apnews.com
-        time: "12:00"
-        tag: "其他"
-        url: "https://apnews.com/article/legionnaires-disease-new-york-harlem-9155fc9fd84d2c5f531c7b463fe6044a"
-
-      - title: "科学家称2025年是有记录以来最热的三年之一｜美联社"
-        summary: "美联社报道，科学家表示2025年位列史上最热年份之一；文章讨论可再生能源部署、煤炭投资与极端天气频发等背景因素。"
-        source: apnews.com
-        time: "12:00"
-        tag: "其他"
-        url: "https://apnews.com/article/climate-world-weather-attribution-year-end-extreme-1e9028da87e518382482e21fef3cfeee"
+        tag: 🇨🇳 中国
+        url: "https://english.shanghai.gov.cn/en-ShanghaiWeeklyBulletin/20260128/00f3ff7c9d704660b80b78c4878dc2bc.html"
