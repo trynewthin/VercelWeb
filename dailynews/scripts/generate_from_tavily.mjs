@@ -124,6 +124,13 @@ const allowDomains = [
   "japantimes.co.jp",
   "straitstimes.com",
   "scmp.com",
+  "xinhuanet.com",
+  "news.cn",
+  "people.com.cn",
+  "cctv.com",
+  "chinanews.com.cn",
+  "gov.cn",
+  "chinadaily.com.cn",
   "caixin.com",
   "yicai.com",
   "thepaper.cn",
@@ -196,7 +203,7 @@ const queries = [
   { section: "🌏 亚太", q: `Asia Pacific news ${targetHuman} site:cna.com.sg OR site:straitstimes.com OR site:scmp.com OR site:nhk.or.jp OR site:japantimes.co.jp` },
 
   // China
-  { section: "🇨🇳 中国", q: `China economy policy ${targetHuman} site:caixin.com OR site:yicai.com OR site:thepaper.cn OR site:36kr.com` },
+  { section: "🇨🇳 中国", q: `China news policy economy ${targetHuman} site:xinhuanet.com OR site:news.cn OR site:people.com.cn OR site:cctv.com OR site:chinanews.com.cn OR site:gov.cn OR site:chinadaily.com.cn OR site:caixin.com OR site:yicai.com OR site:thepaper.cn OR site:36kr.com` },
 
   // Business / markets
   { section: "💰 财经", q: `global markets stocks bonds oil ${targetHuman} site:reuters.com OR site:ft.com OR site:wsj.com` },
