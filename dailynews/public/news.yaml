@@ -1,173 +1,193 @@
 sections:
-  - name: 🔥 头条
+  - name: "🔥 头条"
     items:
-      - title: Trump's new Iran attack opens up big global risks | Reuters
-        summary: "# Trump’s new Iran attack opens up big global risks. LONDON, Feb 28 (Reuters Breakingviews) - Donald Trump has finally revealed his hand on Iran: a closed fist. Morgan Stanley rec…"
+      - title: "特朗普对伊朗发动新一轮打击，全球风险陡增｜路透社"
+        summary: "路透社Breakingviews评论称，特朗普对伊朗采取强硬军事行动，可能引发地区冲突外溢、油价与金融市场波动，并带来更广泛的地缘政治不确定性。"
         source: reuters.com
         time: "12:00"
         url: "https://www.reuters.com/commentary/breakingviews/trumps-new-iran-attack-opens-up-big-global-risks-2026-02-28/"
 
-  - name: 🌍 国际
+  - name: "🌍 国际"
     items:
-      - title: Iranian leader Khamenei killed in strikes, Israel says - Reuters
-        summary: "[Skip to main content](https://www.reuters.com/business/aerospace-defense/israel-us-launch-strikes-iran-2026-02-28/#main-content). * [World](https://www.reuters.com/world/). * [Un…"
+      - title: "以色列称哈梅内伊在袭击中身亡｜路透社"
+        summary: "路透社报道，以色列方面称伊朗最高领袖哈梅内伊在美以对伊朗的打击中遇害，相关消息引发各方高度关注，局势仍在快速发展。"
         source: reuters.com
         time: "12:00"
-        tag: 国际
+        tag: "国际"
         url: "https://www.reuters.com/business/aerospace-defense/israel-us-launch-strikes-iran-2026-02-28/"
-      - title: "Exclusive: Prior to Iran attacks, CIA assessed Khamenei could be ..."
-        summary: Item 1 of 3 A satellite image shows black smoke rising and heavy damage at Iranian Supreme Leader Ayatollah Ali Khamenei's compound, following strikes by the United States and Isr…
+
+      - title: "独家：袭击前CIA评估哈梅内伊可能由强硬派IRGC接班｜路透社"
+        summary: "路透社引述消息称，袭击发生前CIA曾评估哈梅内伊若被替换，接班人可能来自更强硬的伊斯兰革命卫队体系，这将影响伊朗后续权力走向。"
         source: reuters.com
         time: "12:00"
-        tag: 国际
+        tag: "国际"
         url: "https://www.reuters.com/world/middle-east/prior-iran-attacks-cia-assessed-khamenei-would-be-replaced-by-hardline-irgc-2026-02-28/"
-      - title: "US lawmakers condemn Trump over Iran strikes: 'acts of war ..."
-        summary: "Donald Trump’s failure to build a case with the US public for [striking Iran](https://www.theguardian.com/world/2026/feb/28/us-israel-launch-strikes-attack-iran-what-we-know-so-fa…"
+
+      - title: "美国议员谴责特朗普对伊朗的打击：这是战争行为｜卫报"
+        summary: "卫报报道，多名美国议员批评特朗普在未充分向公众与国会说明情况下对伊朗动武，认为这可能导致冲突升级并带来宪政与外交风险。"
         source: theguardian.com
         time: "12:00"
-        tag: 国际
+        tag: "国际"
         url: "https://www.theguardian.com/world/2026/feb/28/iran-attack-us-political-reaction"
-      - title: US and Israel launch "pre-emptive" attack against Iran | Reuters
-        summary: "[Skip to main content](https://www.reuters.com/world/middle-east/israel-says-it-launched-pre-emptive-attack-against-iran-2026-02-28/#main-content). * [World](https://www.reuters.c…"
+
+      - title: "以色列称对伊朗发动“先发制人”打击｜路透社"
+        summary: "路透社称，以色列表示已对伊朗发动“先发制人”打击。相关行动引发地区紧张升级，各方正在评估后续报复与外溢风险。"
         source: reuters.com
         time: "12:00"
-        tag: 国际
+        tag: "国际"
         url: "https://www.reuters.com/world/middle-east/israel-says-it-launched-pre-emptive-attack-against-iran-2026-02-28/"
-      - title: World leaders fear broader escalation after major US and Israeli ...
-        summary: 3 min read Iranians in exile and their supporters protest for a regime change at Potsdamer Platz square in Berlin, Germany, February 28, 2026. Iranians in exile and their supporte…
+
+      - title: "世界领导人担忧美以对伊朗的重大袭击引发更广泛升级｜《世界报》"
+        summary: "法国《世界报》报道，多国领导人对美以对伊朗的打击及其可能引发的连锁反应表示担忧，呼吁克制并避免地区冲突扩大。"
         source: lemonde.fr
         time: "12:00"
-        tag: 国际
+        tag: "国际"
         url: "https://www.lemonde.fr/en/international/article/2026/02/28/world-leaders-fear-broader-escalation-after-major-us-and-israeli-attack-on-iran_6750959_4.html"
-      - title: Multiple Arab states that host US assets targeted in Iran retaliation
-        summary: Skip linksSkip to Content Live Live News|Israel-Iran conflict # Multiple Arab states that host US assets targeted in Iran retaliation Iran confirms targeting US bases across the M…
+
+      - title: "伊朗报复：多个驻有美方资产的阿拉伯国家遭袭｜半岛电视台"
+        summary: "半岛电视台称，伊朗确认对多处美国在中东地区的基地或相关设施实施打击，涉及多个承载美方资产的海湾阿拉伯国家，紧张局势进一步升级。"
         source: aljazeera.com
         time: "12:00"
-        tag: 国际
+        tag: "国际"
         url: "https://www.aljazeera.com/news/2026/2/28/multiple-gulf-arab-states-that-host-us-assets-targeted-in-iran-retaliation"
-      - title: World reacts to US, Israel attack on Iran, Tehran retaliation - Al Jaze…
-        summary: Skip linksSkip to Content Live Live News # World reacts to US, Israel attack on Iran, Tehran retaliation EU urges ‘maximum restraint’; mediator Oman warns US ‘not to get sucked in…
+
+      - title: "各国如何回应美以对伊朗的攻击及德黑兰报复｜半岛电视台"
+        summary: "半岛电视台汇总各方反应：欧盟呼吁‘最大限度克制’，斡旋方阿曼警告美国不要被进一步卷入，中东局势面临更大外溢风险。"
         source: aljazeera.com
         time: "12:00"
-        tag: 国际
+        tag: "国际"
         url: "https://www.aljazeera.com/news/2026/2/28/world-reacts-to-us-israel-attack-on-iran-tehran-retaliation"
-      - title: Mapping US and Israeli attacks on Iran and Tehran's retaliatory strikes
-        summary: Mapping US and Israeli attacks on Iran and Tehran’s retaliatory strikes | Israel-Iran conflict News | Al Jazeera Advertisement Skip linksSkip to Content By AJLabs Published On 28…
+
+      - title: "地图：美以对伊朗的攻击与德黑兰的报复性打击｜半岛电视台"
+        summary: "半岛电视台AJLabs以地图形式梳理双方攻击与报复的地点与时间线，帮助读者理解冲突扩散路径与关键节点。"
         source: aljazeera.com
         time: "12:00"
-        tag: 国际
+        tag: "国际"
         url: "https://www.aljazeera.com/news/2026/2/28/mapping-us-and-israeli-attacks-on-iran-and-tehrans-retaliatory-strikes"
-      - title: BBC Partners
-        summary: "18:30 BBC News Summary 28/02/2026 18:30 GMT BBC News Summary 02/03/2026 18:30 GMT BBC News Summary 03/03/2026 18:30 GMT BBC News Summary 04/03/2026 18:30 GMT BBC News Summary 05/0…"
+
+      - title: "BBC World Service（东非）节目表（2026-02-28）｜BBC"
+        summary: "BBC合作伙伴页面：BBC世界服务东非地区在2026-02-28一周的播出安排与节目清单。"
         source: wspartners.bbc.com
         time: "12:00"
-        tag: 国际
+        tag: "国际"
         url: "https://wspartners.bbc.com/schedules/bbc_world_service_east_africa/week/2026-02-28"
-      - title: Is Ethiopia heading back to war with the TPLF or Eritrea in Tigray?
-        summary: "## Drums, chants and celebrations as Ethiopians mark the baptism of Jesus The Ethiopian Orthodox festival of Timket, or Epiphany, commemorates the baptism of Jesus in the Jordan.…"
+
+      - title: "埃塞俄比亚的提格雷地区会否再次走向战争（与TPLF或厄立特里亚）？｜BBC"
+        summary: "BBC分析提格雷局势：在停火后地区安全与政治矛盾仍在，外部与内部压力可能使冲突风险再度上升。"
         source: bbc.com
         time: "12:00"
-        tag: 国际
+        tag: "国际"
         url: "https://www.bbc.com/news/articles/cwygrnjz9wro"
-      - title: "Africa-US relations: The continent grapples with the new world order"
-        summary: "## At least 10 FBI agents who worked on Trump investigation fired The terminated FBI staffers all participated in a probe into Trump's handling of classified documents after his f…"
+
+      - title: "非洲与美国关系：大陆如何应对新的世界秩序｜BBC"
+        summary: "BBC报道非洲国家在新国际格局下重新评估对美关系与战略选择，包括安全、贸易与外交立场的调整。"
         source: bbc.com
         time: "12:00"
-        tag: 国际
+        tag: "国际"
         url: "https://www.bbc.com/news/articles/c2d7wk98xkko"
-      - title: Cuba says group shot on US-registered speedboat planned 'armed ...
-        summary: In statement posted on X via the Cuban Embassy in the US, the Interior Ministry said that the Florida-registered vessel - with the registration number FL7726SH - was detected near…
+
+      - title: "古巴称：在美注册快艇上遭枪击团伙计划进行‘武装’行动｜BBC"
+        summary: "BBC引述古巴内政部称，一艘在佛州注册的快艇在古巴近海被发现，相关人员疑涉武装行动计划；事件仍在调查中。"
         source: bbc.com
         time: "12:00"
-        tag: 国际
+        tag: "国际"
         url: "https://www.bbc.com/news/articles/c24drvj8yl2o"
 
-  - name: 🌏 亚太
+  - name: "🌏 亚太"
     items:
-      - title: Trump directs U.S. agencies to toss Anthropic's AI as Pentagon calls ...
-        summary: Subscribe Digital Print February 28, 2026 Digital Print Sanae Takaichi Tariffs China Olympic Winter Games Latest News Today's print edition Home Delivery [...] Feb 28, 2026 Washin…
+      - title: "特朗普要求美政府机构弃用Anthropic AI，五角大楼称其为供应链风险｜日本时报"
+        summary: "《日本时报》称，特朗普指示美国机构停止使用Anthropic的AI产品；五角大楼认为相关技术存在供应链/安全风险，争议引发科技与国家安全交叉议题。"
         source: japantimes.co.jp
         time: "12:00"
-        tag: 亚太
+        tag: "亚太"
         url: "https://www.japantimes.co.jp/business/2026/02/28/tech/trump-anthropic-supply-risk-pentagon/"
-      - title: India's GDP revisions mean it will take longer to overtake Japan
-        summary: Surpassing Japan would be more of a reflection of scale than prosperity for India. Per capita income in the country remains just above $3,000, a fraction of Japan’s $36,390, accor…
+
+      - title: "印度GDP修订意味着超越日本所需时间更长｜日本时报"
+        summary: "《日本时报》解读印度GDP统计修订对排名的影响：即便总量接近或超过日本，更重要的是人均收入与生产率等指标仍反映发展差距。"
         source: japantimes.co.jp
         time: "12:00"
-        tag: 亚太
+        tag: "亚太"
         url: "https://www.japantimes.co.jp/business/2026/02/28/economy/indias-gdp-revisions-japan-economy/"
-      - title: Taiwan arms sale OK'd by U.S. Congress is delayed as Trump plans ...
-        summary: "## Our Planet A solar farm in Nakai, Kanagawa Prefecture, in March 2016. Japan gets about a tenth of its electricity from solar panels despite having nearly no domestic production…"
+
+      - title: "美国国会批准对台军售但出现延迟，特朗普计划引发变数｜日本时报"
+        summary: "《日本时报》称，美国国会已批准的对台军售在执行上出现延迟，相关决定可能受美国国内政治与对华政策考量影响。"
         source: japantimes.co.jp
         time: "12:00"
-        tag: 亚太
+        tag: "亚太"
         url: "https://www.japantimes.co.jp/news/2026/02/28/asia-pacific/politics/us-taiwan-arms-sales-delayed/"
-      - title: Russia weighs halt to peace talks unless Ukraine cedes territory
-        summary: "## Longform Sonic the Hedgehog, Castlevania's Alucard and the weak yet lovable Slime from Dragon Quest are just some of Japan's iconic gaming franchises celebrating midlife annive…"
+
+      - title: "俄罗斯称若乌克兰不让步领土将考虑停止和谈｜日本时报"
+        summary: "《日本时报》报道，俄罗斯方面表示若乌克兰不在领土问题上让步，可能暂停和平谈判；相关表态加剧外界对战事长期化的担忧。"
         source: japantimes.co.jp
         time: "12:00"
-        tag: 亚太
+        tag: "亚太"
         url: "https://www.japantimes.co.jp/news/2026/02/28/world/politics/russia-ukraine-peace-talks-territory/"
 
-  - name: 🇨🇳 中国
+  - name: "🇨🇳 中国"
     items:
-      - title: "8:00 YidianZixun Minute: Xibei Closes 102 Stores, Jia Guolong's ..."
-        summary: of banks have shown signs of stabilizing. In 2026, a large amount of long - term deposits with terms of 3 - year and 5 - year will mature. This time, the reduction of interest rat…
+      - title: "8点资讯速览：西贝关闭102家门店等｜36氪（英文站）"
+        summary: "36氪英文站汇总多条国内商业/宏观动态，包括餐饮连锁门店调整、存款利率与长期存款到期等话题。"
         source: eu.36kr.com
         time: "12:00"
-        tag: 🇨🇳 中国
+        tag: "🇨🇳 中国"
         url: "https://eu.36kr.com/en/p/3641337324949125"
-      - title: Is the Hottest Track in Early 2026 Set to Ignite the Next Great Frontie…
-        summary: The boom in the aerospace industry stems from a profound and long - lasting industrial transformation, a golden opportunity jointly driven by major - power strategies, market expl…
+
+      - title: "2026年初最火赛道：航空航天能否点燃下一轮增长？｜36氪（英文站）"
+        summary: "36氪英文站解读航空航天产业热度：大国战略与市场需求共同驱动，产业链投资与应用场景扩展带来结构性机会。"
         source: eu.36kr.com
         time: "12:00"
-        tag: 🇨🇳 中国
+        tag: "🇨🇳 中国"
         url: "https://eu.36kr.com/en/p/3637589802534146"
-      - title: Which city will become the next major hub for China's chip industry ...
-        summary: On January 20, 2026, Liao Min, the deputy minister of the Ministry of Finance, stated at a press conference held by the State Council Information Office that in 2026, the financia…
+
+      - title: "中国芯片产业：下一个核心城市会是谁？｜36氪（英文站）"
+        summary: "36氪英文站讨论芯片产业在城市间的集聚与竞争，并引用财政部门官员发言，涉及2026年的财政政策与产业支持方向。"
         source: eu.36kr.com
         time: "12:00"
-        tag: 🇨🇳 中国
+        tag: "🇨🇳 中国"
         url: "https://eu.36kr.com/en/p/3665991458661001"
-      - title: "Ranking first in total GDP and fiscal revenue: Guangdong ... - 36氪"
-        summary: However, while achieving remarkable results, challenges still exist. Previously, a special meeting on accelerating the construction of a modern industrial system in Guangdong Prov…
+
+      - title: "广东GDP与财政收入居首：成绩背后的挑战与结构调整｜36氪（英文站）"
+        summary: "36氪英文站梳理广东在GDP与财政收入上的领先表现，同时指出现代产业体系建设、结构转型与压力并存。"
         source: eu.36kr.com
         time: "12:00"
-        tag: 🇨🇳 中国
+        tag: "🇨🇳 中国"
         url: "https://eu.36kr.com/en/p/3657408520577928"
 
-  - name: 💻 科技
+  - name: "💻 科技"
     items:
-      - title: "Planetary parade 2026: Six planets visible in night sky - BBC"
-        summary: A planetary parade describes a moment when several planets appear to line up in the sky from the Earth's perspective. Dr Becky Smethurst, Royal Astronomical Society Research Fello…
+      - title: "2026‘行星巡游’：夜空可见六大行星｜BBC"
+        summary: "BBC科普：所谓‘行星巡游’是指多颗行星从地球视角在天空中近似排列。文中介绍可观测时间窗口与观测注意事项。"
         source: bbc.com
         time: "12:00"
-        tag: 科技
+        tag: "科技"
         url: "https://www.bbc.com/news/articles/c4g3l0yzyxdo"
-      - title: 6 planets will parade across the night sky at the end of February
-        summary: \_\_\_ The Associated Press Health and Science Department receives support from the Howard Hughes Medical Institute’s Department of Science Education and the Robert Wood Johnson F…
+
+      - title: "2月末夜空将出现‘六星连珠’｜美联社"
+        summary: "美联社报道，2月底夜空将出现多颗行星可同时观测的现象，并提供大致时间与观测建议。"
         source: apnews.com
         time: "12:00"
-        tag: 科技
+        tag: "科技"
         url: "https://apnews.com/article/february-2026-planet-parade-332c4fd23f8c0005ae9bc4ddd5f1d9e3"
 
-  - name: 🧩 其他
+  - name: "🧩 其他"
     items:
-      - title: BBC Partners | Shingles vaccine lowers risk of heart disease - Health C…
-        summary: "More from Health Check View programme details New Image 11: brand Health Check Available 04 Mar 2026 - 11 Mar 2026 Health Check Health issues and medical breakthroughs from around…"
+      - title: "带状疱疹疫苗或可降低心脏病风险｜BBC Health Check（合作伙伴页）"
+        summary: "BBC Health Check 节目页面：讨论研究发现带状疱疹疫苗可能与更低的心血管事件风险相关，并介绍相关医学背景。"
         source: wspartners.bbc.com
         time: "12:00"
-        tag: 其他
+        tag: "其他"
         url: "https://wspartners.bbc.com/episode/w3ct6vj7"
-      - title: 6th death reported in Legionnaires' disease outbreak in New York City |…
-        summary: City health officials say people who live or work in the area should contact a health care provider if they develop flu-like symptoms. Copyright 2026 The Associated Press. All Rig…
+
+      - title: "纽约市军团菌病疫情：第6例死亡报告｜美联社"
+        summary: "美联社称，纽约市军团菌病暴发已报告第6例死亡。卫生部门提醒相关区域居民/工作人员若出现流感样症状应尽快就医。"
         source: apnews.com
         time: "12:00"
-        tag: 其他
+        tag: "其他"
         url: "https://apnews.com/article/legionnaires-disease-new-york-harlem-9155fc9fd84d2c5f531c7b463fe6044a"
-      - title: 2025 was one of three hottest years on record, scientists say
-        summary: China is rapidly deploying renewable energies including solar and wind power — but it is also continuing to invest in coal. Though increasingly frequent extreme weather has spurre…
+
+      - title: "科学家称2025年是有记录以来最热的三年之一｜美联社"
+        summary: "美联社报道，科学家表示2025年位列史上最热年份之一；文章讨论可再生能源部署、煤炭投资与极端天气频发等背景因素。"
         source: apnews.com
         time: "12:00"
-        tag: 其他
+        tag: "其他"
         url: "https://apnews.com/article/climate-world-weather-attribution-year-end-extreme-1e9028da87e518382482e21fef3cfeee"
