@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>Authoritative Feeds Core (80)</title>
+  </head>
+  <body>
+    <outline text="国际（权威媒体）">
+      <outline type="rss" text="feeds.bbci.co.uk" xmlUrl="http://feeds.bbci.co.uk/news/also_in_the_news/rss.xml" htmlUrl="" />
+      <outline type="rss" text="feeds.bbci.co.uk" xmlUrl="http://feeds.bbci.co.uk/news/business/rss.xml" htmlUrl="" />
+      <outline type="rss" text="feeds.bbci.co.uk" xmlUrl="http://feeds.bbci.co.uk/news/education/rss.xml" htmlUrl="" />
+      <outline type="rss" text="feeds.bbci.co.uk" xmlUrl="http://feeds.bbci.co.uk/news/england/rss.xml" htmlUrl="" />
+      <outline type="rss" text="feeds.bbci.co.uk" xmlUrl="http://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml" htmlUrl="" />
+      <outline type="rss" text="news.bbc.co.uk" xmlUrl="http://news.bbc.co.uk/nol/ukfs_news/mobile/magazine/rss.xml" htmlUrl="" />
+      <outline type="rss" text="news.bbc.co.uk" xmlUrl="http://news.bbc.co.uk/rss/newsonline_uk_edition/business/rss.xml" htmlUrl="" />
+      <outline type="rss" text="news.bbc.co.uk" xmlUrl="http://news.bbc.co.uk/rss/newsonline_uk_edition/education/rss.xml" htmlUrl="" />
+      <outline type="rss" text="news.bbc.co.uk" xmlUrl="http://news.bbc.co.uk/rss/newsonline_uk_edition/england/rss.xml" htmlUrl="" />
+      <outline type="rss" text="news.bbc.co.uk" xmlUrl="http://news.bbc.co.uk/rss/newsonline_uk_edition/entertainment/arts/rss.xml" htmlUrl="" />
+      <outline type="rss" text="newsrss.bbc.co.uk" xmlUrl="http://newsrss.bbc.co.uk/rss/newsonline_uk_edition/in_pictures/rss.xml" htmlUrl="" />
+      <outline type="rss" text="radio.userland.com" xmlUrl="http://radio.userland.com/xml/rss.xml" htmlUrl="" />
+      <outline type="rss" text="reuters.com" xmlUrl="http://www.reuters.com/tools/rss" htmlUrl="" />
+      <outline type="rss" text="[PDF] RSS URLs" xmlUrl="https://about.fb.com/wp-content/uploads/2016/05/rss-urls-1.pdf" htmlUrl="" />
+      <outline type="rss" text="RSS Feeds - Deutsche Welle" xmlUrl="https://corporate.dw.com/en/rss-feeds/a-68693346" htmlUrl="" />
+      <outline type="rss" text="gist.github.com" xmlUrl="https://gist.github.com/hamzamu.atom" htmlUrl="" />
+      <outline type="rss" text="mondediplo.com" xmlUrl="https://mondediplo.com/rss/" htmlUrl="" />
+      <outline type="rss" text="newsloth.com" xmlUrl="https://newsloth.com/blog/rss.xml" htmlUrl="" />
+      <outline type="rss" text="[XML] Deutsche Welle: DW.com - Top Stories" xmlUrl="https://rss.dw.com/rdf/rss-en-top" htmlUrl="" />
+      <outline type="rss" text="RSS feeds for Associated Press News" xmlUrl="https://webapps.stackexchange.com/questions/113549/rss-feeds-for-associated-press-news" htmlUrl="" />
+      <outline type="rss" text="aljazeera.com" xmlUrl="https://www.aljazeera.com/xml/rss/all.xml" htmlUrl="" />
+      <outline type="rss" text="bbc.co.uk" xmlUrl="https://www.bbc.co.uk/blogs/theeditors/rss.xml" htmlUrl="" />
+      <outline type="rss" text="lemonde.fr" xmlUrl="https://www.lemonde.fr/about-us/rss_full.xml" htmlUrl="" />
+      <outline type="rss" text="The RSS feeds of lemonde.fr" xmlUrl="https://www.lemonde.fr/en/rss/article/2022/06/23/the-rss-feeds-of-monde-fr_5987755_165.html" htmlUrl="" />
+      <outline type="rss" text="lemonde.fr" xmlUrl="https://www.lemonde.fr/en/rss/une.xml" htmlUrl="" />
+      <outline type="rss" text="lemonde.fr" xmlUrl="https://www.lemonde.fr/international/rss_full.xml" htmlUrl="" />
+      <outline type="rss" text="nytimes.com" xmlUrl="https://www.nytimes.com/rss" htmlUrl="" />
+      <outline type="rss" text="yodeck.com" xmlUrl="https://www.yodeck.com/feed/" htmlUrl="" />
+    </outline>
+    <outline text="机构/数据（官方）">
+      <outline type="rss" text="elischolar.library.yale.edu" xmlUrl="https://elischolar.library.yale.edu/recent.rss" htmlUrl="" />
+      <outline type="rss" text="en.wikipedia.org" xmlUrl="https://en.wikipedia.org/w/index.php?title=Special:RecentChanges&amp;amp;amp;feed=atom" htmlUrl="" />
+      <outline type="rss" text="feedly.com" xmlUrl="https://feedly.com/new-features/feed.xml" htmlUrl="" />
+      <outline type="rss" text="RSS Feeds | UN News" xmlUrl="https://news.un.org/en/rss-feeds" htmlUrl="" />
+      <outline type="rss" text="Follow Our RSS Feed - OIG" xmlUrl="https://oig.federalreserve.gov/feeds/rss_feeds.htm" htmlUrl="" />
+      <outline type="rss" text="RSS Feeds - WHO Regional Office for Africa" xmlUrl="https://www.afro.who.int/rss-feeds" htmlUrl="" />
+      <outline type="rss" text="Atlanta Fed RSS Feeds" xmlUrl="https://www.atlantafed.org/RSS" htmlUrl="" />
+      <outline type="rss" text="RSS news feeds - Banking supervision" xmlUrl="https://www.bankingsupervision.europa.eu/home/html/rss.en.html" htmlUrl="" />
+      <outline type="rss" text="RSS news feeds - ECB Banking Supervision" xmlUrl="https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html" htmlUrl="" />
+      <outline type="rss" text="bostonfed.org" xmlUrl="https://www.bostonfed.org/feeds/rss_news.xml" htmlUrl="" />
+      <outline type="rss" text="bostonfed.org" xmlUrl="https://www.bostonfed.org/feeds/rss_research.xml" htmlUrl="" />
+      <outline type="rss" text="bostonfed.org" xmlUrl="https://www.bostonfed.org/feeds/rss_speeches.xml" htmlUrl="" />
+      <outline type="rss" text="Dallas Fed RSS feeds - Dallasfed.org" xmlUrl="https://www.dallasfed.org/rss/" htmlUrl="" />
+      <outline type="rss" text="RSS news feeds - European Central Bank" xmlUrl="https://www.ecb.europa.eu/home/html/rss.es.html" htmlUrl="" />
+      <outline type="rss" text="RSS Feeds - WHO EMRO" xmlUrl="https://www.emro.who.int/rss-feeds.html" htmlUrl="" />
+      <outline type="rss" text="RSS News Feeds | National Institute of Environmental Health ..." xmlUrl="https://www.niehs.nih.gov/rssfeed" htmlUrl="" />
+      <outline type="rss" text="RSS Feeds - UN General Assembly - the United Nations" xmlUrl="https://www.un.org/en/ga/rss/index.shtml" htmlUrl="" />
+      <outline type="rss" text="RSS Feeds from the United Nations Web TV" xmlUrl="https://www.un.org/webcast/rss/" htmlUrl="" />
+      <outline type="rss" text="RSS news feeds from UNAIDS" xmlUrl="https://www.unaids.org/en/resources/presscentre/rssnewsfeedsfromunaids" htmlUrl="" />
+      <outline type="rss" text="RSS Feeds | The United Nations Office at Geneva" xmlUrl="https://www.ungeneva.org/en/news-media/rss" htmlUrl="" />
+      <outline type="rss" text="RSS Subscriptions - Unodc" xmlUrl="https://www.unodc.org/unodc/en/rss.html" htmlUrl="" />
+      <outline type="rss" text="Regulatory systems strengthening - World Health Organization (WHO)" xmlUrl="https://www.who.int/teams/regulation-prequalification/regulation-and-safety/rss" htmlUrl="" />
+    </outline>
+    <outline text="中国（官方/权威）">
+      <outline type="rss" text="RSS订阅中心_人民论坛网_中央重点理论网站_人民日报社主管" xmlUrl="http://app.rmlt.com.cn/rss.php?catid=15" htmlUrl="" />
+      <outline type="rss" text="hx.cnd.org" xmlUrl="http://hx.cnd.org/comments/feed/" htmlUrl="" />
+      <outline type="rss" text="hx.cnd.org" xmlUrl="http://hx.cnd.org/feed/" htmlUrl="" />
+      <outline type="rss" text="2021 年我的RSS 订阅方式 - 无人小站" xmlUrl="http://jpliu.github.io/rss2021.html" htmlUrl="" />
+      <outline type="rss" text="央视通简介" xmlUrl="http://www.cntv.cn/program/rss/intro.shtml" htmlUrl="" />
+      <outline type="rss" text="央视通--新闻订阅简介" xmlUrl="http://www.cntv.cn/program/rss/RSS_intro.shtml" htmlUrl="" />
+      <outline type="rss" text="zhihu.com" xmlUrl="http://www.zhihu.com/rss" htmlUrl="" />
+      <outline type="rss" text="amazingcoderpro/rss-recomanded: 值得推荐RSS 订阅源整理 - GitHub" xmlUrl="https://github.com/amazingcoderpro/rss-recomanded" htmlUrl="" />
+      <outline type="rss" text="最新政策- 中国政府网RSS · Issue #14879 · DIYgod/RSSHub - GitHub" xmlUrl="https://github.com/DIYgod/RSSHub/issues/14879" htmlUrl="" />
+      <outline type="rss" text="josherich/RSS-ORG: RSS feed for Organization Bulletins - GitHub" xmlUrl="https://github.com/josherich/RSS-ORG" htmlUrl="" />
+      <outline type="rss" text="RSS-Renaissance/awesome-newsCN-feeds: 优质的「中文新闻媒体 ..." xmlUrl="https://github.com/RSS-Renaissance/awesome-newsCN-feeds" htmlUrl="" />
+      <outline type="rss" text="Rss - China Daily" xmlUrl="https://usa.chinadaily.com.cn/rss.html" htmlUrl="" />
+      <outline type="rss" text="web.dev" xmlUrl="https://web.dev/feed.xml" htmlUrl="" />
+      <outline type="rss" text="RSS Subscribe" xmlUrl="https://www.cgtn.com/subscribe/rss.html" htmlUrl="" />
+      <outline type="rss" text="中国通信服务股份有限公司- RSS 馈送服务" xmlUrl="https://www.chinaccs.com.hk/sc/global/rss.php" htmlUrl="" />
+      <outline type="rss" text="RSS订阅-中国新闻网" xmlUrl="https://www.chinanews.com/rss/" htmlUrl="" />
+      <outline type="rss" text="中新网RSS频道聚合 - 中国新闻网" xmlUrl="https://www.chinanews.com/rss/rss_main2.html" htmlUrl="" />
+      <outline type="rss" text="中新网RSS频道聚合" xmlUrl="https://www.chinanews.com/rss/rss_main3.html" htmlUrl="" />
+      <outline type="rss" text="RSS订阅-贵州贵安新区管理委员会" xmlUrl="https://www.gaxq.gov.cn/syqt/rssdy/" htmlUrl="" />
+      <outline type="rss" text="中国日报社21世纪英文报RSS订阅中心 - 21英语网" xmlUrl="https://www.i21st.cn/rss" htmlUrl="" />
+      <outline type="rss" text="中国日报社21世纪英文报RSS订阅中心- 21英语网" xmlUrl="https://www.i21st.cn/rss/" htmlUrl="" />
+      <outline type="rss" text="jeffjade.com" xmlUrl="https://www.jeffjade.com/atom.xml" htmlUrl="" />
+      <outline type="rss" text="ruanyifeng.com" xmlUrl="https://www.ruanyifeng.com/blog/atom.xml" htmlUrl="" />
+      <outline type="rss" text="secretchina.com" xmlUrl="https://www.secretchina.com/news/gb/index.xml" htmlUrl="" />
+      <outline type="rss" text="secretchina.com" xmlUrl="https://www.secretchina.com/news/gb/news.xml" htmlUrl="" />
+      <outline type="rss" text="RSS订阅- 国家统计局" xmlUrl="https://www.stats.gov.cn/wzgl/rss/" htmlUrl="" />
+      <outline type="rss" text="Rss - 美国之音中文网" xmlUrl="https://www.voachinese.com/rssfeeds" htmlUrl="" />
+    </outline>
+  </body>
+</opml>

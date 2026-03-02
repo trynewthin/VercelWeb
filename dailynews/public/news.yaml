@@ -1,189 +1,158 @@
 sections:
   - name: 🔥 头条
     items:
-      - title: 路透：全球新闻要闻（汇总页）
-        summary: 路透社页面（多条要闻/栏目聚合）。如需具体新闻条目，可点开链接查看最新列表。
-        source: reuters.com
-        time: '12:00'
-        url: https://www.reuters.com/world/
+      - title: 思维的8层境界 90%的人只到第4层！(图)
+        summary: 人和人最大的不同是思維境界的不同。絕大多數人都是泛泛之輩、芸芸眾生，他們思維都是雜亂無章，看山是山，看水是水。思維是有境界，有層次的。每一個成功的人，優秀的人他們都有著更高的思維層次。
+        source: "看中國 http://www.secretchina.com"
+        time: "09:28"
+        url: "https://www.secretchina.com/news/gb/2026/03/02/1095761.html"
+
+  - name: 💻 科技
+    items:
+      - title: "Actor Awards: The winners and nominations in full (updating live)"
+        summary: The ceremony, formerly known as the SAG Awards, takes place in Los Angeles on Sunday night.
+        source: BBC News
+        time: "09:18"
+        tag: 科技
+        url: "https://www.bbc.com/news/articles/cy8pzm41xddo?at_medium=RSS&at_campaign=rss"
+      - title: Oil prices jump after ships attacked near Strait of Hormuz
+        summary: Experts have warned that a prolonged conflict could push global energy prices even higher.
+        source: BBC News
+        time: "08:36"
+        tag: 科技
+        url: "https://www.bbc.com/news/articles/c75evve6l63o?at_medium=RSS&at_campaign=rss"
+      - title: French domestic security forces placed on high alert following airstrik…
+        summary: French Interior Minister Laurent Nuñez instructed prefects to 'report to intelligence services any influence or destabilization efforts lin…
+        source: Le Monde.fr - Actualités et Infos en France et dans le monde
+        time: "07:38"
+        tag: 科技
+        url: "https://www.lemonde.fr/en/international/article/2026/03/02/french-domestic-security-forces-placed-on-high-alert-following-airstrikes-on-iran_6750991_4.html"
+      - title: Consultation on social media ban for under-16s to begin
+        summary: Discussions over what measures to implement to protect children's wellbeing will last for three months.
+        source: BBC News
+        time: "06:35"
+        tag: 科技
+        url: "https://www.bbc.com/news/articles/cvg3vjkx9d7o?at_medium=RSS&at_campaign=rss"
+      - title: Murder charge after security guard stabbed
+        summary: A 50-year-old man will appear at Milton Keynes Magistrates' Court on Monday, police say.
+        source: BBC News
+        time: "06:01"
+        tag: 科技
+        url: "https://www.bbc.com/news/articles/cz6e8v2y7g1o?at_medium=RSS&at_campaign=rss"
+      - title: "EN DIRECT, Iran : Donald Trump promet de « venger » la mort des militai…"
+        summary: En réplique aux bombardements israéliens et américains, le régime iranien a lancé plusieurs missiles dimanche dans la région. L’un d’eux a…
+        source: "International : Toute l’actualité sur Le Monde.fr."
+        time: "05:29"
+        tag: 科技
+        url: "https://www.lemonde.fr/international/live/2026/03/01/en-direct-iran-donald-trump-promet-de-venger-la-mort-des-militaires-americains-dans-une-allocution-dimanche-soir_6668663_3210.html"
+      - title: "Attaque israélo-américaine en Iran : en France, les forces de sécurité…"
+        summary: Le ministre de l’intérieur, Laurent Nuñez, a demandé aux préfets de « signaler aux services de renseignement toute action d’influence ou de…
+        source: "International : Toute l’actualité sur Le Monde.fr."
+        time: "04:52"
+        tag: 科技
+        url: "https://www.lemonde.fr/societe/article/2026/03/01/attaque-israelo-americaine-en-iran-en-france-les-forces-de-securite-interieures-mises-en-vigilance_6668952_3224.html"
+
   - name: 🌍 国际
     items:
-      - title: 卫报：国际新闻与观点（汇总页）
-        summary: 卫报国际版聚合页，汇总国际新闻、科技等栏目最新内容。
-        source: theguardian.com
-        time: '12:00'
+      - title: Poll suggests only a quarter of Americans support attacks on Iran
+        summary: US lawmakers heap pressure on Trump following the first US soldier deaths after Khamenei's killing.
+        source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+        time: "09:20"
         tag: 国际
-        url: https://www.theguardian.com/international
-      - title: CNN：世界新闻头条（汇总页）
-        summary: CNN 世界新闻聚合页，包含最新头条与视频更新。
-        source: cnn.com
-        time: '12:00'
+        url: "https://www.aljazeera.com/news/2026/3/2/poll-suggests-only-a-quarter-of-americans-support-attacks-on-iran?traffic_source=rss"
+      - title: Tehran comes under attack from new round of Israeli strikes
+        summary: Videos show heavy bombardment of Tehran after Israel’s military said it had launched another wave of attacks on Iran.
+        source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+        time: "09:17"
         tag: 国际
-        url: https://www.cnn.com/world
-      - title: BBC：世界新闻最新更新（汇总页）
-        summary: BBC 页面（多条更新/聚合）。点击链接查看按时间滚动的最新报道与要点。
-        source: bbc.com
-        time: '12:00'
+        url: "https://www.aljazeera.com/video/newsfeed/2026/3/2/tehran-comes-under-attack-from-new-round-of-israeli-strikes?traffic_source=rss"
+      - title: Iraqi police disperse pro-Iran protesters near US embassy
+        summary: Iraqi riot police fired warning shots and tear gas to disperse pro-Iran protesters near the US embassy in Baghdad.
+        source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+        time: "09:14"
         tag: 国际
-        url: https://www.bbc.com/news/world
-      - title: BBC：美国与加拿大新闻最新更新（汇总页）
-        summary: BBC 页面（多条更新/聚合）。点击链接查看按时间滚动的最新报道与要点。
-        source: bbc.com
-        time: '12:00'
+        url: "https://www.aljazeera.com/video/newsfeed/2026/3/2/raqi-police-disperse-pro-iran-protesters-near-us-embassy?traffic_source=rss"
+      - title: Fury on Pakistan streets, 20 dead, after US-Israel strike kills Khamenei
+        summary: At least 20 people killed across Pakistan as demonstrations over strike on Tehran spiral into violence.
+        source: Al Jazeera – Breaking News, World News and Video from Al Jazeera
+        time: "09:02"
         tag: 国际
-        url: https://www.bbc.com/news/us-canada
-      - title: 《世界报》：欧洲新闻、文化与观点（栏目页）
-        summary: 《世界报》栏目/主页聚合入口，包含多条文章与观点。
-        source: lemonde.fr
-        time: '12:00'
+        url: "https://www.aljazeera.com/news/2026/3/2/fury-on-pakistan-streets-20-dead-after-us-israel-strike-kills-khamenei?traffic_source=rss"
+      - title: Afghan Taliban reportedly target Pakistani jets over Kabul
+        summary: The Taliban say they engaged Pakistani jets in the skies over Kabul as the fighting between the Pakistani military and the Afghan militants…
+        source: "Deutsche Welle: DW.com - Top Stories"
+        time: "04:44"
         tag: 国际
-        url: https://www.lemonde.fr/en/europe/
-      - title: （已翻译）Europe | Latest News & Updates - BBC
-        summary: BBC 页面（多条更新/聚合）。点击链接查看按时间滚动的最新报道与要点。
-        source: bbc.com
-        time: '12:00'
+        url: "https://www.dw.com/en/afghan-taliban-reportedly-target-pakistani-jets-over-kabul/a-76178230?maca=en-rss-en-top-1022-rdf"
+      - title: US confirms American troops killed, wounded in Iran clashes
+        summary: The US confirmed its first combat casualties a day after launching its campaign against Iran, with Tehran targeting US military assets and…
+        source: "Deutsche Welle: DW.com - Top Stories"
+        time: "03:00"
         tag: 国际
-        url: https://www.bbc.com/news/2/hi/europe?page=8
-      - title: （已翻译）Europe | Latest News & Updates - BBC
-        summary: BBC 页面（多条更新/聚合）。点击链接查看按时间滚动的最新报道与要点。
-        source: bbc.com
-        time: '12:00'
+        url: "https://www.dw.com/en/us-confirms-american-troops-killed-wounded-in-iran-clashes/a-76177887?maca=en-rss-en-top-1022-rdf"
+      - title: "Iran strikes: Trump 'agreed to talk' with Iran's leaders"
+        summary: Following the death of Ayatollah Ali Khamenei, US President Donald Trump says Iran's leadership wants to negotiate. Trump told The Atlantic…
+        source: "Deutsche Welle: DW.com - Top Stories"
+        time: "00:43"
         tag: 国际
-        url: https://www.bbc.com/news/1/hi/world/europe?page=2
-      - title: 路透：欧洲新闻要闻（汇总页）
-        summary: 路透社页面（多条要闻/栏目聚合）。如需具体新闻条目，可点开链接查看最新列表。
-        source: reuters.com
-        time: '12:00'
+        url: "https://www.dw.com/de/iran-strikes-trump-agreed-to-talk-with-iran-s-leaders/live-76171074?maca=en-rss-en-top-1022-rdf"
+      - title: Will Iran conflict send oil prices above $100 a barrel?
+        summary: Oil markets are bracing for sharp price spikes after the US attack on Iran and Tehran's retaliation. Iran's role as a major producer matter…
+        source: "Deutsche Welle: DW.com - Top Stories"
+        time: "00:02"
         tag: 国际
-        url: https://www.reuters.com/world/europe/
-      - title: （已翻译）EU nations call for 'maximum restraint', respect for international law…
-        summary: 路透社页面（多条要闻/栏目聚合）。如需具体新闻条目，可点开链接查看最新列表。
-        source: reuters.com
-        time: '12:00'
-        tag: 国际
-        url: >-
-          https://www.reuters.com/world/middle-east/eu-nations-call-maximum-restraint-respect-international-law-iran-conflict-2026-03-01/
-      - title: 《世界报》英文版主页（汇总页）
-        summary: 《世界报》栏目/主页聚合入口，包含多条文章与观点。
-        source: lemonde.fr
-        time: '12:00'
-        tag: 国际
-        url: https://www.lemonde.fr/en/
-      - title: 路透：中东新闻要闻（汇总页）
-        summary: 路透社页面（多条要闻/栏目聚合）。如需具体新闻条目，可点开链接查看最新列表。
-        source: reuters.com
-        time: '12:00'
-        tag: 国际
-        url: https://www.reuters.com/world/middle-east/
-      - title: 半岛电视台：中东最新动态（汇总页）
-        summary: 半岛电视台栏目聚合入口，含最新动态与专题。
-        source: aljazeera.com
-        time: '12:00'
-        tag: 国际
-        url: https://www.aljazeera.com/middle-east/
-      - title: （已翻译）Middle East | News and analysis of events in the Arab world
-        summary: 权威媒体页面。点击链接查看原文与更多细节。
-        source: dw.com
-        time: '12:00'
-        tag: 国际
-        url: https://www.dw.com/en/middle-east/s-14207
-      - title: （已翻译）News | Today's latest from Al Jazeera
-        summary: 半岛电视台栏目聚合入口，含最新动态与专题。
-        source: aljazeera.com
-        time: '12:00'
-        tag: 国际
-        url: https://www.aljazeera.com/news/
-      - title: （已翻译）Al Jazeera English
-        summary: 半岛电视台栏目聚合入口，含最新动态与专题。
-        source: aljazeera.com
-        time: '12:00'
-        tag: 国际
-        url: https://www.aljazeera.com/youtube?gb=true
-      - title: （已翻译）Israel | Today's latest from Al Jazeera
-        summary: 半岛电视台栏目聚合入口，含最新动态与专题。
-        source: aljazeera.com
-        time: '12:00'
-        tag: 国际
-        url: https://www.aljazeera.com/where/israel/
-      - title: （已翻译）Flooded by cheap Chinese goods, Latin America is fighting back to ...
-        summary: 权威媒体页面。点击链接查看原文与更多细节。
-        source: apnews.com
-        time: '12:00'
-        tag: 国际
-        url: https://apnews.com/article/china-latin-america-trump-trade-e78ccd51a7f66099d84fda885d2907a3
-      - title: （已翻译）Trump is meeting Latin American leaders ahead of China trip
-        summary: 权威媒体页面。点击链接查看原文与更多细节。
-        source: apnews.com
-        time: '12:00'
-        tag: 国际
-        url: https://apnews.com/article/trump-latin-america-china-venezuela-c7eda634084551716f1535a6f78496ba
-  - name: 🌏 亚太
+        url: "https://www.dw.com/en/will-iran-conflict-send-oil-prices-above-100-a-barrel/a-76176495?maca=en-rss-en-top-1022-rdf"
+
+  - name: 🎬 文化
     items:
-      - title: （已翻译）Asia Pacific - News
-        summary: 权威媒体页面。点击链接查看原文与更多细节。
-        source: japantimes.co.jp
-        time: '12:00'
-        tag: 亚太
-        url: https://www.japantimes.co.jp/news/asia-pacific
-      - title: （已翻译）More Asia-pacific Articles - The Japan Times
-        summary: 权威媒体页面。点击链接查看原文与更多细节。
-        source: japantimes.co.jp
-        time: '12:00'
-        tag: 亚太
-        url: https://www.japantimes.co.jp/morearticles/asia-pacific
-      - title: （已翻译）More Asia-pacific stories - The Japan Times
-        summary: 权威媒体页面。点击链接查看原文与更多细节。
-        source: japantimes.co.jp
-        time: '12:00'
-        tag: 亚太
-        url: https://www.japantimes.co.jp/morearticles/asia-pacific/o/?pgno=566
-      - title: （已翻译）Asia-Pacific | NHK WORLD-JAPAN News
-        summary: 权威媒体页面。点击链接查看原文与更多细节。
-        source: www3.nhk.or.jp
-        time: '12:00'
-        tag: 亚太
-        url: https://www3.nhk.or.jp/nhkworld/en/news/tags/14/
-      - title: （已翻译）More Asia-pacific Articles - The Japan Times
-        summary: 权威媒体页面。点击链接查看原文与更多细节。
-        source: japantimes.co.jp
-        time: '12:00'
-        tag: 亚太
-        url: https://www.japantimes.co.jp/morearticles/asia-pacific/?pgno=926
-      - title: （已翻译）Latest and Breaking News
-        summary: 权威媒体页面。点击链接查看原文与更多细节。
-        source: scmp.com
-        time: '12:00'
-        tag: 亚太
-        url: https://www.scmp.com/live
-      - title: （已翻译）Latest news on Hong Kong, China, Asia and the world
-        summary: 权威媒体页面。点击链接查看原文与更多细节。
-        source: scmp.com
-        time: '12:00'
-        tag: 亚太
-        url: https://www.scmp.com/news
-      - title: （已翻译）Latest Asia News & Headlines, Top Stories Today - The Straits Times
-        summary: 权威媒体页面。点击链接查看原文与更多细节。
-        source: straitstimes.com
-        time: '12:00'
-        tag: 亚太
-        url: https://www.straitstimes.com/asia
-  - name: 🇨🇳 中国
+      - title: Photographer Robert Frank's love letter to Paris
+        summary: During a stay in Paris in the autumn of 1949, Swiss photographer Robert Frank created an album of the French capital for his fiancée, Mary,…
+        source: Le Monde.fr - Actualités et Infos en France et dans le monde
+        time: "08:17"
+        tag: 文化
+        url: "https://www.lemonde.fr/en/m-le-mag/article/2026/03/02/photographer-robert-frank-s-love-letter-to-paris_6750992_117.html"
+      - title: "The 'great replacement' theory: 'A hateful, conspiratorial phrase' now…"
+        summary: The expression, coined by far-right ideologue Renaud Camus in 2010, is based on a myth Hitler developed. Its drift into everyday language m…
+        source: Le Monde.fr - Actualités et Infos en France et dans le monde
+        time: "07:20"
+        tag: 文化
+        url: "https://www.lemonde.fr/en/opinion/article/2026/03/02/the-great-replacement-theory-a-hateful-conspiratorial-phrase-now-in-everyday-language_6750990_23.html"
+      - title: "Etats-Unis : deux personnes tuées par un tireur à Austin, le FBI évoque…"
+        summary: « Il y avait des éléments sur le suspect et dans son véhicule qui indiquent un lien potentiel avec le terrorisme », a affirmé lors d’une co…
+        source: "International : Toute l’actualité sur Le Monde.fr."
+        time: "06:40"
+        tag: 文化
+        url: "https://www.lemonde.fr/international/article/2026/03/01/etats-unis-deux-personnes-tuees-par-un-tireur-a-austin-le-fbi-evoque-un-acte-de-terrorisme_6668955_3210.html"
+      - title: "US-Israeli strikes on Iran: Gulf monarchies face a dilemma after Iran's…"
+        summary: "The Arabian Peninsula's monarchs now face a painful dilemma: Whether to continue trying to appease Tehran, or more closely align themselves…"
+        source: Le Monde.fr - Actualités et Infos en France et dans le monde
+        time: "05:47"
+        tag: 文化
+        url: "https://www.lemonde.fr/en/international/article/2026/03/01/us-israeli-strikes-on-iran-gulf-monarchies-face-a-dilemma-after-iran-s-retaliation-attacks-target-them_6750988_4.html"
+      - title: "Iran : tout comprendre à l’attaque historique des Etats-Unis et d’Israël"
+        summary: Quels sont les objectifs des Etats-Unis et d’Israël dans l’offensive de grande ampleur lancée le 28 février contre l’Iran ? Cette opération…
+        source: "International : Toute l’actualité sur Le Monde.fr."
+        time: "03:45"
+        tag: 文化
+        url: "https://www.lemonde.fr/podcasts/article/2026/03/01/iran-tout-comprendre-a-l-attaque-historique-des-etats-unis-et-d-israel_6668950_5463015.html"
+
+  - name: 🧩 其他
     items:
-      - title: （已翻译）China's vision for an open world economy in a turbulent era
-        summary: 权威媒体页面。点击链接查看原文与更多细节。
-        source: english.www.gov.cn
-        time: '12:00'
-        tag: 🇨🇳 中国
-        url: https://english.www.gov.cn/news/202601/22/content_WS69718093c6d00ca5f9a08b6d.html
-      - title: （已翻译）report on the implementation of fiscal policy of china for 2020
-        summary: 权威媒体页面。点击链接查看原文与更多细节。
-        source: mof.gov.cn
-        time: '12:00'
-        tag: 🇨🇳 中国
-        url: https://www.mof.gov.cn/en/reports/202311/t20231128_3918481.htm
-      - title: （已翻译）Growth push anchors strong start of 2026 - Chinadaily.com.cn
-        summary: 权威媒体页面。点击链接查看原文与更多细节。
-        source: chinadaily.com.cn
-        time: '12:00'
-        tag: 🇨🇳 中国
-        url: https://www.chinadaily.com.cn/a/202603/02/WS69a4e38ca310d6866eb3b05c.html
+      - title: 美中虽言合作 但川普始终握紧拳头(图)
+        summary: 美国高法裁决宛如对川普政府关上了一扇任意征收关税的大门（IEEPA），但川普政府却为自己打开了三扇窗户（Section 122、Section 232及Section 301），关税仍然可以征收，但得抬腿才能越过窗户。
+        source: "看中國 http://www.secretchina.com"
+        time: "09:22"
+        tag: 其他
+        url: "https://www.secretchina.com/news/gb/2026/03/02/1095762.html"
+      - title: 习近平不得不在马年“挥泪斩马兴瑞”(图)
+        summary: 中共中央政治局委员马兴瑞，去年7月卸任中共新疆区委书记后，落马传闻不断。外界普遍认为他将正式被官宣落马已无悬念。马兴瑞案牵涉中共最高层，包括习近平夫妇和中纪委书记李希……
+        source: "看中國 http://www.secretchina.com"
+        time: "09:14"
+        tag: 其他
+        url: "https://www.secretchina.com/news/gb/2026/03/02/1095760.html"
+      - title: 血月降临元宵 传说中的凶兆与神话(图)
+        summary: 今年元宵夜，月球将完全进入地球本影之中，满月由银白转为暗红，形成俗称的血月。血月自古被视为凶兆，但在纳西文化中却被视为一种自然奇观，甚至带着神圣的意味。
+        source: "看中國 http://www.secretchina.com"
+        time: "07:45"
+        tag: 其他
+        url: "https://www.secretchina.com/news/gb/2026/03/02/1095759.html"
