@@ -85,7 +85,7 @@ const targetDateObj = parseDateSafe(target + "T12:00:00+08:00") || new Date();
 const targetHuman = target; // YYYY-MM-DD
 
 const python = "python3";
-const tavilyPy = "/home/admin/.openclaw/skills/tavily-mcp-search/scripts/tavily_search.py";
+const tavilyPy = "/home/openclaw-workspace/skills/tavily-mcp-search/scripts/tavily_search.py";
 
 function tavily(query, maxResults = 8, depth = "advanced") {
   const out = execFileSync(python, [tavilyPy, "--query", query, "--max-results", String(maxResults), "--search-depth", depth], {
@@ -193,27 +193,27 @@ function allowlistFilter(url) {
 // Query plan (simple + broad). Tavily doesn’t guarantee date filtering; we include date tokens.
 const queries = [
   // World / geopolitics
-  { section: "🌍 国际", q: `top world news ${targetHuman} site:reuters.com OR site:apnews.com OR site:bbc.com OR site:theguardian.com` },
-  { section: "🌍 国际", q: `Europe news ${targetHuman} site:reuters.com OR site:bbc.com OR site:spiegel.de OR site:lemonde.fr OR site:elpais.com` },
-  { section: "🌍 国际", q: `Middle East news ${targetHuman} site:reuters.com OR site:aljazeera.com OR site:dw.com` },
-  { section: "🌍 国际", q: `Africa news ${targetHuman} site:reuters.com OR site:bbc.com OR site:apnews.com` },
-  { section: "🌍 国际", q: `Latin America news ${targetHuman} site:reuters.com OR site:apnews.com OR site:bbc.com` },
+  { section: "🌍 国际", q: `top world news site:reuters.com OR site:apnews.com OR site:bbc.com OR site:theguardian.com` },
+  { section: "🌍 国际", q: `Europe news site:reuters.com OR site:bbc.com OR site:spiegel.de OR site:lemonde.fr OR site:elpais.com` },
+  { section: "🌍 国际", q: `Middle East news site:reuters.com OR site:aljazeera.com OR site:dw.com` },
+  { section: "🌍 国际", q: `Africa news site:reuters.com OR site:bbc.com OR site:apnews.com` },
+  { section: "🌍 国际", q: `Latin America news site:reuters.com OR site:apnews.com OR site:bbc.com` },
 
   // Asia-Pacific
-  { section: "🌏 亚太", q: `Asia Pacific news ${targetHuman} site:cna.com.sg OR site:straitstimes.com OR site:scmp.com OR site:nhk.or.jp OR site:japantimes.co.jp` },
+  { section: "🌏 亚太", q: `Asia Pacific news site:cna.com.sg OR site:straitstimes.com OR site:scmp.com OR site:nhk.or.jp OR site:japantimes.co.jp` },
 
   // China
-  { section: "🇨🇳 中国", q: `China news policy economy ${targetHuman} site:xinhuanet.com OR site:news.cn OR site:people.com.cn OR site:cctv.com OR site:chinanews.com.cn OR site:gov.cn OR site:chinadaily.com.cn OR site:caixin.com OR site:yicai.com OR site:thepaper.cn OR site:36kr.com` },
+  { section: "🇨🇳 中国", q: `China news policy economy site:xinhuanet.com OR site:news.cn OR site:people.com.cn OR site:cctv.com OR site:chinanews.com.cn OR site:gov.cn OR site:chinadaily.com.cn OR site:caixin.com OR site:yicai.com OR site:thepaper.cn OR site:36kr.com` },
 
   // Business / markets
-  { section: "💰 财经", q: `global markets stocks bonds oil ${targetHuman} site:reuters.com OR site:ft.com OR site:wsj.com` },
-  { section: "💰 财经", q: `central banks inflation rates ${targetHuman} site:reuters.com OR site:ft.com OR site:economist.com` },
+  { section: "💰 财经", q: `global markets stocks bonds oil site:reuters.com OR site:ft.com OR site:wsj.com` },
+  { section: "💰 财经", q: `central banks inflation rates site:reuters.com OR site:ft.com OR site:economist.com` },
 
   // Tech / science / health / climate
-  { section: "💻 科技", q: `technology AI cybersecurity ${targetHuman} site:reuters.com OR site:apnews.com OR site:bbc.com` },
-  { section: "💻 科技", q: `space science research ${targetHuman} site:apnews.com OR site:bbc.com OR site:reuters.com` },
-  { section: "🧩 其他", q: `public health disease WHO ${targetHuman} site:reuters.com OR site:apnews.com OR site:bbc.com` },
-  { section: "🧩 其他", q: `climate extreme weather energy transition ${targetHuman} site:reuters.com OR site:bbc.com OR site:apnews.com` },
+  { section: "💻 科技", q: `technology AI cybersecurity site:reuters.com OR site:apnews.com OR site:bbc.com` },
+  { section: "💻 科技", q: `space science research site:apnews.com OR site:bbc.com OR site:reuters.com` },
+  { section: "🧩 其他", q: `public health disease WHO site:reuters.com OR site:apnews.com OR site:bbc.com` },
+  { section: "🧩 其他", q: `climate extreme weather energy transition site:reuters.com OR site:bbc.com OR site:apnews.com` },
 ];
 
 const all = [];
@@ -263,7 +263,7 @@ for (const r of deduped) {
 }
 
 if (picked.length === 0) {
-  console.error(`No Tavily results after filtering for ${targetHuman}.`);
+  console.error(`No Tavily results after filtering for.`);
   process.exit(1);
 }
 
@@ -308,4 +308,4 @@ for (const name of order) {
 
 const outPath = path.resolve(process.cwd(), "public/news.yaml");
 fs.writeFileSync(outPath, lines.join("\n"), "utf-8");
-console.log(`Wrote ${outPath} for date ${targetHuman} with ${picked.length} items (Tavily).`);
+console.log(`Wrote ${outPath} for date with ${picked.length} items (Tavily).`);

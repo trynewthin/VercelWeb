@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>Authoritative Feeds (discovered 2026-03-02)</title>
+  </head>
+  <body>
+    <outline text="国际（权威媒体）">
+      <outline type="rss" text="feeds.bbci.co.uk" xmlUrl="http://feeds.bbci.co.uk/news/also_in_the_news/rss.xml" htmlUrl="https://www.bbc.co.uk/news/10628494" />
+      <outline type="rss" text="feeds.bbci.co.uk" xmlUrl="http://feeds.bbci.co.uk/news/business/rss.xml" htmlUrl="https://www.bbc.co.uk/news/10628494" />
+      <outline type="rss" text="feeds.bbci.co.uk" xmlUrl="http://feeds.bbci.co.uk/news/education/rss.xml" htmlUrl="https://www.bbc.co.uk/news/10628494" />
+      <outline type="rss" text="feeds.bbci.co.uk" xmlUrl="http://feeds.bbci.co.uk/news/england/rss.xml" htmlUrl="https://www.bbc.co.uk/news/10628494" />
+      <outline type="rss" text="feeds.bbci.co.uk" xmlUrl="http://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml" htmlUrl="https://www.bbc.co.uk/news/10628494" />
+      <outline type="rss" text="feeds.bbci.co.uk" xmlUrl="http://feeds.bbci.co.uk/news/have_your_say/rss.xml" htmlUrl="https://www.bbc.co.uk/news/10628494" />
+      <outline type="rss" text="feeds.bbci.co.uk" xmlUrl="http://feeds.bbci.co.uk/news/health/rss.xml" htmlUrl="https://www.bbc.co.uk/news/10628494" />
+      <outline type="rss" text="feeds.bbci.co.uk" xmlUrl="http://feeds.bbci.co.uk/news/magazine/rss.xml" htmlUrl="https://www.bbc.co.uk/news/10628494" />
+      <outline type="rss" text="feeds.bbci.co.uk" xmlUrl="http://feeds.bbci.co.uk/news/mobile/business/rss.xml" htmlUrl="https://www.bbc.com/news/help-11144227" />
+      <outline type="rss" text="feeds.bbci.co.uk" xmlUrl="http://feeds.bbci.co.uk/news/mobile/education/rss.xml" htmlUrl="https://www.bbc.com/news/help-11144227" />
+      <outline type="rss" text="feeds.bbci.co.uk" xmlUrl="http://feeds.bbci.co.uk/news/mobile/england/rss.xml" htmlUrl="https://www.bbc.com/news/help-11144227" />
+      <outline type="rss" text="feeds.bbci.co.uk" xmlUrl="http://feeds.bbci.co.uk/news/mobile/entertainment_and_arts/rss.xml" htmlUrl="https://www.bbc.com/news/help-11144227" />
+      <outline type="rss" text="feeds.bbci.co.uk" xmlUrl="http://feeds.bbci.co.uk/news/mobile/health/rss.xml" htmlUrl="https://www.bbc.com/news/help-11144227" />
+      <outline type="rss" text="feeds.bbci.co.uk" xmlUrl="http://feeds.bbci.co.uk/news/mobile/northern_ireland/rss.xml" htmlUrl="https://www.bbc.com/news/help-11144227" />
+      <outline type="rss" text="feeds.bbci.co.uk" xmlUrl="http://feeds.bbci.co.uk/news/mobile/politics/rss.xml" htmlUrl="https://www.bbc.com/news/help-11144227" />
+      <outline type="rss" text="feeds.bbci.co.uk" xmlUrl="http://feeds.bbci.co.uk/news/mobile/rss.xml" htmlUrl="https://www.bbc.com/news/help-11144227" />
+      <outline type="rss" text="feeds.bbci.co.uk" xmlUrl="http://feeds.bbci.co.uk/news/mobile/science_and_environment/rss.xml" htmlUrl="https://www.bbc.com/news/help-11144227" />
+      <outline type="rss" text="feeds.bbci.co.uk" xmlUrl="http://feeds.bbci.co.uk/news/mobile/scotland/rss.xml" htmlUrl="https://www.bbc.com/news/help-11144227" />
+      <outline type="rss" text="feeds.bbci.co.uk" xmlUrl="http://feeds.bbci.co.uk/news/mobile/technology/rss.xml" htmlUrl="https://www.bbc.com/news/help-11144227" />
+      <outline type="rss" text="feeds.bbci.co.uk" xmlUrl="http://feeds.bbci.co.uk/news/mobile/uk/rss.xml" htmlUrl="https://www.bbc.com/news/help-11144227" />
+      <outline type="rss" text="feeds.bbci.co.uk" xmlUrl="http://feeds.bbci.co.uk/news/mobile/wales/rss.xml" htmlUrl="https://www.bbc.com/news/help-11144227" />
+      <outline type="rss" text="feeds.bbci.co.uk" xmlUrl="http://feeds.bbci.co.uk/news/mobile/world/rss.xml" htmlUrl="https://www.bbc.com/news/help-11144227" />
+      <outline type="rss" text="feeds.bbci.co.uk" xmlUrl="http://feeds.bbci.co.uk/news/northern_ireland/rss.xml" htmlUrl="https://www.bbc.co.uk/news/10628494" />
+      <outline type="rss" text="feeds.bbci.co.uk" xmlUrl="http://feeds.bbci.co.uk/news/politics/rss.xml" htmlUrl="https://www.bbc.co.uk/news/10628494" />
+      <outline type="rss" text="feeds.bbci.co.uk" xmlUrl="http://feeds.bbci.co.uk/news/rss.xml" htmlUrl="https://www.bbc.co.uk/news/10628494" />
+      <outline type="rss" text="feeds.bbci.co.uk" xmlUrl="http://feeds.bbci.co.uk/news/science_and_environment/rss.xml" htmlUrl="https://www.bbc.co.uk/news/10628494" />
+      <outline type="rss" text="feeds.bbci.co.uk" xmlUrl="http://feeds.bbci.co.uk/news/scotland/rss.xml" htmlUrl="https://www.bbc.co.uk/news/10628494" />
+      <outline type="rss" text="feeds.bbci.co.uk" xmlUrl="http://feeds.bbci.co.uk/news/special_reports/rss.xml" htmlUrl="https://www.bbc.co.uk/news/10628494" />
+      <outline type="rss" text="feeds.bbci.co.uk" xmlUrl="http://feeds.bbci.co.uk/news/system/latest_published_content/rss.xml" htmlUrl="https://www.bbc.co.uk/news/10628494" />
+      <outline type="rss" text="feeds.bbci.co.uk" xmlUrl="http://feeds.bbci.co.uk/news/technology/rss.xml" htmlUrl="https://www.bbc.co.uk/news/10628494" />
+      <outline type="rss" text="feeds.bbci.co.uk" xmlUrl="http://feeds.bbci.co.uk/news/uk/rss.xml" htmlUrl="https://www.bbc.co.uk/news/10628494" />
+      <outline type="rss" text="feeds.bbci.co.uk" xmlUrl="http://feeds.bbci.co.uk/news/video_and_audio/business/rss.xml" htmlUrl="https://www.bbc.co.uk/news/10628494" />
+      <outline type="rss" text="feeds.bbci.co.uk" xmlUrl="http://feeds.bbci.co.uk/news/video_and_audio/entertainment_and_arts/rss.xml" htmlUrl="https://www.bbc.co.uk/news/10628494" />
+      <outline type="rss" text="feeds.bbci.co.uk" xmlUrl="http://feeds.bbci.co.uk/news/video_and_audio/health/rss.xml" htmlUrl="https://www.bbc.co.uk/news/10628494" />
+      <outline type="rss" text="feeds.bbci.co.uk" xmlUrl="http://feeds.bbci.co.uk/news/video_and_audio/politics/rss.xml" htmlUrl="https://www.bbc.co.uk/news/10628494" />
+      <outline type="rss" text="feeds.bbci.co.uk" xmlUrl="http://feeds.bbci.co.uk/news/video_and_audio/science_and_environment/rss.xml" htmlUrl="https://www.bbc.co.uk/news/10628494" />
+      <outline type="rss" text="feeds.bbci.co.uk" xmlUrl="http://feeds.bbci.co.uk/news/video_and_audio/technology/rss.xml" htmlUrl="https://www.bbc.co.uk/news/10628494" />
+      <outline type="rss" text="feeds.bbci.co.uk" xmlUrl="http://feeds.bbci.co.uk/news/video_and_audio/uk/rss.xml" htmlUrl="https://www.bbc.co.uk/news/10628494" />
+      <outline type="rss" text="feeds.bbci.co.uk" xmlUrl="http://feeds.bbci.co.uk/news/video_and_audio/world/rss.xml" htmlUrl="https://www.bbc.co.uk/news/10628494" />
+      <outline type="rss" text="feeds.bbci.co.uk" xmlUrl="http://feeds.bbci.co.uk/news/wales/rss.xml" htmlUrl="https://www.bbc.co.uk/news/10628494" />
+      <outline type="rss" text="feeds.bbci.co.uk" xmlUrl="http://feeds.bbci.co.uk/news/world/africa/rss.xml" htmlUrl="https://www.bbc.co.uk/news/10628494" />
+      <outline type="rss" text="feeds.bbci.co.uk" xmlUrl="http://feeds.bbci.co.uk/news/world/asia/rss.xml" htmlUrl="https://www.bbc.co.uk/news/10628494" />
+      <outline type="rss" text="feeds.bbci.co.uk" xmlUrl="http://feeds.bbci.co.uk/news/world/europe/rss.xml" htmlUrl="https://www.bbc.co.uk/news/10628494" />
+      <outline type="rss" text="feeds.bbci.co.uk" xmlUrl="http://feeds.bbci.co.uk/news/world/latin_america/rss.xml" htmlUrl="https://www.bbc.co.uk/news/10628494" />
+      <outline type="rss" text="feeds.bbci.co.uk" xmlUrl="http://feeds.bbci.co.uk/news/world/middle_east/rss.xml" htmlUrl="https://www.bbc.co.uk/news/10628494" />
+      <outline type="rss" text="feeds.bbci.co.uk" xmlUrl="http://feeds.bbci.co.uk/news/world/rss.xml" htmlUrl="https://www.bbc.co.uk/news/10628494" />
+      <outline type="rss" text="feeds.bbci.co.uk" xmlUrl="http://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml" htmlUrl="https://www.bbc.co.uk/news/10628494" />
+      <outline type="rss" text="news.bbc.co.uk" xmlUrl="http://news.bbc.co.uk/nol/ukfs_news/mobile/magazine/rss.xml" htmlUrl="https://www.bbc.com/news/help-11144227" />
+      <outline type="rss" text="news.bbc.co.uk" xmlUrl="http://news.bbc.co.uk/rss/newsonline_uk_edition/business/rss.xml" htmlUrl="http://radio.userland.com/userGuide/reference/aggregator/howToSubscribeToTheBBC" />
+      <outline type="rss" text="news.bbc.co.uk" xmlUrl="http://news.bbc.co.uk/rss/newsonline_uk_edition/education/rss.xml" htmlUrl="http://radio.userland.com/userGuide/reference/aggregator/howToSubscribeToTheBBC" />
+      <outline type="rss" text="news.bbc.co.uk" xmlUrl="http://news.bbc.co.uk/rss/newsonline_uk_edition/england/rss.xml" htmlUrl="http://radio.userland.com/userGuide/reference/aggregator/howToSubscribeToTheBBC" />
+      <outline type="rss" text="news.bbc.co.uk" xmlUrl="http://news.bbc.co.uk/rss/newsonline_uk_edition/entertainment/arts/rss.xml" htmlUrl="http://radio.userland.com/userGuide/reference/aggregator/howToSubscribeToTheBBC" />
+      <outline type="rss" text="news.bbc.co.uk" xmlUrl="http://news.bbc.co.uk/rss/newsonline_uk_edition/entertainment/film/rss.xml" htmlUrl="http://radio.userland.com/userGuide/reference/aggregator/howToSubscribeToTheBBC" />
+      <outline type="rss" text="news.bbc.co.uk" xmlUrl="http://news.bbc.co.uk/rss/newsonline_uk_edition/entertainment/music/rss.xml" htmlUrl="http://radio.userland.com/userGuide/reference/aggregator/howToSubscribeToTheBBC" />
+      <outline type="rss" text="news.bbc.co.uk" xmlUrl="http://news.bbc.co.uk/rss/newsonline_uk_edition/entertainment/reviews/rss.xml" htmlUrl="http://radio.userland.com/userGuide/reference/aggregator/howToSubscribeToTheBBC" />
+      <outline type="rss" text="news.bbc.co.uk" xmlUrl="http://news.bbc.co.uk/rss/newsonline_uk_edition/entertainment/rss.xml" htmlUrl="http://radio.userland.com/userGuide/reference/aggregator/howToSubscribeToTheBBC" />
+      <outline type="rss" text="news.bbc.co.uk" xmlUrl="http://news.bbc.co.uk/rss/newsonline_uk_edition/entertainment/showbiz/rss.xml" htmlUrl="http://radio.userland.com/userGuide/reference/aggregator/howToSubscribeToTheBBC" />
+      <outline type="rss" text="news.bbc.co.uk" xmlUrl="http://news.bbc.co.uk/rss/newsonline_uk_edition/entertainment/tv_and_radio/rss.xml" htmlUrl="http://radio.userland.com/userGuide/reference/aggregator/howToSubscribeToTheBBC" />
+      <outline type="rss" text="news.bbc.co.uk" xmlUrl="http://news.bbc.co.uk/rss/newsonline_uk_edition/health/medical_notes/rss.xml" htmlUrl="http://radio.userland.com/userGuide/reference/aggregator/howToSubscribeToTheBBC" />
+      <outline type="rss" text="news.bbc.co.uk" xmlUrl="http://news.bbc.co.uk/rss/newsonline_uk_edition/health/rss.xml" htmlUrl="http://radio.userland.com/userGuide/reference/aggregator/howToSubscribeToTheBBC" />
+      <outline type="rss" text="news.bbc.co.uk" xmlUrl="http://news.bbc.co.uk/rss/newsonline_uk_edition/in_depth/education/2003/higher_education/rss.xml" htmlUrl="http://radio.userland.com/userGuide/reference/aggregator/howToSubscribeToTheBBC" />
+      <outline type="rss" text="news.bbc.co.uk" xmlUrl="http://news.bbc.co.uk/rss/newsonline_uk_edition/in_depth/entertainment/2002/harry_potter/rss.xml" htmlUrl="http://radio.userland.com/userGuide/reference/aggregator/howToSubscribeToTheBBC" />
+      <outline type="rss" text="news.bbc.co.uk" xmlUrl="http://news.bbc.co.uk/rss/newsonline_uk_edition/in_depth/middle_east/2001/israel_and_the_palestinians/rss.xml" htmlUrl="http://radio.userland.com/userGuide/reference/aggregator/howToSubscribeToTheBBC" />
+      <outline type="rss" text="news.bbc.co.uk" xmlUrl="http://news.bbc.co.uk/rss/newsonline_uk_edition/in_depth/middle_east/2002/conflict_with_iraq/rss.xml" htmlUrl="http://radio.userland.com/userGuide/reference/aggregator/howToSubscribeToTheBBC" />
+      <outline type="rss" text="news.bbc.co.uk" xmlUrl="http://news.bbc.co.uk/rss/newsonline_uk_edition/in_depth/uk/2001/uk_and_the_euro/rss.xml" htmlUrl="http://radio.userland.com/userGuide/reference/aggregator/howToSubscribeToTheBBC" />
+      <outline type="rss" text="news.bbc.co.uk" xmlUrl="http://news.bbc.co.uk/rss/newsonline_uk_edition/in_depth/world/2003/week_in_pictures/rss.xml" htmlUrl="http://radio.userland.com/userGuide/reference/aggregator/howToSubscribeToTheBBC" />
+      <outline type="rss" text="news.bbc.co.uk" xmlUrl="http://news.bbc.co.uk/rss/newsonline_uk_edition/northern_ireland/rss.xml" htmlUrl="http://radio.userland.com/userGuide/reference/aggregator/howToSubscribeToTheBBC" />
+      <outline type="rss" text="news.bbc.co.uk" xmlUrl="http://news.bbc.co.uk/rss/newsonline_uk_edition/programmes/rss.xml" htmlUrl="http://radio.userland.com/userGuide/reference/aggregator/howToSubscribeToTheBBC" />
+      <outline type="rss" text="news.bbc.co.uk" xmlUrl="http://news.bbc.co.uk/rss/newsonline_uk_edition/sci/tech/rss.xml" htmlUrl="http://radio.userland.com/userGuide/reference/aggregator/howToSubscribeToTheBBC" />
+      <outline type="rss" text="news.bbc.co.uk" xmlUrl="http://news.bbc.co.uk/rss/newsonline_uk_edition/scotland/rss.xml" htmlUrl="http://radio.userland.com/userGuide/reference/aggregator/howToSubscribeToTheBBC" />
+      <outline type="rss" text="news.bbc.co.uk" xmlUrl="http://news.bbc.co.uk/rss/newsonline_uk_edition/talking_point/rss.xml" htmlUrl="http://radio.userland.com/userGuide/reference/aggregator/howToSubscribeToTheBBC" />
+      <outline type="rss" text="news.bbc.co.uk" xmlUrl="http://news.bbc.co.uk/rss/newsonline_uk_edition/technology/rss.xml" htmlUrl="http://radio.userland.com/userGuide/reference/aggregator/howToSubscribeToTheBBC" />
+      <outline type="rss" text="news.bbc.co.uk" xmlUrl="http://news.bbc.co.uk/rss/newsonline_uk_edition/uk_politics/rss.xml" htmlUrl="http://radio.userland.com/userGuide/reference/aggregator/howToSubscribeToTheBBC" />
+      <outline type="rss" text="news.bbc.co.uk" xmlUrl="http://news.bbc.co.uk/rss/newsonline_uk_edition/uk/rss.xml" htmlUrl="http://radio.userland.com/userGuide/reference/aggregator/howToSubscribeToTheBBC" />
+      <outline type="rss" text="news.bbc.co.uk" xmlUrl="http://news.bbc.co.uk/rss/newsonline_uk_edition/wales/mid/rss.xml" htmlUrl="http://radio.userland.com/userGuide/reference/aggregator/howToSubscribeToTheBBC" />
+      <outline type="rss" text="news.bbc.co.uk" xmlUrl="http://news.bbc.co.uk/rss/newsonline_uk_edition/wales/north_east/rss.xml" htmlUrl="http://radio.userland.com/userGuide/reference/aggregator/howToSubscribeToTheBBC" />
+      <outline type="rss" text="news.bbc.co.uk" xmlUrl="http://news.bbc.co.uk/rss/newsonline_uk_edition/wales/north_west/rss.xml" htmlUrl="http://radio.userland.com/userGuide/reference/aggregator/howToSubscribeToTheBBC" />
+      <outline type="rss" text="news.bbc.co.uk" xmlUrl="http://news.bbc.co.uk/rss/newsonline_uk_edition/wales/rss.xml" htmlUrl="http://radio.userland.com/userGuide/reference/aggregator/howToSubscribeToTheBBC" />
+      <outline type="rss" text="news.bbc.co.uk" xmlUrl="http://news.bbc.co.uk/rss/newsonline_uk_edition/wales/south_east/rss.xml" htmlUrl="http://radio.userland.com/userGuide/reference/aggregator/howToSubscribeToTheBBC" />
+      <outline type="rss" text="news.bbc.co.uk" xmlUrl="http://news.bbc.co.uk/rss/newsonline_uk_edition/wales/south_west/rss.xml" htmlUrl="http://radio.userland.com/userGuide/reference/aggregator/howToSubscribeToTheBBC" />
+      <outline type="rss" text="news.bbc.co.uk" xmlUrl="http://news.bbc.co.uk/rss/newsonline_uk_edition/world/africa/rss.xml" htmlUrl="http://radio.userland.com/userGuide/reference/aggregator/howToSubscribeToTheBBC" />
+      <outline type="rss" text="news.bbc.co.uk" xmlUrl="http://news.bbc.co.uk/rss/newsonline_uk_edition/world/americas/rss.xml" htmlUrl="http://radio.userland.com/userGuide/reference/aggregator/howToSubscribeToTheBBC" />
+      <outline type="rss" text="news.bbc.co.uk" xmlUrl="http://news.bbc.co.uk/rss/newsonline_uk_edition/world/asia-pacific/rss.xml" htmlUrl="http://radio.userland.com/userGuide/reference/aggregator/howToSubscribeToTheBBC" />
+      <outline type="rss" text="news.bbc.co.uk" xmlUrl="http://news.bbc.co.uk/rss/newsonline_uk_edition/world/europe/rss.xml" htmlUrl="http://radio.userland.com/userGuide/reference/aggregator/howToSubscribeToTheBBC" />
+      <outline type="rss" text="news.bbc.co.uk" xmlUrl="http://news.bbc.co.uk/rss/newsonline_uk_edition/world/middle_east/rss.xml" htmlUrl="http://radio.userland.com/userGuide/reference/aggregator/howToSubscribeToTheBBC" />
+      <outline type="rss" text="news.bbc.co.uk" xmlUrl="http://news.bbc.co.uk/rss/newsonline_uk_edition/world/rss.xml" htmlUrl="http://radio.userland.com/userGuide/reference/aggregator/howToSubscribeToTheBBC" />
+      <outline type="rss" text="news.bbc.co.uk" xmlUrl="http://news.bbc.co.uk/rss/newsonline_uk_edition/world/south_asia/rss.xml" htmlUrl="http://radio.userland.com/userGuide/reference/aggregator/howToSubscribeToTheBBC" />
+      <outline type="rss" text="news.bbc.co.uk" xmlUrl="http://news.bbc.co.uk/rss/newsonline_world_edition/africa/rss.xml" htmlUrl="http://radio.userland.com/userGuide/reference/aggregator/howToSubscribeToTheBBC" />
+      <outline type="rss" text="news.bbc.co.uk" xmlUrl="http://news.bbc.co.uk/rss/newsonline_world_edition/americas/rss.xml" htmlUrl="http://radio.userland.com/userGuide/reference/aggregator/howToSubscribeToTheBBC" />
+      <outline type="rss" text="news.bbc.co.uk" xmlUrl="http://news.bbc.co.uk/rss/newsonline_world_edition/asia-pacific/rss.xml" htmlUrl="http://radio.userland.com/userGuide/reference/aggregator/howToSubscribeToTheBBC" />
+      <outline type="rss" text="news.bbc.co.uk" xmlUrl="http://news.bbc.co.uk/rss/newsonline_world_edition/business/e-commerce/rss.xml" htmlUrl="http://radio.userland.com/userGuide/reference/aggregator/howToSubscribeToTheBBC" />
+      <outline type="rss" text="news.bbc.co.uk" xmlUrl="http://news.bbc.co.uk/rss/newsonline_world_edition/business/economy/rss.xml" htmlUrl="http://radio.userland.com/userGuide/reference/aggregator/howToSubscribeToTheBBC" />
+      <outline type="rss" text="news.bbc.co.uk" xmlUrl="http://news.bbc.co.uk/rss/newsonline_world_edition/business/rss.xml" htmlUrl="http://radio.userland.com/userGuide/reference/aggregator/howToSubscribeToTheBBC" />
+      <outline type="rss" text="news.bbc.co.uk" xmlUrl="http://news.bbc.co.uk/rss/newsonline_world_edition/entertainment/rss.xml" htmlUrl="http://radio.userland.com/userGuide/reference/aggregator/howToSubscribeToTheBBC" />
+      <outline type="rss" text="news.bbc.co.uk" xmlUrl="http://news.bbc.co.uk/rss/newsonline_world_edition/europe/rss.xml" htmlUrl="http://radio.userland.com/userGuide/reference/aggregator/howToSubscribeToTheBBC" />
+      <outline type="rss" text="news.bbc.co.uk" xmlUrl="http://news.bbc.co.uk/rss/newsonline_world_edition/front_page/rss.xml" htmlUrl="http://radio.userland.com/userGuide/reference/aggregator/howToSubscribeToTheBBC" />
+      <outline type="rss" text="news.bbc.co.uk" xmlUrl="http://news.bbc.co.uk/rss/newsonline_world_edition/health/medical_notes/rss.xml" htmlUrl="http://radio.userland.com/userGuide/reference/aggregator/howToSubscribeToTheBBC" />
+      <outline type="rss" text="news.bbc.co.uk" xmlUrl="http://news.bbc.co.uk/rss/newsonline_world_edition/health/rss.xml" htmlUrl="http://radio.userland.com/userGuide/reference/aggregator/howToSubscribeToTheBBC" />
+      <outline type="rss" text="news.bbc.co.uk" xmlUrl="http://news.bbc.co.uk/rss/newsonline_world_edition/in_depth/europe/2003/inside_europe/rss.xml" htmlUrl="http://radio.userland.com/userGuide/reference/aggregator/howToSubscribeToTheBBC" />
+      <outline type="rss" text="news.bbc.co.uk" xmlUrl="http://news.bbc.co.uk/rss/newsonline_world_edition/in_depth/middle_east/2001/israel_and_the_palestinians/rss.xml" htmlUrl="http://radio.userland.com/userGuide/reference/aggregator/howToSubscribeToTheBBC" />
+      <outline type="rss" text="news.bbc.co.uk" xmlUrl="http://news.bbc.co.uk/rss/newsonline_world_edition/in_depth/middle_east/2002/conflict_with_iraq/rss.xml" htmlUrl="http://radio.userland.com/userGuide/reference/aggregator/howToSubscribeToTheBBC" />
+      <outline type="rss" text="news.bbc.co.uk" xmlUrl="http://news.bbc.co.uk/rss/newsonline_world_edition/in_depth/uk/2001/uk_and_the_euro/rss.xml" htmlUrl="http://radio.userland.com/userGuide/reference/aggregator/howToSubscribeToTheBBC" />
+      <outline type="rss" text="news.bbc.co.uk" xmlUrl="http://news.bbc.co.uk/rss/newsonline_world_edition/in_depth/world/2001/war_on_terror/rss.xml" htmlUrl="http://radio.userland.com/userGuide/reference/aggregator/howToSubscribeToTheBBC" />
+      <outline type="rss" text="news.bbc.co.uk" xmlUrl="http://news.bbc.co.uk/rss/newsonline_world_edition/middle_east/rss.xml" htmlUrl="http://radio.userland.com/userGuide/reference/aggregator/howToSubscribeToTheBBC" />
+      <outline type="rss" text="news.bbc.co.uk" xmlUrl="http://news.bbc.co.uk/rss/newsonline_world_edition/programmes/rss.xml" htmlUrl="http://radio.userland.com/userGuide/reference/aggregator/howToSubscribeToTheBBC" />
+      <outline type="rss" text="news.bbc.co.uk" xmlUrl="http://news.bbc.co.uk/rss/newsonline_world_edition/science/nature/rss.xml" htmlUrl="http://radio.userland.com/userGuide/reference/aggregator/howToSubscribeToTheBBC" />
+      <outline type="rss" text="news.bbc.co.uk" xmlUrl="http://news.bbc.co.uk/rss/newsonline_world_edition/south_asia/rss.xml" htmlUrl="http://radio.userland.com/userGuide/reference/aggregator/howToSubscribeToTheBBC" />
+      <outline type="rss" text="news.bbc.co.uk" xmlUrl="http://news.bbc.co.uk/rss/newsonline_world_edition/talking_point/rss.xml" htmlUrl="http://radio.userland.com/userGuide/reference/aggregator/howToSubscribeToTheBBC" />
+      <outline type="rss" text="news.bbc.co.uk" xmlUrl="http://news.bbc.co.uk/rss/newsonline_world_edition/technology/rss.xml" htmlUrl="http://radio.userland.com/userGuide/reference/aggregator/howToSubscribeToTheBBC" />
+      <outline type="rss" text="news.bbc.co.uk" xmlUrl="http://news.bbc.co.uk/rss/newsonline_world_edition/uk_news/education/rss.xml" htmlUrl="http://radio.userland.com/userGuide/reference/aggregator/howToSubscribeToTheBBC" />
+      <outline type="rss" text="news.bbc.co.uk" xmlUrl="http://news.bbc.co.uk/rss/newsonline_world_edition/uk_news/england/rss.xml" htmlUrl="http://radio.userland.com/userGuide/reference/aggregator/howToSubscribeToTheBBC" />
+      <outline type="rss" text="news.bbc.co.uk" xmlUrl="http://news.bbc.co.uk/rss/newsonline_world_edition/uk_news/northern_ireland/rss.xml" htmlUrl="http://radio.userland.com/userGuide/reference/aggregator/howToSubscribeToTheBBC" />
+      <outline type="rss" text="news.bbc.co.uk" xmlUrl="http://news.bbc.co.uk/rss/newsonline_world_edition/uk_news/politics/rss.xml" htmlUrl="http://radio.userland.com/userGuide/reference/aggregator/howToSubscribeToTheBBC" />
+      <outline type="rss" text="news.bbc.co.uk" xmlUrl="http://news.bbc.co.uk/rss/newsonline_world_edition/uk_news/rss.xml" htmlUrl="http://radio.userland.com/userGuide/reference/aggregator/howToSubscribeToTheBBC" />
+      <outline type="rss" text="news.bbc.co.uk" xmlUrl="http://news.bbc.co.uk/rss/newsonline_world_edition/uk_news/scotland/rss.xml" htmlUrl="http://radio.userland.com/userGuide/reference/aggregator/howToSubscribeToTheBBC" />
+      <outline type="rss" text="news.bbc.co.uk" xmlUrl="http://news.bbc.co.uk/rss/newsonline_world_edition/uk_news/wales/rss.xml" htmlUrl="http://radio.userland.com/userGuide/reference/aggregator/howToSubscribeToTheBBC" />
+      <outline type="rss" text="news.bbc.co.uk" xmlUrl="http://news.bbc.co.uk/sol/ukfs_sport/mobile/cricket/rss.xml" htmlUrl="https://www.bbc.com/news/help-11144227" />
+      <outline type="rss" text="news.bbc.co.uk" xmlUrl="http://news.bbc.co.uk/sol/ukfs_sport/mobile/football/rss.xml" htmlUrl="https://www.bbc.com/news/help-11144227" />
+      <outline type="rss" text="news.bbc.co.uk" xmlUrl="http://news.bbc.co.uk/sol/ukfs_sport/mobile/golf/rss.xml" htmlUrl="https://www.bbc.com/news/help-11144227" />
+      <outline type="rss" text="news.bbc.co.uk" xmlUrl="http://news.bbc.co.uk/sol/ukfs_sport/mobile/motorsport/formula_one/rss.xml" htmlUrl="https://www.bbc.com/news/help-11144227" />
+      <outline type="rss" text="news.bbc.co.uk" xmlUrl="http://news.bbc.co.uk/sol/ukfs_sport/mobile/olympic_games/rss.xml" htmlUrl="https://www.bbc.com/news/help-11144227" />
+      <outline type="rss" text="news.bbc.co.uk" xmlUrl="http://news.bbc.co.uk/sol/ukfs_sport/mobile/rss.xml" htmlUrl="https://www.bbc.com/news/help-11144227" />
+      <outline type="rss" text="news.bbc.co.uk" xmlUrl="http://news.bbc.co.uk/sol/ukfs_sport/mobile/rugby_league/rss.xml" htmlUrl="https://www.bbc.com/news/help-11144227" />
+      <outline type="rss" text="news.bbc.co.uk" xmlUrl="http://news.bbc.co.uk/sol/ukfs_sport/mobile/rugby_union/rss.xml" htmlUrl="https://www.bbc.com/news/help-11144227" />
+      <outline type="rss" text="news.bbc.co.uk" xmlUrl="http://news.bbc.co.uk/sol/ukfs_sport/mobile/tennis/rss.xml" htmlUrl="https://www.bbc.com/news/help-11144227" />
+      <outline type="rss" text="newsrss.bbc.co.uk" xmlUrl="http://newsrss.bbc.co.uk/rss/newsonline_uk_edition/in_pictures/rss.xml" htmlUrl="https://www.bbc.co.uk/news/10628494" />
+      <outline type="rss" text="radio.userland.com" xmlUrl="http://radio.userland.com/xml/rss.xml" htmlUrl="http://radio.userland.com/userGuide/reference/aggregator/howToSubscribeToTheBBC" />
+      <outline type="rss" text="reuters.com" xmlUrl="http://www.reuters.com/tools/rss" htmlUrl="https://go.engagephd.com/KnowledgeBase/Detail/1438" />
+      <outline type="rss" text="[PDF] RSS URLs" xmlUrl="https://about.fb.com/wp-content/uploads/2016/05/rss-urls-1.pdf" htmlUrl="" />
+      <outline type="rss" text="RSS Feeds - Deutsche Welle" xmlUrl="https://corporate.dw.com/en/rss-feeds/a-68693346" htmlUrl="" />
+      <outline type="rss" text="gist.github.com" xmlUrl="https://gist.github.com/hamzamu.atom" htmlUrl="https://gist.github.com/hamzamu/5c2fa2907ec507f4aba3ba6fcce2d21b" />
+      <outline type="rss" text="mondediplo.com" xmlUrl="https://mondediplo.com/rss/" htmlUrl="https://mondediplo.com/" />
+      <outline type="rss" text="newsloth.com" xmlUrl="https://newsloth.com/blog/rss.xml" htmlUrl="https://newsloth.com/popular-rss-feeds/reuters-rss-feeds" />
+      <outline type="rss" text="Al Jazeera RSS Feed: Generate Feeds in Seconds - RSS.app" xmlUrl="https://rss.app/rss-feed/al-jazeera-rss-feed" htmlUrl="" />
+      <outline type="rss" text="Associated Press News RSS Feed: Generate Feeds in Seconds" xmlUrl="https://rss.app/rss-feed/associated-press-news-rss-feed" htmlUrl="" />
+      <outline type="rss" text="BBC News RSS Feed: Generate Feeds in Seconds | RSS.app" xmlUrl="https://rss.app/rss-feed/bbc-rss-feed" htmlUrl="" />
+      <outline type="rss" text="Reuters RSS Feed: Generate Feeds in Seconds | RSS.app" xmlUrl="https://rss.app/rss-feed/reuters-rss-feed" htmlUrl="" />
+      <outline type="rss" text="[XML] Deutsche Welle: DW.com - Top Stories" xmlUrl="https://rss.dw.com/rdf/rss-en-top" htmlUrl="" />
+      <outline type="rss" text="Top 40 Associated Press RSS Feeds | Create APNews RSS Feed" xmlUrl="https://rss.feedspot.com/associated_press_rss_feeds/" htmlUrl="" />
+      <outline type="rss" text="Top 40 BBC RSS Feeds" xmlUrl="https://rss.feedspot.com/bbc_rss_feeds/" htmlUrl="" />
+      <outline type="rss" text="Top 10 Deutsche Welle RSS Feeds" xmlUrl="https://rss.feedspot.com/deutschewelle_rss_feeds/" htmlUrl="" />
+      <outline type="rss" text="Top 25 Le Monde RSS Feeds" xmlUrl="https://rss.feedspot.com/lemonde_rss_feeds/" htmlUrl="" />
+      <outline type="rss" text="60 Best Political News RSS Feeds - RSS Database - Feedspot" xmlUrl="https://rss.feedspot.com/political_news_rss_feeds/" htmlUrl="" />
+      <outline type="rss" text="Top 30 Reuters RSS Feeds" xmlUrl="https://rss.feedspot.com/reuters_rss_feeds/" htmlUrl="" />
+      <outline type="rss" text="RSS feeds for Associated Press News" xmlUrl="https://webapps.stackexchange.com/questions/113549/rss-feeds-for-associated-press-news" htmlUrl="" />
+      <outline type="rss" text="aljazeera.com" xmlUrl="https://www.aljazeera.com/xml/rss/all.xml" htmlUrl="https://www.aljazeera.com/" />
+      <outline type="rss" text="bbc.co.uk" xmlUrl="https://www.bbc.co.uk/blogs/theeditors/rss.xml" htmlUrl="https://www.bbc.co.uk/news/10628494" />
+      <outline type="rss" text="lemonde.fr" xmlUrl="https://www.lemonde.fr/about-us/rss_full.xml" htmlUrl="https://www.lemonde.fr/en/about-us/article/2022/04/07/welcome-to-le-monde-in-english_5979903_115.html" />
+      <outline type="rss" text="The RSS feeds of lemonde.fr" xmlUrl="https://www.lemonde.fr/en/rss/article/2022/06/23/the-rss-feeds-of-monde-fr_5987755_165.html" htmlUrl="" />
+      <outline type="rss" text="lemonde.fr" xmlUrl="https://www.lemonde.fr/en/rss/une.xml" htmlUrl="https://www.lemonde.fr/en/" />
+      <outline type="rss" text="lemonde.fr" xmlUrl="https://www.lemonde.fr/international/rss_full.xml" htmlUrl="https://www.lemonde.fr/en/international/" />
+      <outline type="rss" text="nytimes.com" xmlUrl="https://www.nytimes.com/rss" htmlUrl="https://help.everyonesocial.com/article/641-rss-feeds-and-everyonesocial" />
+      <outline type="rss" text="yodeck.com" xmlUrl="https://www.yodeck.com/feed/" htmlUrl="https://www.yodeck.com/docs/user-manual/al-jazeera-rss-widget/" />
+    </outline>
+    <outline text="机构/数据（官方）">
+      <outline type="rss" text="elischolar.library.yale.edu" xmlUrl="https://elischolar.library.yale.edu/recent.rss" htmlUrl="https://elischolar.library.yale.edu/ypfs-ecb-tools-and-policy-actions/announcements.html" />
+      <outline type="rss" text="en.wikipedia.org" xmlUrl="https://en.wikipedia.org/w/index.php?title=Special:RecentChanges&amp;amp;feed=atom" htmlUrl="https://en.wikipedia.org/wiki/Rashtriya_Swayamsevak_Sangh" />
+      <outline type="rss" text="feedly.com" xmlUrl="https://feedly.com/new-features/feed.xml" htmlUrl="https://feedly.com/i/top/imf-blogs" />
+      <outline type="rss" text="RSS Feeds | UN News" xmlUrl="https://news.un.org/en/rss-feeds" htmlUrl="" />
+      <outline type="rss" text="Follow Our RSS Feed - OIG" xmlUrl="https://oig.federalreserve.gov/feeds/rss_feeds.htm" htmlUrl="" />
+      <outline type="rss" text="Top 30 Central Banks RSS Feeds" xmlUrl="https://rss.feedspot.com/central_banks_rss_feeds/" htmlUrl="" />
+      <outline type="rss" text="Top 15 FED RSS Feeds" xmlUrl="https://rss.feedspot.com/fed_rss_feeds/" htmlUrl="" />
+      <outline type="rss" text="Top 5 IMF RSS Feeds" xmlUrl="https://rss.feedspot.com/imf_rss_feeds/" htmlUrl="" />
+      <outline type="rss" text="Top 35 UN RSS Feeds" xmlUrl="https://rss.feedspot.com/un_rss_feeds/" htmlUrl="" />
+      <outline type="rss" text="Top 20 World Health Organization RSS Feeds" xmlUrl="https://rss.feedspot.com/world_health_organization_rss_feeds/" htmlUrl="" />
+      <outline type="rss" text="Top 25 World Bank Blogs RSS Feeds" xmlUrl="https://rss.feedspot.com/worldbankblogs_rss_feeds/" htmlUrl="" />
+      <outline type="rss" text="RSS Feeds - WHO Regional Office for Africa" xmlUrl="https://www.afro.who.int/rss-feeds" htmlUrl="" />
+      <outline type="rss" text="Atlanta Fed RSS Feeds" xmlUrl="https://www.atlantafed.org/RSS" htmlUrl="" />
+      <outline type="rss" text="RSS news feeds - Banking supervision" xmlUrl="https://www.bankingsupervision.europa.eu/home/html/rss.en.html" htmlUrl="" />
+      <outline type="rss" text="RSS news feeds - ECB Banking Supervision" xmlUrl="https://www.bankingsupervision.europa.eu/home/rss/html/index.en.html" htmlUrl="" />
+      <outline type="rss" text="bostonfed.org" xmlUrl="https://www.bostonfed.org/feeds/rss_news.xml" htmlUrl="https://www.bostonfed.org/feeds.aspx" />
+      <outline type="rss" text="bostonfed.org" xmlUrl="https://www.bostonfed.org/feeds/rss_research.xml" htmlUrl="https://www.bostonfed.org/feeds.aspx" />
+      <outline type="rss" text="bostonfed.org" xmlUrl="https://www.bostonfed.org/feeds/rss_speeches.xml" htmlUrl="https://www.bostonfed.org/feeds.aspx" />
+      <outline type="rss" text="Dallas Fed RSS feeds - Dallasfed.org" xmlUrl="https://www.dallasfed.org/rss/" htmlUrl="" />
+      <outline type="rss" text="RSS news feeds - European Central Bank" xmlUrl="https://www.ecb.europa.eu/home/html/rss.es.html" htmlUrl="" />
+      <outline type="rss" text="RSS Feeds - WHO EMRO" xmlUrl="https://www.emro.who.int/rss-feeds.html" htmlUrl="" />
+      <outline type="rss" text="RSS News Feeds | National Institute of Environmental Health ..." xmlUrl="https://www.niehs.nih.gov/rssfeed" htmlUrl="" />
+      <outline type="rss" text="RSS Feeds - UN General Assembly - the United Nations" xmlUrl="https://www.un.org/en/ga/rss/index.shtml" htmlUrl="" />
+      <outline type="rss" text="RSS Feeds from the United Nations Web TV" xmlUrl="https://www.un.org/webcast/rss/" htmlUrl="" />
+      <outline type="rss" text="RSS news feeds from UNAIDS" xmlUrl="https://www.unaids.org/en/resources/presscentre/rssnewsfeedsfromunaids" htmlUrl="" />
+      <outline type="rss" text="RSS Feeds | The United Nations Office at Geneva" xmlUrl="https://www.ungeneva.org/en/news-media/rss" htmlUrl="" />
+      <outline type="rss" text="RSS Subscriptions - Unodc" xmlUrl="https://www.unodc.org/unodc/en/rss.html" htmlUrl="" />
+      <outline type="rss" text="Regulatory systems strengthening - World Health Organization (WHO)" xmlUrl="https://www.who.int/teams/regulation-prequalification/regulation-and-safety/rss" htmlUrl="" />
+    </outline>
+    <outline text="中国（官方/权威）">
+      <outline type="rss" text="RSS订阅中心_人民论坛网_中央重点理论网站_人民日报社主管" xmlUrl="http://app.rmlt.com.cn/rss.php?catid=15" htmlUrl="" />
+      <outline type="rss" text="hx.cnd.org" xmlUrl="http://hx.cnd.org/comments/feed/" htmlUrl="http://hx.cnd.org/2026/02/28/%E9%83%91%E6%B7%AF%E5%BF%83%EF%BC%9A%E4%B8%89%E8%81%9A%E6%B0%B0%E8%83%BA%E5%90%B9%E5%93%A8%E4%BA%BA%E7%AE%80%E5%85%89%E6%B4%B2%EF%BC%9A%E4%B8%80%E5%90%8D%E8%B0%83%E6%9F%A5%E8%AE%B0%E8%80%85%E7%9A%84/" />
+      <outline type="rss" text="hx.cnd.org" xmlUrl="http://hx.cnd.org/feed/" htmlUrl="http://hx.cnd.org/2026/02/28/%E9%83%91%E6%B7%AF%E5%BF%83%EF%BC%9A%E4%B8%89%E8%81%9A%E6%B0%B0%E8%83%BA%E5%90%B9%E5%93%A8%E4%BA%BA%E7%AE%80%E5%85%89%E6%B4%B2%EF%BC%9A%E4%B8%80%E5%90%8D%E8%B0%83%E6%9F%A5%E8%AE%B0%E8%80%85%E7%9A%84/" />
+      <outline type="rss" text="2021 年我的RSS 订阅方式 - 无人小站" xmlUrl="http://jpliu.github.io/rss2021.html" htmlUrl="" />
+      <outline type="rss" text="央视通简介" xmlUrl="http://www.cntv.cn/program/rss/intro.shtml" htmlUrl="" />
+      <outline type="rss" text="央视通--新闻订阅简介" xmlUrl="http://www.cntv.cn/program/rss/RSS_intro.shtml" htmlUrl="" />
+      <outline type="rss" text="zhihu.com" xmlUrl="http://www.zhihu.com/rss" htmlUrl="https://plink.anyfeeder.com/" />
+      <outline type="rss" text="amazingcoderpro/rss-recomanded: 值得推荐RSS 订阅源整理 - GitHub" xmlUrl="https://github.com/amazingcoderpro/rss-recomanded" htmlUrl="" />
+      <outline type="rss" text="最新政策- 中国政府网RSS · Issue #14879 · DIYgod/RSSHub - GitHub" xmlUrl="https://github.com/DIYgod/RSSHub/issues/14879" htmlUrl="" />
+      <outline type="rss" text="josherich/RSS-ORG: RSS feed for Organization Bulletins - GitHub" xmlUrl="https://github.com/josherich/RSS-ORG" htmlUrl="" />
+      <outline type="rss" text="RSS-Renaissance/awesome-newsCN-feeds: 优质的「中文新闻媒体 ..." xmlUrl="https://github.com/RSS-Renaissance/awesome-newsCN-feeds" htmlUrl="" />
+      <outline type="rss" text="Rss - China Daily" xmlUrl="https://usa.chinadaily.com.cn/rss.html" htmlUrl="" />
+      <outline type="rss" text="web.dev" xmlUrl="https://web.dev/feed.xml" htmlUrl="https://plink.anyfeeder.com/" />
+      <outline type="rss" text="RSS Subscribe" xmlUrl="https://www.cgtn.com/subscribe/rss.html" htmlUrl="" />
+      <outline type="rss" text="中国通信服务股份有限公司- RSS 馈送服务" xmlUrl="https://www.chinaccs.com.hk/sc/global/rss.php" htmlUrl="" />
+      <outline type="rss" text="RSS订阅-中国新闻网" xmlUrl="https://www.chinanews.com/rss/" htmlUrl="" />
+      <outline type="rss" text="中新网RSS频道聚合 - 中国新闻网" xmlUrl="https://www.chinanews.com/rss/rss_main2.html" htmlUrl="" />
+      <outline type="rss" text="中新网RSS频道聚合" xmlUrl="https://www.chinanews.com/rss/rss_main3.html" htmlUrl="" />
+      <outline type="rss" text="RSS订阅-贵州贵安新区管理委员会" xmlUrl="https://www.gaxq.gov.cn/syqt/rssdy/" htmlUrl="" />
+      <outline type="rss" text="中国日报社21世纪英文报RSS订阅中心 - 21英语网" xmlUrl="https://www.i21st.cn/rss" htmlUrl="" />
+      <outline type="rss" text="中国日报社21世纪英文报RSS订阅中心- 21英语网" xmlUrl="https://www.i21st.cn/rss/" htmlUrl="" />
+      <outline type="rss" text="jeffjade.com" xmlUrl="https://www.jeffjade.com/atom.xml" htmlUrl="https://plink.anyfeeder.com/" />
+      <outline type="rss" text="ruanyifeng.com" xmlUrl="https://www.ruanyifeng.com/blog/atom.xml" htmlUrl="https://plink.anyfeeder.com/" />
+      <outline type="rss" text="secretchina.com" xmlUrl="https://www.secretchina.com/news/gb/index.xml" htmlUrl="https://www.secretchina.com/news/gb/2026/02/27/1095619.html" />
+      <outline type="rss" text="secretchina.com" xmlUrl="https://www.secretchina.com/news/gb/news.xml" htmlUrl="https://www.secretchina.com/news/gb/2026/02/27/1095619.html" />
+      <outline type="rss" text="RSS订阅- 国家统计局" xmlUrl="https://www.stats.gov.cn/wzgl/rss/" htmlUrl="" />
+      <outline type="rss" text="Rss - 美国之音中文网" xmlUrl="https://www.voachinese.com/rssfeeds" htmlUrl="" />
+    </outline>
+  </body>
+</opml>

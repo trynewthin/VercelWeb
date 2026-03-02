@@ -1,217 +1,189 @@
 sections:
-  - name: "🔥 头条"
+  - name: 🔥 头条
     items:
-      - title: "路透：美以袭击致伊朗最高领袖哈梅内伊之女与外孙遇难"
-        summary: "路透社援引伊朗官媒称，最高领袖哈梅内伊的女儿与外孙在美国与以色列的袭击中身亡。事件加剧地区紧张，外界关注伊朗后续反应与局势走向。"
+      - title: 路透：全球新闻要闻（汇总页）
+        summary: 路透社页面（多条要闻/栏目聚合）。如需具体新闻条目，可点开链接查看最新列表。
         source: reuters.com
-        time: "12:00"
-        url: "https://www.reuters.com/world/middle-east/daughter-grandchild-irans-khamenei-killed-us-israeli-strikes-state-media-says-2026-03-01/"
-
-  - name: "🌍 国际"
+        time: '12:00'
+        url: https://www.reuters.com/world/
+  - name: 🌍 国际
     items:
-      - title: "BBC：全球如何回应美以对伊朗的打击"
-        summary: "BBC梳理各方表态与局势进展：伊朗称已打击驻巴林美军基地并在区域内发动行动；多国呼吁克制，担忧冲突外溢。"
+      - title: 卫报：国际新闻与观点（汇总页）
+        summary: 卫报国际版聚合页，汇总国际新闻、科技等栏目最新内容。
+        source: theguardian.com
+        time: '12:00'
+        tag: 国际
+        url: https://www.theguardian.com/international
+      - title: CNN：世界新闻头条（汇总页）
+        summary: CNN 世界新闻聚合页，包含最新头条与视频更新。
+        source: cnn.com
+        time: '12:00'
+        tag: 国际
+        url: https://www.cnn.com/world
+      - title: BBC：世界新闻最新更新（汇总页）
+        summary: BBC 页面（多条更新/聚合）。点击链接查看按时间滚动的最新报道与要点。
         source: bbc.com
-        time: "12:00"
-        tag: "国际"
-        url: "https://www.bbc.com/news/articles/c5yj9kr31y7o"
-
-      - title: "伊朗官媒确认最高领袖哈梅内伊身亡｜路透"
-        summary: "路透社报道，伊朗国家媒体确认最高领袖哈梅内伊在袭击中身亡。相关消息可能改变伊朗政治与安全格局，并引发地区局势进一步升级。"
+        time: '12:00'
+        tag: 国际
+        url: https://www.bbc.com/news/world
+      - title: BBC：美国与加拿大新闻最新更新（汇总页）
+        summary: BBC 页面（多条更新/聚合）。点击链接查看按时间滚动的最新报道与要点。
+        source: bbc.com
+        time: '12:00'
+        tag: 国际
+        url: https://www.bbc.com/news/us-canada
+      - title: 《世界报》：欧洲新闻、文化与观点（栏目页）
+        summary: 《世界报》栏目/主页聚合入口，包含多条文章与观点。
+        source: lemonde.fr
+        time: '12:00'
+        tag: 国际
+        url: https://www.lemonde.fr/en/europe/
+      - title: （已翻译）Europe | Latest News & Updates - BBC
+        summary: BBC 页面（多条更新/聚合）。点击链接查看按时间滚动的最新报道与要点。
+        source: bbc.com
+        time: '12:00'
+        tag: 国际
+        url: https://www.bbc.com/news/2/hi/europe?page=8
+      - title: （已翻译）Europe | Latest News & Updates - BBC
+        summary: BBC 页面（多条更新/聚合）。点击链接查看按时间滚动的最新报道与要点。
+        source: bbc.com
+        time: '12:00'
+        tag: 国际
+        url: https://www.bbc.com/news/1/hi/world/europe?page=2
+      - title: 路透：欧洲新闻要闻（汇总页）
+        summary: 路透社页面（多条要闻/栏目聚合）。如需具体新闻条目，可点开链接查看最新列表。
         source: reuters.com
-        time: "12:00"
-        tag: "国际"
-        url: "https://www.reuters.com/world/middle-east/irans-supreme-leader-khamenei-killed-iranian-state-media-confirm-2026-03-01/"
-
-      - title: "BBC：国际新闻（世界）最新动态聚合页"
-        summary: "BBC世界新闻频道的最新更新汇总页面，包含多地区要闻与专题入口。"
-        source: bbc.com
-        time: "12:00"
-        tag: "国际"
-        url: "https://www.bbc.com/news/world"
-
-      - title: "BBC：伊朗发生了什么？关于美以行动我们已知的信息"
-        summary: "BBC以问答形式梳理美以对伊朗的行动、伊朗的反应以及潜在影响，帮助读者快速理解局势关键点。"
-        source: bbc.com
-        time: "12:00"
-        tag: "国际"
-        url: "https://www.bbc.com/news/articles/cx2dyz6p3weo"
-
-      - title: "BBC世界服务：节目与新闻音频（可收听）"
-        summary: "BBC World Service 新闻节目列表页面，提供多期五分钟新闻简报等音频内容入口。"
-        source: bbc.com
-        time: "12:00"
-        tag: "国际"
-        url: "https://www.bbc.com/programmes/p002vsmz/episodes"
-
-      - title: "路透：美以选择在哈梅内伊与核心圈会面时发动打击"
-        summary: "路透社引述消息人士称，美以把打击时点选在哈梅内伊与最高安全顾问会面期间，意在影响伊朗指挥体系与决策链。"
+        time: '12:00'
+        tag: 国际
+        url: https://www.reuters.com/world/europe/
+      - title: （已翻译）EU nations call for 'maximum restraint', respect for international law…
+        summary: 路透社页面（多条要闻/栏目聚合）。如需具体新闻条目，可点开链接查看最新列表。
         source: reuters.com
-        time: "12:00"
-        tag: "国际"
-        url: "https://www.reuters.com/world/israel-us-launched-strikes-iranian-leader-met-with-inner-circle-sources-say-2026-03-01/"
-
-      - title: "路透：美以在哈梅内伊与核心圈会面时发动打击（中东版链接）"
-        summary: "路透社同一报道的另一链接版本：美以选择在伊朗最高领袖与核心安全圈会面期间行动，以期造成更大冲击。"
+        time: '12:00'
+        tag: 国际
+        url: >-
+          https://www.reuters.com/world/middle-east/eu-nations-call-maximum-restraint-respect-international-law-iran-conflict-2026-03-01/
+      - title: 《世界报》英文版主页（汇总页）
+        summary: 《世界报》栏目/主页聚合入口，包含多条文章与观点。
+        source: lemonde.fr
+        time: '12:00'
+        tag: 国际
+        url: https://www.lemonde.fr/en/
+      - title: 路透：中东新闻要闻（汇总页）
+        summary: 路透社页面（多条要闻/栏目聚合）。如需具体新闻条目，可点开链接查看最新列表。
         source: reuters.com
-        time: "12:00"
-        tag: "国际"
-        url: "https://www.reuters.com/world/middle-east/israel-us-launched-strikes-iranian-leader-met-with-inner-circle-sources-say-2026-03-01/"
-
-      - title: "《世界报》欧洲：世界新闻、文化与观点（栏目页）"
-        summary: "法国《世界报》欧洲栏目入口，汇总欧洲相关新闻、评论与专题文章。"
-        source: lemonde.fr
-        time: "12:00"
-        tag: "国际"
-        url: "https://www.lemonde.fr/en/europe/"
-
-      - title: "《世界报》欧洲栏目第2页（栏目页）"
-        summary: "《世界报》欧洲栏目分页入口，包含更多欧洲相关新闻与评论文章（部分可能为订阅内容）。"
-        source: lemonde.fr
-        time: "12:00"
-        tag: "国际"
-        url: "https://www.lemonde.fr/en/europe/2"
-
-      - title: "《世界报》档案：2026年2月3日（归档页）"
-        summary: "《世界报》按日期整理的归档入口，便于检索当日各栏目文章。"
-        source: lemonde.fr
-        time: "12:00"
-        tag: "国际"
-        url: "https://www.lemonde.fr/en/archives-du-monde/03-02-2026/"
-
-      - title: "《世界报》档案：2025年3月1日（归档页）"
-        summary: "《世界报》按日期整理的归档入口，便于查看2025年3月1日的文章集合。"
-        source: lemonde.fr
-        time: "12:00"
-        tag: "国际"
-        url: "https://www.lemonde.fr/en/archives-du-monde/01-03-2025/"
-
-      - title: "半岛电视台：分析称特朗普对伊朗打击更利于以色列而非美国"
-        summary: "半岛电视台报道与分析认为，此轮对伊朗行动与以色列安全与地区战略更为相关，而美国自身利益与风险之间存在张力。"
+        time: '12:00'
+        tag: 国际
+        url: https://www.reuters.com/world/middle-east/
+      - title: 半岛电视台：中东最新动态（汇总页）
+        summary: 半岛电视台栏目聚合入口，含最新动态与专题。
         source: aljazeera.com
-        time: "12:00"
-        tag: "国际"
-        url: "https://www.aljazeera.com/news/2026/3/1/netanyahus-war-analysts-say-trumps-iran-strikes-benefit-israel-not-us"
-
-      - title: "德国之声：美称暂无美国人员伤亡报告（伊朗袭击相关）"
-        summary: "德国之声（DW）报道美国官员说法：目前未收到美国人员伤亡报告，并梳理后续外交与地区安全影响。"
-        source: amp.dw.com
-        time: "12:00"
-        tag: "国际"
-        url: "https://amp.dw.com/en/iran-strikes-us-says-no-reports-of-american-casualties/a-76169908"
-
-      - title: "半岛电视台：伊朗总统下令团队与美国重启谈判"
-        summary: "半岛电视台称，伊朗总统要求团队推动与美国的新一轮对话；此前多国提出斡旋方案，试图缓和紧张。"
+        time: '12:00'
+        tag: 国际
+        url: https://www.aljazeera.com/middle-east/
+      - title: （已翻译）Middle East | News and analysis of events in the Arab world
+        summary: 权威媒体页面。点击链接查看原文与更多细节。
+        source: dw.com
+        time: '12:00'
+        tag: 国际
+        url: https://www.dw.com/en/middle-east/s-14207
+      - title: （已翻译）News | Today's latest from Al Jazeera
+        summary: 半岛电视台栏目聚合入口，含最新动态与专题。
         source: aljazeera.com
-        time: "12:00"
-        tag: "国际"
-        url: "https://www.aljazeera.com/news/2026/2/2/iran-eyes-progress-towards-us-nuclear-talks-as-tension-eases"
-
-      - title: "半岛电视台：对伊朗打击引发美国再度要求强化战争权力立法"
-        summary: "半岛电视台报道，美国国会人士要求就对伊朗行动进行简报与审议，并推动战争权力相关立法，以限制总统单方面动武。"
+        time: '12:00'
+        tag: 国际
+        url: https://www.aljazeera.com/news/
+      - title: （已翻译）Al Jazeera English
+        summary: 半岛电视台栏目聚合入口，含最新动态与专题。
         source: aljazeera.com
-        time: "12:00"
-        tag: "国际"
-        url: "https://www.aljazeera.com/news/2026/3/1/us-strikes-on-iran-lead-to-renewed-demands-for-war-powers-legislation"
-
-      - title: "BBC合作伙伴：BBC World Service（东非）某日节目表"
-        summary: "BBC合作伙伴站点的节目表页面，展示特定日期的世界服务（东非）播出安排。"
-        source: wspartners.bbc.com
-        time: "12:00"
-        tag: "国际"
-        url: "https://wspartners.bbc.com/schedules/bbc_world_service_east_africa/day/2026-02-23"
-
-      - title: "BBC合作伙伴：BBC World Service（西中非）某周节目表"
-        summary: "BBC合作伙伴站点的节目表页面，展示世界服务（西中非）一周的播出安排。"
-        source: wspartners.bbc.com
-        time: "12:00"
-        tag: "国际"
-        url: "https://wspartners.bbc.com/schedules/bbc_world_service_west_africa/week/2026-03-14"
-
-      - title: "BBC合作伙伴：BBC World Service（东非）某周节目表"
-        summary: "BBC合作伙伴站点的节目表页面，展示世界服务（东非）在该周的播出安排。"
-        source: wspartners.bbc.com
-        time: "12:00"
-        tag: "国际"
-        url: "https://wspartners.bbc.com/schedules/bbc_world_service_east_africa/week/2026-02-23"
-
-      - title: "美联社：新闻稿（Press Releases）聚合页"
-        summary: "美联社新闻稿/声明的汇总入口，包含企业与机构发布的信息（非传统新闻报道）。"
+        time: '12:00'
+        tag: 国际
+        url: https://www.aljazeera.com/youtube?gb=true
+      - title: （已翻译）Israel | Today's latest from Al Jazeera
+        summary: 半岛电视台栏目聚合入口，含最新动态与专题。
+        source: aljazeera.com
+        time: '12:00'
+        tag: 国际
+        url: https://www.aljazeera.com/where/israel/
+      - title: （已翻译）Flooded by cheap Chinese goods, Latin America is fighting back to ...
+        summary: 权威媒体页面。点击链接查看原文与更多细节。
         source: apnews.com
-        time: "12:00"
-        tag: "国际"
-        url: "https://apnews.com/press-releases"
-
-  - name: "🌏 亚太"
+        time: '12:00'
+        tag: 国际
+        url: https://apnews.com/article/china-latin-america-trump-trade-e78ccd51a7f66099d84fda885d2907a3
+      - title: （已翻译）Trump is meeting Latin American leaders ahead of China trip
+        summary: 权威媒体页面。点击链接查看原文与更多细节。
+        source: apnews.com
+        time: '12:00'
+        tag: 国际
+        url: https://apnews.com/article/trump-latin-america-china-venezuela-c7eda634084551716f1535a6f78496ba
+  - name: 🌏 亚太
     items:
-      - title: "海峡时报：关于2026年亚洲的10个问题（展望/解读）"
-        summary: "海峡时报就2026年亚洲地区形势提出10个关键问题，涉及中美关系、区域安全、经济与政治走向等。"
-        source: straitstimes.com
-        time: "12:00"
-        tag: "亚太"
-        url: "https://www.straitstimes.com/asia/whats-ahead-for-asia-in-2026"
-
-      - title: "日本时报获‘亚太突发新闻’奖项（新闻稿/公告）"
-        summary: "日本时报发布的奖项信息与公告页面，介绍其在相关媒体奖项中的获奖情况。"
+      - title: （已翻译）Asia Pacific - News
+        summary: 权威媒体页面。点击链接查看原文与更多细节。
         source: japantimes.co.jp
-        time: "12:00"
-        tag: "亚太"
-        url: "https://www.japantimes.co.jp/press/2026/02/09/2026-aerospace-media-asia-awards/"
-
-      - title: "日本时报：特朗普之后中国如何继续主导全球贸易"
-        summary: "日本时报分析中国在全球贸易中的布局与策略，讨论在美国政策变化背景下，中国如何强化供应链与贸易影响力。"
+        time: '12:00'
+        tag: 亚太
+        url: https://www.japantimes.co.jp/news/asia-pacific
+      - title: （已翻译）More Asia-pacific Articles - The Japan Times
+        summary: 权威媒体页面。点击链接查看原文与更多细节。
         source: japantimes.co.jp
-        time: "12:00"
-        tag: "亚太"
-        url: "https://www.japantimes.co.jp/business/2026/02/19/china-global-trade-after-trump/"
-
-      - title: "日本时报：美国对台军售获国会批准但出现延迟"
-        summary: "日本时报称，对台军售包含防空导弹等，处于推进阶段，但在执行上出现延迟；相关决定受美国国内政治与对华政策影响。"
+        time: '12:00'
+        tag: 亚太
+        url: https://www.japantimes.co.jp/morearticles/asia-pacific
+      - title: （已翻译）More Asia-pacific stories - The Japan Times
+        summary: 权威媒体页面。点击链接查看原文与更多细节。
         source: japantimes.co.jp
-        time: "12:00"
-        tag: "亚太"
-        url: "https://www.japantimes.co.jp/news/2026/02/28/asia-pacific/politics/us-taiwan-arms-sales-delayed/"
-
-      - title: "南华早报：香港、中国、亚洲及全球最新新闻（聚合页）"
-        summary: "南华早报新闻聚合入口，汇总香港及区域要闻与专题入口（部分内容可能需订阅）。"
+        time: '12:00'
+        tag: 亚太
+        url: https://www.japantimes.co.jp/morearticles/asia-pacific/o/?pgno=566
+      - title: （已翻译）Asia-Pacific | NHK WORLD-JAPAN News
+        summary: 权威媒体页面。点击链接查看原文与更多细节。
+        source: www3.nhk.or.jp
+        time: '12:00'
+        tag: 亚太
+        url: https://www3.nhk.or.jp/nhkworld/en/news/tags/14/
+      - title: （已翻译）More Asia-pacific Articles - The Japan Times
+        summary: 权威媒体页面。点击链接查看原文与更多细节。
+        source: japantimes.co.jp
+        time: '12:00'
+        tag: 亚太
+        url: https://www.japantimes.co.jp/morearticles/asia-pacific/?pgno=926
+      - title: （已翻译）Latest and Breaking News
+        summary: 权威媒体页面。点击链接查看原文与更多细节。
         source: scmp.com
-        time: "12:00"
-        tag: "亚太"
-        url: "https://www.scmp.com/news"
-
-      - title: "日本遭遇针对民调与特朗普的中国影响行动｜日本时报"
-        summary: "日本时报报道，一批账号与频道在社交平台散布特定叙事与指控，被认为与影响行动有关，涉及日本政治议题与美国政治。"
-        source: japantimes.co.jp
-        time: "12:00"
-        tag: "亚太"
-        url: "https://www.japantimes.co.jp/news/2026/02/26/world/chinese-influence-operation-target/"
-
-  - name: "🇨🇳 中国"
+        time: '12:00'
+        tag: 亚太
+        url: https://www.scmp.com/live
+      - title: （已翻译）Latest news on Hong Kong, China, Asia and the world
+        summary: 权威媒体页面。点击链接查看原文与更多细节。
+        source: scmp.com
+        time: '12:00'
+        tag: 亚太
+        url: https://www.scmp.com/news
+      - title: （已翻译）Latest Asia News & Headlines, Top Stories Today - The Straits Times
+        summary: 权威媒体页面。点击链接查看原文与更多细节。
+        source: straitstimes.com
+        time: '12:00'
+        tag: 亚太
+        url: https://www.straitstimes.com/asia
+  - name: 🇨🇳 中国
     items:
-      - title: "中国日报：2026年经济增长目标或在5%左右"
-        summary: "中国日报称，中国可能将年度经济增速目标设在约5%；消费与创新被视为2026年的关键增长引擎。"
+      - title: （已翻译）China's vision for an open world economy in a turbulent era
+        summary: 权威媒体页面。点击链接查看原文与更多细节。
+        source: english.www.gov.cn
+        time: '12:00'
+        tag: 🇨🇳 中国
+        url: https://english.www.gov.cn/news/202601/22/content_WS69718093c6d00ca5f9a08b6d.html
+      - title: （已翻译）report on the implementation of fiscal policy of china for 2020
+        summary: 权威媒体页面。点击链接查看原文与更多细节。
+        source: mof.gov.cn
+        time: '12:00'
+        tag: 🇨🇳 中国
+        url: https://www.mof.gov.cn/en/reports/202311/t20231128_3918481.htm
+      - title: （已翻译）Growth push anchors strong start of 2026 - Chinadaily.com.cn
+        summary: 权威媒体页面。点击链接查看原文与更多细节。
         source: chinadaily.com.cn
-        time: "12:00"
-        tag: "🇨🇳 中国"
-        url: "https://www.chinadaily.com.cn/a/202602/26/WS699f84eea310d6866eb3a41c.html"
-
-      - title: "上海周报（2026年1月，第127期第2号）｜上海市政府英文站"
-        summary: "上海市政府英文站发布的周报条目，汇总近期政策与产业动态、园区与部门信息等。"
-        source: wsb.sh.gov.cn
-        time: "12:00"
-        tag: "🇨🇳 中国"
-        url: "https://wsb.sh.gov.cn/ztzl/shzxzb/20260114/ca34166ea80a439690aec38c18e74428.html"
-
-      - title: "中国日报：最新新闻汇总（聚合页）"
-        summary: "中国日报最新新闻入口，汇总多条国内外要闻与专题链接。"
-        source: chinadaily.com.cn
-        time: "12:00"
-        tag: "🇨🇳 中国"
-        url: "https://www.chinadaily.com.cn/latestnews210"
-
-      - title: "上海发布：2025年全国经济运行情况（上海周报条目）"
-        summary: "上海市政府英文站周报条目，涉及2025年经济运行数据与相关政策解读，并包含产业与中小企业扶持等信息。"
-        source: english.shanghai.gov.cn
-        time: "12:00"
-        tag: "🇨🇳 中国"
-        url: "https://english.shanghai.gov.cn/en-ShanghaiWeeklyBulletin/20260128/00f3ff7c9d704660b80b78c4878dc2bc.html"
+        time: '12:00'
+        tag: 🇨🇳 中国
+        url: https://www.chinadaily.com.cn/a/202603/02/WS69a4e38ca310d6866eb3b05c.html
