@@ -1,6 +1,7 @@
 sections:
   - name: 🔥 头条
     items:
+<<<<<<< HEAD
       - title: 思维的8层境界 90%的人只到第4层！(图)
         summary: 人和人最大的不同是思維境界的不同。絕大多數人都是泛泛之輩、芸芸眾生，他們思維都是雜亂無章，看山是山，看水是水。思維是有境界，有層次的。每一個成功的人，優秀的人他們都有著更高的思維層次。
         source: "看中國 http://www.secretchina.com"
@@ -156,3 +157,169 @@ sections:
         time: "07:45"
         tag: 其他
         url: "https://www.secretchina.com/news/gb/2026/03/02/1095759.html"
+=======
+      - type: alert
+        level: info
+        title: 昨日重点新闻速递（2026-03-04）/今日自动整理
+        summary: 基于 RSS 近24小时更新自动抓取，已做主题去重与中文化整理；同一事件多来源仅保留信息量更高者。
+        time: "07:00"
+
+      - title: "中东冲突持续升级：美方称潜艇击沉伊朗军舰，地区外溢风险上升"
+        summary: "多家媒体显示，美伊冲突继续扩散，海上与空袭行动交织，能源与航运风险被进一步放大。欧美多国同步调整撤离与军事部署，市场对局势长期化保持警惕。"
+        source: "BBC News"
+        time: "08:05"
+        tag: "中东"
+        url: https://www.bbc.com/news/articles/c0e55g03v2zo?at_medium=RSS&at_campaign=rss
+
+  - name: 🌍 国际
+    items:
+      - title: "美国参议院未能通过限制总统对伊朗动武权限的议案"
+        summary: "参议院相关表决未获通过，显示美国国内在战争授权问题上分歧仍大。后续国会与白宫围绕军事行动边界的博弈预计继续。"
+        source: "BBC News"
+        time: "07:42"
+        tag: "美国政治"
+        url: https://www.bbc.com/news/articles/c5yjj28jjd0o?at_medium=RSS&at_campaign=rss
+
+      - title: "古巴大范围停电：燃料危机加剧，数百万人受影响"
+        summary: "报道指出古巴出现大规模电力中断，能源短缺与燃料供应问题持续恶化。停电对民生、医疗与交通体系造成连锁冲击。"
+        source: "BBC News"
+        time: "06:46"
+        tag: "拉美"
+        url: https://www.bbc.com/news/articles/cx2ggpq1742o?at_medium=RSS&at_campaign=rss
+
+      - title: "俄罗斯称地中海油气船遇袭沉没，乌方相关指控升级"
+        summary: "俄方将油气船沉没归咎于乌方海上无人系统攻击，乌克兰相关战场外延继续扩大。事件令地中海航运安全再受关注。"
+        source: "BBC News"
+        time: "02:14"
+        tag: "俄乌"
+        url: https://www.bbc.com/news/articles/cr5ll27z52do?at_medium=RSS&at_campaign=rss
+
+      - title: "西班牙回应美国贸易施压：首相公开表态“反对战争”"
+        summary: "在中东冲突背景下，西班牙与美国在安全与贸易议题上的分歧被放大。西班牙政府强调反战立场并寻求避免全面贸易对抗。"
+        source: "BBC News"
+        time: "04:42"
+        tag: "欧洲"
+        url: https://www.bbc.com/news/articles/c93wwq1n542o?at_medium=RSS&at_campaign=rss
+
+      - title: "英国启动中东撤离航班，后续班次仍在规划中"
+        summary: "英国政府已安排首批撤离航班离开中东，并表示将视安全形势继续追加运力。多国领事撤离与应急保护同步推进。"
+        source: "BBC News"
+        time: "06:21"
+        tag: "领事安全"
+        url: https://www.bbc.com/news/articles/cy4wwd2jlypo?at_medium=RSS&at_campaign=rss
+
+      - title: "加拿大总理卡尼提议与澳大利亚深化战略协作"
+        summary: "卡尼提出以“战略近亲”方式强化加澳合作，重点涉及供应链韧性与对外安全协同。此举被视为中等强国抱团应对地缘压力的延续。"
+        source: "The Guardian"
+        time: "07:30"
+        tag: "外交"
+        url: https://www.theguardian.com/world/2026/mar/05/canadian-pm-mark-carney-offers-to-team-up-with-australia-as-strategic-cousins-to-push-back-against-dominant-superpowers
+
+  - name: 💻 科技
+    items:
+      - title: "OpenAI负责人称无法完全控制五角大楼对AI的具体使用"
+        summary: "Sam Altman 公开表示，企业与政府合作后对下游军事化应用的可控性有限。这一表态再次触发外界对AI治理边界与责任归属的讨论。"
+        source: "The Guardian"
+        time: "06:55"
+        tag: "AI治理"
+        url: https://www.theguardian.com/technology/2026/mar/04/sam-altman-openai-pentagon
+
+      - title: "美国科技公司承诺分担数据中心新增能源成本"
+        summary: "多家科技企业在白宫框架下承诺承担部分电力与基础设施成本，以缓解AI算力扩张带来的公共能源压力。政策与产业协同模式正在成形。"
+        source: "The Guardian"
+        time: "07:40"
+        tag: "算力"
+        url: https://www.theguardian.com/us-news/2026/mar/04/us-tech-companies-energy-cost-pledge-white-house
+
+      - title: "Google因Gemini聊天机器人安全争议遭诉"
+        summary: "诉讼焦点指向生成式AI在高风险心理场景中的提示责任与防护机制。案件可能影响后续平台内容安全标准和产品上线审查。"
+        source: "The Guardian"
+        time: "22:20"
+        tag: "平台责任"
+        url: https://www.theguardian.com/technology/2026/mar/04/gemini-chatbot-google-jonathan-gavalas
+
+      - title: "英国监管机构就Meta相关AI眼镜隐私问题介入"
+        summary: "BBC 报道称，监管方已联系 Meta，关注人工审核与隐私暴露风险。可穿戴AI设备的数据治理与合规要求进一步收紧。"
+        source: "BBC News"
+        time: "00:23"
+        tag: "隐私"
+        url: https://www.bbc.com/news/articles/c0q33nvj0qpo?at_medium=RSS&at_campaign=rss
+
+      - title: "TikTok称不会在私信全面启用争议性隐私技术"
+        summary: "平台表示相关方案可能引入新的用户风险，因此暂不推进。该决定反映社交平台在隐私增强与安全执法之间的现实权衡。"
+        source: "BBC News"
+        time: "08:34"
+        tag: "社交平台"
+        url: https://www.bbc.com/news/articles/cly2m5e5ke4o?at_medium=RSS&at_campaign=rss
+
+  - name: 🔬 科学
+    items:
+      - title: "NASA与美国人事管理局启动联合招聘计划，扩充航天人才储备"
+        summary: "NASA宣布与 OPM 发起招聘机制，目标是加速关键岗位补位。该计划将服务后续深空任务、工程研发与项目管理能力建设。"
+        source: "NASA"
+        time: "00:17"
+        tag: "航天"
+        url: https://www.nasa.gov/news-release/nasa-opm-launch-nasa-force-to-recruit-top-talent-for-us-space-program/
+
+      - title: "美法卫星发布全球河流水量观测新进展"
+        summary: "NASA披露，美法合作卫星项目正提升全球河流水资源监测精度。相关数据将用于洪旱预警、流域管理与气候适应政策。"
+        source: "NASA"
+        time: "00:12"
+        tag: "地球观测"
+        url: https://www.nasa.gov/earth/us-french-satellite-takes-stock-of-worlds-river-water/
+
+      - title: "世卫组织确认智利消除麻风病公共卫生问题里程碑"
+        summary: "WHO宣布智利成为美洲首个通过该项认证的国家。公共卫生专家认为，此举对区域防控策略与基层筛查体系具有示范意义。"
+        source: "WHO"
+        time: "22:57"
+        tag: "公共卫生"
+        url: https://www.who.int/news/item/04-03-2026-chile-becomes-the-first-country-in-the-americas-to-be-verified-by-who-for-the-elimination-of-leprosy
+
+      - title: "研究称妊娠期脑结构会出现可测变化，与母婴适应相关"
+        summary: "BBC 报道援引研究指出，妊娠期部分脑区灰质变化可能与照护行为准备相关。科研团队强调该变化并非“能力下降”，而是功能重塑。"
+        source: "BBC News"
+        time: "15:05"
+        tag: "医学"
+        url: https://www.bbc.com/news/articles/cy0d59e7wjlo?at_medium=RSS&at_campaign=rss
+
+  - name: 💰 财经
+    items:
+      - type: stats
+        title: 风险资产与政策关注点（近24小时）
+        metrics:
+          - label: 油价波动主题
+            value: "中东冲突驱动"
+          - label: 贸易政策预期
+            value: "美国或上调关税"
+          - label: 数据中心能源成本
+            value: "科技企业承诺分担"
+
+      - title: "美国财政部称本周或宣布更高关税，市场避险情绪升温"
+        summary: "关税预期强化后，跨境供应链与输入型通胀再受关注。市场正在评估贸易政策升级对企业利润与消费的传导影响。"
+        source: "BBC News"
+        time: "06:11"
+        tag: "贸易"
+        url: https://www.bbc.com/news/articles/cjwzzq70qgvo?at_medium=RSS&at_campaign=rss
+
+      - title: "油价与股市在地缘风险下维持高波动"
+        summary: "报道指出，投资者对中东冲突持续时间和外溢路径仍缺乏确定性。能源、航运与防务板块成为短期交易焦点。"
+        source: "BBC News"
+        time: "03:00"
+        tag: "市场"
+        url: https://www.bbc.com/news/articles/cwy884ekn0jo?at_medium=RSS&at_campaign=rss
+
+      - title: "英国舆论关注冲突推高家庭能源账单风险"
+        summary: "多家媒体测算，若天然气价格维持高位，英国居民能源开支可能明显上升。政策层面面临“抑制成本”与“财政承压”的双重挑战。"
+        source: "The Guardian"
+        time: "01:46"
+        tag: "民生成本"
+        url: https://www.theguardian.com/money/2026/mar/04/iran-conflict-energy-bills-gas-prices
+
+      - type: list
+        title: 其他简讯
+        source: "UN News / BBC News"
+        points:
+          - "联合国通报阿富汗-巴基斯坦边境冲突与伊朗抗议者处境，呼吁遵守人权与降温。"
+          - "美国与厄瓜多尔启动联合打击贩毒行动，拉美安全合作加码。"
+          - "中国两会进入关键议程期，外界关注经济与产业政策信号。"
+>>>>>>> 09f14a0 (chore: daily news 2026-03-05)
